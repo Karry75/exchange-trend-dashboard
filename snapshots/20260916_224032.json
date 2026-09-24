@@ -1,0 +1,10269 @@
+{
+ "overview": {
+  "kpis": {
+   "total_cabinets": 6260,
+   "cabinets_online": 3983,
+   "online_rate": 96.4,
+   "total_batteries": 37500,
+   "battery_per_cabinet": 6.0,
+   "warehouse_ratio": 34.3,
+   "total_users": 48600,
+   "active_users": 31200,
+   "month_new_users": 2140,
+   "month_churn_rate": 3.2,
+   "month_revenue": 1865000,
+   "month_cost": 1321000,
+   "month_profit": 544000,
+   "gross_margin": 29.2,
+   "month_orders": 918000,
+   "daily_orders_per_cabinet": 7.7,
+   "arpu": 59.8,
+   "ltv": 1860,
+   "cac": 86,
+   "breakeven_ratio": 68.5,
+   "advance_balance": 2450000,
+   "refund_rate": 1.8,
+   "bad_debt_rate": 0.6
+  },
+  "revenue_trend": [
+   {
+    "month": "2025-10",
+    "revenue": 1420000,
+    "cost": 1080000
+   },
+   {
+    "month": "2025-11",
+    "revenue": 1458000,
+    "cost": 1105000
+   },
+   {
+    "month": "2025-12",
+    "revenue": 1512000,
+    "cost": 1130000
+   },
+   {
+    "month": "2026-01",
+    "revenue": 1480000,
+    "cost": 1150000
+   },
+   {
+    "month": "2026-02",
+    "revenue": 1395000,
+    "cost": 1095000
+   },
+   {
+    "month": "2026-03",
+    "revenue": 1560000,
+    "cost": 1180000
+   },
+   {
+    "month": "2026-04",
+    "revenue": 1625000,
+    "cost": 1210000
+   },
+   {
+    "month": "2026-05",
+    "revenue": 1688000,
+    "cost": 1245000
+   },
+   {
+    "month": "2026-06",
+    "revenue": 1710000,
+    "cost": 1265000
+   },
+   {
+    "month": "2026-07",
+    "revenue": 1768000,
+    "cost": 1290000
+   },
+   {
+    "month": "2026-08",
+    "revenue": 1820000,
+    "cost": 1308000
+   },
+   {
+    "month": "2026-09",
+    "revenue": 1865000,
+    "cost": 1321000
+   }
+  ],
+  "order_trend": [
+   {
+    "month": "2025-10",
+    "orders": 706000
+   },
+   {
+    "month": "2025-11",
+    "orders": 721000
+   },
+   {
+    "month": "2025-12",
+    "orders": 749000
+   },
+   {
+    "month": "2026-01",
+    "orders": 733000
+   },
+   {
+    "month": "2026-02",
+    "orders": 688000
+   },
+   {
+    "month": "2026-03",
+    "orders": 772000
+   },
+   {
+    "month": "2026-04",
+    "orders": 805000
+   },
+   {
+    "month": "2026-05",
+    "orders": 836000
+   },
+   {
+    "month": "2026-06",
+    "orders": 849000
+   },
+   {
+    "month": "2026-07",
+    "orders": 873000
+   },
+   {
+    "month": "2026-08",
+    "orders": 896000
+   },
+   {
+    "month": "2026-09",
+    "orders": 918000
+   }
+  ],
+  "city_distribution": [
+   {
+    "name": "深圳",
+    "value": 2379
+   },
+   {
+    "name": "杭州",
+    "value": 1502
+   },
+   {
+    "name": "阳朔",
+    "value": 751
+   },
+   {
+    "name": "广州",
+    "value": 1002
+   },
+   {
+    "name": "东莞",
+    "value": 626
+   }
+  ],
+  "device_type_ratio": [
+   {
+    "name": "换电柜-水消防",
+    "value": 4100
+   },
+   {
+    "name": "换电柜-气溶胶",
+    "value": 2160
+   },
+   {
+    "name": "电池-4824",
+    "value": 24800
+   },
+   {
+    "name": "电池-4814",
+    "value": 12657
+   },
+   {
+    "name": "电池-钠电",
+    "value": 43
+   }
+  ],
+  "user_city_ratio": [
+   {
+    "name": "深圳",
+    "value": 18468
+   },
+   {
+    "name": "杭州",
+    "value": 11664
+   },
+   {
+    "name": "阳朔",
+    "value": 5832
+   },
+   {
+    "name": "广州",
+    "value": 7776
+   },
+   {
+    "name": "东莞",
+    "value": 4860
+   }
+  ]
+ },
+ "assets": {
+  "device_type_ratio": [
+   {
+    "name": "换电柜-水消防",
+    "value": 4100
+   },
+   {
+    "name": "换电柜-气溶胶",
+    "value": 2160
+   },
+   {
+    "name": "电池-4824",
+    "value": 24800
+   },
+   {
+    "name": "电池-4814",
+    "value": 12657
+   },
+   {
+    "name": "电池-钠电",
+    "value": 43
+   }
+  ],
+  "cabinet_slot_ratio": [
+   {
+    "name": "12口柜",
+    "value": 9
+   },
+   {
+    "name": "6口柜",
+    "value": 2850
+   },
+   {
+    "name": "4口柜",
+    "value": 2210
+   },
+   {
+    "name": "3口柜",
+    "value": 1191
+   }
+  ],
+  "city_devices": [
+   {
+    "name": "深圳",
+    "value": 2379
+   },
+   {
+    "name": "杭州",
+    "value": 1502
+   },
+   {
+    "name": "阳朔",
+    "value": 751
+   },
+   {
+    "name": "广州",
+    "value": 1002
+   },
+   {
+    "name": "东莞",
+    "value": 626
+   }
+  ],
+  "delivery_funnel": [
+   {
+    "stage": "已采购",
+    "value": 6800
+   },
+   {
+    "stage": "已交付",
+    "value": 6510
+   },
+   {
+    "stage": "已安装",
+    "value": 6340
+   },
+   {
+    "stage": "已上线",
+    "value": 6110
+   },
+   {
+    "stage": "在线运营",
+    "value": 5980
+   }
+  ],
+  "online_rate_trend": [
+   {
+    "month": "2025-10",
+    "online_rate": 96.0,
+    "online_cabinets": 5759
+   },
+   {
+    "month": "2025-11",
+    "online_rate": 96.0,
+    "online_cabinets": 5784
+   },
+   {
+    "month": "2025-12",
+    "online_rate": 97.0,
+    "online_cabinets": 5809
+   },
+   {
+    "month": "2026-01",
+    "online_rate": 96.7,
+    "online_cabinets": 5834
+   },
+   {
+    "month": "2026-02",
+    "online_rate": 93.9,
+    "online_cabinets": 5859
+   },
+   {
+    "month": "2026-03",
+    "online_rate": 95.4,
+    "online_cabinets": 5884
+   },
+   {
+    "month": "2026-04",
+    "online_rate": 96.7,
+    "online_cabinets": 5909
+   },
+   {
+    "month": "2026-05",
+    "online_rate": 95.7,
+    "online_cabinets": 5934
+   },
+   {
+    "month": "2026-06",
+    "online_rate": 95.9,
+    "online_cabinets": 5959
+   },
+   {
+    "month": "2026-07",
+    "online_rate": 95.7,
+    "online_cabinets": 5984
+   },
+   {
+    "month": "2026-08",
+    "online_rate": 96.2,
+    "online_cabinets": 6009
+   },
+   {
+    "month": "2026-09",
+    "online_rate": 95.8,
+    "online_cabinets": 6034
+   }
+  ],
+  "age_structure": [
+   {
+    "name": "1年以内",
+    "value": 2310
+   },
+   {
+    "name": "1-2年",
+    "value": 1960
+   },
+   {
+    "name": "2-3年",
+    "value": 1320
+   },
+   {
+    "name": "3年以上",
+    "value": 670
+   }
+  ],
+  "soh_distribution": [
+   {
+    "name": "SOH≥90%",
+    "value": 24100
+   },
+   {
+    "name": "SOH 80-90%",
+    "value": 8950
+   },
+   {
+    "name": "SOH 70-80%",
+    "value": 3300
+   },
+   {
+    "name": "SOH<70%",
+    "value": 1150
+   }
+  ],
+  "cycle_distribution": [
+   {
+    "name": "≤300次",
+    "value": 14800
+   },
+   {
+    "name": "300-600次",
+    "value": 12100
+   },
+   {
+    "name": "600-900次",
+    "value": 7600
+   },
+   {
+    "name": ">900次",
+    "value": 3000
+   }
+  ],
+  "battery_ratio": {
+   "battery_per_cabinet": 6.0,
+   "warehouse_cabinets": 2147,
+   "warehouse_ratio": 34.300000000000004,
+   "avg_age_years": 1.4,
+   "design_life_years": 5,
+   "avg_battery_life_years": 2.0
+  },
+  "payback_period": [
+   {
+    "city": "深圳",
+    "value": 16.2
+   },
+   {
+    "city": "杭州",
+    "value": 18.5
+   },
+   {
+    "city": "广州",
+    "value": 19.8
+   },
+   {
+    "city": "东莞",
+    "value": 21.3
+   },
+   {
+    "city": "阳朔",
+    "value": 24.6
+   }
+  ],
+  "brand_ratio": [
+   {
+    "name": "品牌A",
+    "value": 42
+   },
+   {
+    "name": "品牌B",
+    "value": 31
+   },
+   {
+    "name": "品牌C",
+    "value": 18
+   },
+   {
+    "name": "品牌D",
+    "value": 9
+   }
+  ],
+  "purchase_price_trend": [
+   {
+    "month": "2025-03",
+    "cabinet": 24800,
+    "battery": 1380
+   },
+   {
+    "month": "2025-06",
+    "cabinet": 24100,
+    "battery": 1340
+   },
+   {
+    "month": "2025-09",
+    "cabinet": 23500,
+    "battery": 1300
+   },
+   {
+    "month": "2025-12",
+    "cabinet": 22900,
+    "battery": 1265
+   },
+   {
+    "month": "2026-03",
+    "cabinet": 22400,
+    "battery": 1230
+   },
+   {
+    "month": "2026-06",
+    "cabinet": 21900,
+    "battery": 1200
+   },
+   {
+    "month": "2026-09",
+    "cabinet": 21500,
+    "battery": 1175
+   }
+  ]
+ },
+ "users": {
+  "user_trend": [
+   {
+    "month": "2025-10",
+    "total": 37780
+   },
+   {
+    "month": "2025-11",
+    "total": 39650
+   },
+   {
+    "month": "2025-12",
+    "total": 41610
+   },
+   {
+    "month": "2026-01",
+    "total": 43660
+   },
+   {
+    "month": "2026-02",
+    "total": 45800
+   },
+   {
+    "month": "2026-03",
+    "total": 48030
+   },
+   {
+    "month": "2026-04",
+    "total": 50350
+   },
+   {
+    "month": "2026-05",
+    "total": 52760
+   },
+   {
+    "month": "2026-06",
+    "total": 55260
+   },
+   {
+    "month": "2026-07",
+    "total": 57850
+   },
+   {
+    "month": "2026-08",
+    "total": 60530
+   },
+   {
+    "month": "2026-09",
+    "total": 63300
+   }
+  ],
+  "new_user_trend": [
+   {
+    "month": "2025-10",
+    "new": 1780,
+    "churn": 540
+   },
+   {
+    "month": "2025-11",
+    "new": 1870,
+    "churn": 570
+   },
+   {
+    "month": "2025-12",
+    "new": 1960,
+    "churn": 600
+   },
+   {
+    "month": "2026-01",
+    "new": 2050,
+    "churn": 630
+   },
+   {
+    "month": "2026-02",
+    "new": 2140,
+    "churn": 660
+   },
+   {
+    "month": "2026-03",
+    "new": 2230,
+    "churn": 690
+   },
+   {
+    "month": "2026-04",
+    "new": 2320,
+    "churn": 720
+   },
+   {
+    "month": "2026-05",
+    "new": 2410,
+    "churn": 750
+   },
+   {
+    "month": "2026-06",
+    "new": 2500,
+    "churn": 780
+   },
+   {
+    "month": "2026-07",
+    "new": 2590,
+    "churn": 810
+   },
+   {
+    "month": "2026-08",
+    "new": 2680,
+    "churn": 840
+   },
+   {
+    "month": "2026-09",
+    "new": 2770,
+    "churn": 870
+   }
+  ],
+  "package_structure": [
+   {
+    "name": "月租套餐",
+    "value": 14200
+   },
+   {
+    "name": "季租套餐",
+    "value": 9800
+   },
+   {
+    "name": "半年套餐",
+    "value": 8100
+   },
+   {
+    "name": "1年套餐",
+    "value": 12100
+   },
+   {
+    "name": "3年及以上",
+    "value": 4400
+   }
+  ],
+  "package_revenue": [
+   {
+    "name": "月租套餐",
+    "value": 26.5
+   },
+   {
+    "name": "季租套餐",
+    "value": 23.8
+   },
+   {
+    "name": "半年套餐",
+    "value": 21.2
+   },
+   {
+    "name": "1年套餐",
+    "value": 24.1
+   },
+   {
+    "name": "3年及以上",
+    "value": 4.4
+   }
+  ],
+  "package_detail": [
+   {
+    "name": "月租套餐",
+    "users": 14200,
+    "price": 99,
+    "revenue_ratio": 26.5,
+    "renew_rate": 62.0,
+    "churn_rate": 5.8,
+    "monthly_exchanges": 28,
+    "designed_exchanges": 30
+   },
+   {
+    "name": "季租套餐",
+    "users": 9800,
+    "price": 279,
+    "revenue_ratio": 23.8,
+    "renew_rate": 71.5,
+    "churn_rate": 3.6,
+    "monthly_exchanges": 31,
+    "designed_exchanges": 30
+   },
+   {
+    "name": "半年套餐",
+    "users": 8100,
+    "price": 528,
+    "revenue_ratio": 21.2,
+    "renew_rate": 78.2,
+    "churn_rate": 2.2,
+    "monthly_exchanges": 33,
+    "designed_exchanges": 32
+   },
+   {
+    "name": "1年套餐",
+    "users": 12100,
+    "price": 968,
+    "revenue_ratio": 24.1,
+    "renew_rate": 83.6,
+    "churn_rate": 1.1,
+    "monthly_exchanges": 34,
+    "designed_exchanges": 32
+   },
+   {
+    "name": "3年及以上",
+    "users": 4400,
+    "price": 2680,
+    "revenue_ratio": 4.4,
+    "renew_rate": 91.8,
+    "churn_rate": 0.3,
+    "monthly_exchanges": 36,
+    "designed_exchanges": 35
+   }
+  ],
+  "kpis": {
+   "total_users": 48600,
+   "active_users": 31200,
+   "month_new": 2140,
+   "paid_conversion": 68.2,
+   "month_active_rate": 64.2,
+   "renew_rate": 74.8,
+   "churn_rate": 3.2,
+   "ltv": 1860,
+   "cac": 86,
+   "cac_ltv": 0.046,
+   "long_term_ratio": 9.1,
+   "avg_monthly_exchanges": 31.5
+  },
+  "lifecycle_funnel": [
+   {
+    "stage": "注册用户",
+    "value": 71300
+   },
+   {
+    "stage": "已激活套餐",
+    "value": 48600
+   },
+   {
+    "stage": "完成首换",
+    "value": 42100
+   },
+   {
+    "stage": "月度活跃",
+    "value": 31200
+   },
+   {
+    "stage": "近90天续费",
+    "value": 23400
+   }
+  ],
+  "usage_intensity": [
+   {
+    "name": "月租套餐",
+    "users": 14200,
+    "price": 99,
+    "revenue_ratio": 26.5,
+    "renew_rate": 62.0,
+    "churn_rate": 5.8,
+    "monthly_exchanges": 28,
+    "designed_exchanges": 30
+   },
+   {
+    "name": "季租套餐",
+    "users": 9800,
+    "price": 279,
+    "revenue_ratio": 23.8,
+    "renew_rate": 71.5,
+    "churn_rate": 3.6,
+    "monthly_exchanges": 31,
+    "designed_exchanges": 30
+   },
+   {
+    "name": "半年套餐",
+    "users": 8100,
+    "price": 528,
+    "revenue_ratio": 21.2,
+    "renew_rate": 78.2,
+    "churn_rate": 2.2,
+    "monthly_exchanges": 33,
+    "designed_exchanges": 32
+   },
+   {
+    "name": "1年套餐",
+    "users": 12100,
+    "price": 968,
+    "revenue_ratio": 24.1,
+    "renew_rate": 83.6,
+    "churn_rate": 1.1,
+    "monthly_exchanges": 34,
+    "designed_exchanges": 32
+   },
+   {
+    "name": "3年及以上",
+    "users": 4400,
+    "price": 2680,
+    "revenue_ratio": 4.4,
+    "renew_rate": 91.8,
+    "churn_rate": 0.3,
+    "monthly_exchanges": 36,
+    "designed_exchanges": 35
+   }
+  ],
+  "frequency_tier": [
+   {
+    "name": "高频(>4次/日)",
+    "value": 11.4
+   },
+   {
+    "name": "中频(2-4次/日)",
+    "value": 52.8
+   },
+   {
+    "name": "低频(<2次/日)",
+    "value": 35.8
+   }
+  ],
+  "usage_decay_ratio": 6.8,
+  "first_exchange_hours": [
+   {
+    "name": "<1h",
+    "value": 18
+   },
+   {
+    "name": "1-6h",
+    "value": 27
+   },
+   {
+    "name": "6-24h",
+    "value": 31
+   },
+   {
+    "name": "1-3天",
+    "value": 16
+   },
+   {
+    "name": ">3天",
+    "value": 8
+   }
+  ]
+ },
+ "operations": {
+  "kpis": {
+   "month_orders": 918000,
+   "daily_orders": 30600,
+   "daily_orders_per_cabinet": 5.1,
+   "cabinet_fault_rate": 0.42,
+   "battery_fault_rate": 1.15,
+   "downtime_rate": 1.6,
+   "mttr_hours": 1.8,
+   "exchange_fail_rate": 2.1,
+   "avg_wait_min": 1.5,
+   "long_offline_ratio": 2.4,
+   "low_efficiency_ratio": 12.6,
+   "zombie_ratio": 4.2
+  },
+  "order_month_trend": [
+   {
+    "month": "2025-10",
+    "orders": 706000
+   },
+   {
+    "month": "2025-11",
+    "orders": 721000
+   },
+   {
+    "month": "2025-12",
+    "orders": 749000
+   },
+   {
+    "month": "2026-01",
+    "orders": 733000
+   },
+   {
+    "month": "2026-02",
+    "orders": 688000
+   },
+   {
+    "month": "2026-03",
+    "orders": 772000
+   },
+   {
+    "month": "2026-04",
+    "orders": 805000
+   },
+   {
+    "month": "2026-05",
+    "orders": 836000
+   },
+   {
+    "month": "2026-06",
+    "orders": 849000
+   },
+   {
+    "month": "2026-07",
+    "orders": 873000
+   },
+   {
+    "month": "2026-08",
+    "orders": 896000
+   },
+   {
+    "month": "2026-09",
+    "orders": 918000
+   }
+  ],
+  "daily_order_trend": [
+   {
+    "date": 1,
+    "orders": 29142
+   },
+   {
+    "date": 2,
+    "orders": 29473
+   },
+   {
+    "date": 3,
+    "orders": 29932
+   },
+   {
+    "date": 4,
+    "orders": 30621
+   },
+   {
+    "date": 5,
+    "orders": 30941
+   },
+   {
+    "date": 6,
+    "orders": 30747
+   },
+   {
+    "date": 7,
+    "orders": 30491
+   },
+   {
+    "date": 8,
+    "orders": 30094
+   },
+   {
+    "date": 9,
+    "orders": 29417
+   },
+   {
+    "date": 10,
+    "orders": 29430
+   },
+   {
+    "date": 11,
+    "orders": 29364
+   },
+   {
+    "date": 12,
+    "orders": 28165
+   },
+   {
+    "date": 13,
+    "orders": 28104
+   },
+   {
+    "date": 14,
+    "orders": 27905
+   },
+   {
+    "date": 15,
+    "orders": 27759
+   },
+   {
+    "date": 16,
+    "orders": 27891
+   },
+   {
+    "date": 17,
+    "orders": 27391
+   },
+   {
+    "date": 18,
+    "orders": 26982
+   },
+   {
+    "date": 19,
+    "orders": 27283
+   },
+   {
+    "date": 20,
+    "orders": 27596
+   },
+   {
+    "date": 21,
+    "orders": 27982
+   },
+   {
+    "date": 22,
+    "orders": 28793
+   },
+   {
+    "date": 23,
+    "orders": 29992
+   },
+   {
+    "date": 24,
+    "orders": 29580
+   },
+   {
+    "date": 25,
+    "orders": 30695
+   },
+   {
+    "date": 26,
+    "orders": 31055
+   },
+   {
+    "date": 27,
+    "orders": 30520
+   },
+   {
+    "date": 28,
+    "orders": 30687
+   },
+   {
+    "date": 29,
+    "orders": 30695
+   },
+   {
+    "date": 30,
+    "orders": 30340
+   }
+  ],
+  "per_cabinet_dist": [
+   {
+    "name": "<2单",
+    "value": 14
+   },
+   {
+    "name": "2-4单",
+    "value": 32
+   },
+   {
+    "name": "4-6单",
+    "value": 28
+   },
+   {
+    "name": "6-8单",
+    "value": 16
+   },
+   {
+    "name": ">8单",
+    "value": 10
+   }
+  ],
+  "hourly_distribution": [
+   {
+    "hour": 0,
+    "ratio": 2.8
+   },
+   {
+    "hour": 1,
+    "ratio": 2.8
+   },
+   {
+    "hour": 2,
+    "ratio": 2.9
+   },
+   {
+    "hour": 3,
+    "ratio": 3.0
+   },
+   {
+    "hour": 4,
+    "ratio": 3.4
+   },
+   {
+    "hour": 5,
+    "ratio": 4.1
+   },
+   {
+    "hour": 6,
+    "ratio": 8.0
+   },
+   {
+    "hour": 7,
+    "ratio": 9.1
+   },
+   {
+    "hour": 8,
+    "ratio": 9.7
+   },
+   {
+    "hour": 9,
+    "ratio": 9.4
+   },
+   {
+    "hour": 10,
+    "ratio": 8.4
+   },
+   {
+    "hour": 11,
+    "ratio": 7.3
+   },
+   {
+    "hour": 12,
+    "ratio": 6.5
+   },
+   {
+    "hour": 13,
+    "ratio": 6.1
+   },
+   {
+    "hour": 14,
+    "ratio": 6.3
+   },
+   {
+    "hour": 15,
+    "ratio": 6.9
+   },
+   {
+    "hour": 16,
+    "ratio": 7.8
+   },
+   {
+    "hour": 17,
+    "ratio": 8.7
+   },
+   {
+    "hour": 18,
+    "ratio": 9.2
+   },
+   {
+    "hour": 19,
+    "ratio": 9.2
+   },
+   {
+    "hour": 20,
+    "ratio": 8.7
+   },
+   {
+    "hour": 21,
+    "ratio": 7.8
+   },
+   {
+    "hour": 22,
+    "ratio": 6.9
+   },
+   {
+    "hour": 23,
+    "ratio": 6.2
+   }
+  ],
+  "exchange_cycle": [
+   {
+    "name": "<1天",
+    "value": 22
+   },
+   {
+    "name": "1-2天",
+    "value": 38
+   },
+   {
+    "name": "2-3天",
+    "value": 24
+   },
+   {
+    "name": "3-5天",
+    "value": 12
+   },
+   {
+    "name": ">5天",
+    "value": 4
+   }
+  ],
+  "fault_types": [
+   {
+    "name": "柜门故障",
+    "value": 22
+   },
+   {
+    "name": "充电模块",
+    "value": 18
+   },
+   {
+    "name": "通信异常",
+    "value": 15
+   },
+   {
+    "name": "消防误报",
+    "value": 12
+   },
+   {
+    "name": "屏幕故障",
+    "value": 9
+   },
+   {
+    "name": "供电异常",
+    "value": 8
+   },
+   {
+    "name": "BMS故障",
+    "value": 10
+   },
+   {
+    "name": "其他",
+    "value": 6
+   }
+  ],
+  "online_rate_month": [
+   {
+    "month": "2026-04",
+    "value": 96.8
+   },
+   {
+    "month": "2026-05",
+    "value": 97.1
+   },
+   {
+    "month": "2026-06",
+    "value": 96.5
+   },
+   {
+    "month": "2026-07",
+    "value": 96.2
+   },
+   {
+    "month": "2026-08",
+    "value": 96.6
+   },
+   {
+    "month": "2026-09",
+    "value": 96.4
+   }
+  ],
+  "peak_fail_rate": 3.4
+ },
+ "sites": {
+  "scene_distribution": [
+   {
+    "name": "社区/物业",
+    "value": 2050
+   },
+   {
+    "name": "车行门店",
+    "value": 1420
+   },
+   {
+    "name": "园区",
+    "value": 860
+   },
+   {
+    "name": "学校周边",
+    "value": 690
+   },
+   {
+    "name": "商场周边",
+    "value": 540
+   },
+   {
+    "name": "写字楼",
+    "value": 380
+   },
+   {
+    "name": "交通枢纽",
+    "value": 210
+   },
+   {
+    "name": "其他",
+    "value": 110
+   }
+  ],
+  "scene_detail": [
+   {
+    "name": "社区/物业",
+    "devices": 2050,
+    "daily_orders": 5.8,
+    "revenue_ratio": 27.4,
+    "breakeven": 82
+   },
+   {
+    "name": "车行门店",
+    "devices": 1420,
+    "daily_orders": 6.2,
+    "revenue_ratio": 24.1,
+    "breakeven": 78
+   },
+   {
+    "name": "园区",
+    "devices": 860,
+    "daily_orders": 4.6,
+    "revenue_ratio": 13.8,
+    "breakeven": 71
+   },
+   {
+    "name": "学校周边",
+    "devices": 690,
+    "daily_orders": 4.1,
+    "revenue_ratio": 10.2,
+    "breakeven": 66
+   },
+   {
+    "name": "商场周边",
+    "devices": 540,
+    "daily_orders": 5.0,
+    "revenue_ratio": 9.6,
+    "breakeven": 73
+   },
+   {
+    "name": "写字楼",
+    "devices": 380,
+    "daily_orders": 3.8,
+    "revenue_ratio": 5.8,
+    "breakeven": 58
+   },
+   {
+    "name": "交通枢纽",
+    "devices": 210,
+    "daily_orders": 6.8,
+    "revenue_ratio": 4.6,
+    "breakeven": 88
+   },
+   {
+    "name": "其他",
+    "devices": 110,
+    "daily_orders": 3.2,
+    "revenue_ratio": 4.5,
+    "breakeven": 52
+   }
+  ],
+  "city_sites": [
+   {
+    "city": "深圳",
+    "sites": 812,
+    "devices": 2380,
+    "avg_devices_per_site": 2.9
+   },
+   {
+    "city": "杭州",
+    "sites": 534,
+    "devices": 1502,
+    "avg_devices_per_site": 2.8
+   },
+   {
+    "city": "广州",
+    "sites": 386,
+    "devices": 1002,
+    "avg_devices_per_site": 2.6
+   },
+   {
+    "city": "东莞",
+    "sites": 247,
+    "devices": 626,
+    "avg_devices_per_site": 2.5
+   },
+   {
+    "city": "阳朔",
+    "sites": 188,
+    "devices": 750,
+    "avg_devices_per_site": 4.0
+   }
+  ],
+  "cooperation_terms": [
+   {
+    "name": "1年",
+    "value": 46
+   },
+   {
+    "name": "2年",
+    "value": 34
+   },
+   {
+    "name": "3年",
+    "value": 15
+   },
+   {
+    "name": "未签约",
+    "value": 5
+   }
+  ],
+  "expiry_schedule": [
+   {
+    "quarter": "2026Q4",
+    "value": 12
+   },
+   {
+    "quarter": "2027Q1",
+    "value": 16
+   },
+   {
+    "quarter": "2027Q2",
+    "value": 22
+   },
+   {
+    "quarter": "2027Q3",
+    "value": 18
+   },
+   {
+    "quarter": "2027Q4",
+    "value": 24
+   },
+   {
+    "quarter": "2028Q1",
+    "value": 8
+   }
+  ],
+  "share_models": [
+   {
+    "name": "按单分成15-30%",
+    "value": 58
+   },
+   {
+    "name": "年场租+电费",
+    "value": 22
+   },
+   {
+    "name": "电费+分成",
+    "value": 13
+   },
+   {
+    "name": "免费场地(街道/政府)",
+    "value": 7
+   }
+  ],
+  "site_tiers": [
+   {
+    "name": "高价值点位",
+    "ratio": 22,
+    "month_revenue": 6800,
+    "gross_margin": 52
+   },
+   {
+    "name": "普通点位",
+    "ratio": 51,
+    "month_revenue": 4100,
+    "gross_margin": 38
+   },
+   {
+    "name": "低效点位",
+    "ratio": 27,
+    "month_revenue": 1800,
+    "gross_margin": 12
+   }
+  ],
+  "avg_rent_ratio": 18.5,
+  "free_site_ratio": 7.0,
+  "avg_remaining_term": 1.6
+ },
+ "finance": {
+  "monthly_pnl": [
+   {
+    "month": "2025-10",
+    "revenue": 1420000,
+    "cost": 1080000,
+    "profit": 340000,
+    "gross_margin": 23.9
+   },
+   {
+    "month": "2025-11",
+    "revenue": 1459760,
+    "cost": 1101600,
+    "profit": 358160,
+    "gross_margin": 24.5
+   },
+   {
+    "month": "2025-12",
+    "revenue": 1499520,
+    "cost": 1123200,
+    "profit": 376320,
+    "gross_margin": 25.1
+   },
+   {
+    "month": "2026-01",
+    "revenue": 1539280,
+    "cost": 1144800,
+    "profit": 394480,
+    "gross_margin": 25.6
+   },
+   {
+    "month": "2026-02",
+    "revenue": 1579040,
+    "cost": 1166400,
+    "profit": 412640,
+    "gross_margin": 26.1
+   },
+   {
+    "month": "2026-03",
+    "revenue": 1618800,
+    "cost": 1188000,
+    "profit": 430800,
+    "gross_margin": 26.6
+   },
+   {
+    "month": "2026-04",
+    "revenue": 1658560,
+    "cost": 1209600,
+    "profit": 448960,
+    "gross_margin": 27.1
+   },
+   {
+    "month": "2026-05",
+    "revenue": 1698320,
+    "cost": 1231200,
+    "profit": 467120,
+    "gross_margin": 27.5
+   },
+   {
+    "month": "2026-06",
+    "revenue": 1738080,
+    "cost": 1252800,
+    "profit": 485280,
+    "gross_margin": 27.9
+   },
+   {
+    "month": "2026-07",
+    "revenue": 1777840,
+    "cost": 1274400,
+    "profit": 503440,
+    "gross_margin": 28.3
+   },
+   {
+    "month": "2026-08",
+    "revenue": 1817600,
+    "cost": 1296000,
+    "profit": 521600,
+    "gross_margin": 28.7
+   },
+   {
+    "month": "2026-09",
+    "revenue": 1857360,
+    "cost": 1317600,
+    "profit": 539760,
+    "gross_margin": 29.1
+   }
+  ],
+  "revenue_mix": [
+   {
+    "name": "套餐收入",
+    "value": 82.4
+   },
+   {
+    "name": "单次换电收入",
+    "value": 12.1
+   },
+   {
+    "name": "电池回收残值",
+    "value": 3.2
+   },
+   {
+    "name": "其他",
+    "value": 2.3
+   }
+  ],
+  "cost_structure": [
+   {
+    "name": "电费",
+    "value": 22.4
+   },
+   {
+    "name": "场地分成/场租",
+    "value": 14.8
+   },
+   {
+    "name": "设备折旧",
+    "value": 18.6
+   },
+   {
+    "name": "运维人工",
+    "value": 12.2
+   },
+   {
+    "name": "推广获客",
+    "value": 8.4
+   },
+   {
+    "name": "平台与软件",
+    "value": 6.8
+   },
+   {
+    "name": "销售激励",
+    "value": 4.9
+   },
+   {
+    "name": "保险与合规",
+    "value": 3.1
+   },
+   {
+    "name": "其他",
+    "value": 8.8
+   }
+  ],
+  "quality_kpis": {
+   "refund_rate": 1.8,
+   "bad_debt_rate": 0.6,
+   "advance_balance": 2450000,
+   "advance_revenue_ratio": 1.31,
+   "early_churn_long_term": 1.4,
+   "battery_recycle_cost": 200,
+   "battery_recycle_rate": 78.0
+  },
+  "breakeven_by_city": [
+   {
+    "city": "深圳",
+    "ratio": 82
+   },
+   {
+    "city": "杭州",
+    "ratio": 74
+   },
+   {
+    "city": "广州",
+    "ratio": 68
+   },
+   {
+    "city": "东莞",
+    "ratio": 56
+   },
+   {
+    "city": "阳朔",
+    "ratio": 45
+   }
+  ],
+  "cac_ltv": {
+   "cac": 86,
+   "ltv": 1860,
+   "ratio": 0.046
+  },
+  "per_cabinet": {
+   "month_revenue": 2980,
+   "day_revenue": 99.3,
+   "month_electric_cost": 668,
+   "electric_ratio": 22.4,
+   "electric_per_exchange": 0.95,
+   "valley_saving": 12.6
+  },
+  "revenue_kpis": {
+   "month_revenue": 1865000,
+   "arpu": 59.8,
+   "pay_conv_ratio": 68.4,
+   "month_active_ratio": 64.2,
+   "renew_ratio": 82.6,
+   "churn_ratio": 3.2,
+   "advance_balance": 2450000,
+   "refund_rate": 1.8,
+   "bad_debt_rate": 0.6,
+   "new_discount": 8.5,
+   "renew_price_gap": 4.2,
+   "long_term_ratio_3y": 22.4,
+   "net_new_users": 1680,
+   "ltv": 1860
+  },
+  "expense_kpis": {
+   "month_cost": 1321000,
+   "cost_income_ratio": 70.8,
+   "electric_ratio": 22.4,
+   "share_ratio": 15.8,
+   "opex_ratio": 18.6,
+   "cac": 86,
+   "cac_ltv": 0.046,
+   "mttr_hours": 1.8,
+   "month_capex_dep": 240000,
+   "software_ratio": 4.2
+  },
+  "revenue_mix_ext": [
+   {
+    "name": "社区居民月租",
+    "value": 42.6
+   },
+   {
+    "name": "社区居民季租",
+    "value": 14.8
+   },
+   {
+    "name": "半年租",
+    "value": 9.6
+   },
+   {
+    "name": "1年租",
+    "value": 15.2
+   },
+   {
+    "name": "3年及以上",
+    "value": 13.4
+   },
+   {
+    "name": "其他收入",
+    "value": 4.4
+   }
+  ],
+  "package_cost": [
+   {
+    "name": "月租",
+    "cost": 52.4,
+    "ratio": 80.4,
+    "margin": 19.6
+   },
+   {
+    "name": "季租",
+    "cost": 41.8,
+    "ratio": 79.5,
+    "margin": 20.5
+   },
+   {
+    "name": "半年租",
+    "cost": 40.2,
+    "ratio": 77.3,
+    "margin": 22.7
+   },
+   {
+    "name": "1年租",
+    "cost": 36.8,
+    "ratio": 77.3,
+    "margin": 22.7
+   },
+   {
+    "name": "3年及以上",
+    "cost": 37.5,
+    "ratio": 75.8,
+    "margin": 24.2
+   }
+  ]
+ },
+ "digital": {
+  "capability_scores": [
+   {
+    "name": "设备数据覆盖率",
+    "value": 97.5
+   },
+   {
+    "name": "订单数据完整率",
+    "value": 99.2
+   },
+   {
+    "name": "告警准确率",
+    "value": 91.8
+   },
+   {
+    "name": "工单闭环率",
+    "value": 96.4
+   },
+   {
+    "name": "远程功能覆盖率",
+    "value": 88.6
+   },
+   {
+    "name": "收益账实一致性",
+    "value": 99.8
+   }
+  ],
+  "iot_kpis": {
+   "device_online_rate": 96.4,
+   "comm_fail_rate": 0.85,
+   "daily_data_rows": 1820000,
+   "single_conn_cost": 0.12,
+   "alarm_to_workorder_min": 8
+  },
+  "om_kpis": {
+   "cabinets_per_staff": 126,
+   "self_operate_ratio": 82.0,
+   "avg_response_hours": 0.8,
+   "mttr_hours": 1.8,
+   "first_fix_rate": 91.5,
+   "workorder_close_rate": 96.4,
+   "inspection_coverage": 94.2,
+   "spare_turnover_days": 18,
+   "backup_sites": 46,
+   "backup_ratio": 5.1
+  },
+  "om_mode": [
+   {
+    "name": "自营运维",
+    "value": 82
+   },
+   {
+    "name": "外包运维",
+    "value": 18
+   }
+  ],
+  "alarm_to_workorder": [
+   {
+    "month": "2026-04",
+    "value": 11
+   },
+   {
+    "month": "2026-05",
+    "value": 10
+   },
+   {
+    "month": "2026-06",
+    "value": 9
+   },
+   {
+    "month": "2026-07",
+    "value": 9
+   },
+   {
+    "month": "2026-08",
+    "value": 8
+   },
+   {
+    "month": "2026-09",
+    "value": 8
+   }
+  ]
+ },
+ "industry": {
+  "market_size": [
+   {
+    "year": "2020",
+    "value": 62
+   },
+   {
+    "year": "2021",
+    "value": 95
+   },
+   {
+    "year": "2022",
+    "value": 142
+   },
+   {
+    "year": "2023",
+    "value": 205
+   },
+   {
+    "year": "2024",
+    "value": 285
+   },
+   {
+    "year": "2025",
+    "value": 378
+   },
+   {
+    "year": "2026E",
+    "value": 480
+   }
+  ],
+  "penetration": [
+   {
+    "year": "2022",
+    "value": 3.2
+   },
+   {
+    "year": "2023",
+    "value": 5.1
+   },
+   {
+    "year": "2024",
+    "value": 7.8
+   },
+   {
+    "year": "2025",
+    "value": 10.5
+   },
+   {
+    "year": "2026E",
+    "value": 13.5
+   }
+  ],
+  "policy_milestones": [
+   {
+    "time": "2019-04",
+    "event": "电动自行车新国标实施，明确整车质量≤55kg，倒逼锂电轻量化"
+   },
+   {
+    "time": "2021-08",
+    "event": "应急管理部发布《高层民用建筑消防安全管理规定》，禁止电动自行车进楼入户充电"
+   },
+   {
+    "time": "2022-06",
+    "event": "多城市出台充电设施专项规划，鼓励集中充换电设施建设"
+   },
+   {
+    "time": "2023-07",
+    "event": "工信部推进电动自行车用锂离子蓄电池安全技术规范"
+   },
+   {
+    "time": "2024-05",
+    "event": "多项充换电安全强制国标征求意见，行业进入合规加速期"
+   },
+   {
+    "time": "2025-11",
+    "event": "新电池安全强制国标全面实施，换电柜消防合规成为行业准入门槛"
+   }
+  ],
+  "competition": [
+   {
+    "name": "头部换电企业A",
+    "share": 18.5,
+    "cities": 320,
+    "cabinets": 38000
+   },
+   {
+    "name": "头部换电企业B",
+    "share": 14.2,
+    "cities": 260,
+    "cabinets": 30000
+   },
+   {
+    "name": "本地运营商(本项目)",
+    "share": 3.6,
+    "cities": 5,
+    "cabinets": 6260
+   },
+   {
+    "name": "其他运营商",
+    "share": 63.7,
+    "cities": 180,
+    "cabinets": 58000
+   }
+  ],
+  "tech_route": [
+   {
+    "name": "磷酸铁锂",
+    "value": 76
+   },
+   {
+    "name": "三元锂",
+    "value": 18
+   },
+   {
+    "name": "钠电(试点)",
+    "value": 3
+   },
+   {
+    "name": "其他",
+    "value": 3
+   }
+  ],
+  "industry_insights": [
+   "行业驱动：新国标+消防禁令+外卖骑手刚需，换电渗透率2026年预计达13.5%",
+   "商业模式：由B端骑手市场向C端居民市场渗透，'租期+电量包'模式成为主流",
+   "技术演进：钠电池开始试点，有望降低冬季低温衰减与成本",
+   "合规门槛：2025年电池安全强制国标实施后，中小运营商加速出清，利好头部合规企业"
+  ]
+ },
+ "assets_ext": {
+  "asset_ledger": {
+   "total_cabinets": 6260,
+   "warehouse_cabinets": 2147,
+   "warehouse_ratio": 34.3,
+   "slot_12": 9,
+   "slot_6": 2850,
+   "slot_4": 2210,
+   "slot_3": 1191,
+   "sodium_batteries": 43,
+   "normal_batteries_4824": 24800,
+   "normal_batteries_4814": 12657
+  },
+  "procurement_funnel": [
+   {
+    "stage": "已采购",
+    "value": 6480
+   },
+   {
+    "stage": "已交付",
+    "value": 6300
+   },
+   {
+    "stage": "已安装",
+    "value": 5910
+   },
+   {
+    "stage": "已上线",
+    "value": 4113
+   },
+   {
+    "stage": "运营中",
+    "value": 3983
+   }
+  ],
+  "procurement_status": {
+   "procured": 6480,
+   "delivered": 6300,
+   "installed": 5910,
+   "online": 4113,
+   "operating": 3983,
+   "delivery_rate": 97.2,
+   "install_rate": 93.8,
+   "online_conv": 69.6,
+   "financeable": 4550,
+   "financeable_ratio": 70.2,
+   "not_invested": 2147
+  },
+  "brand_ratio_ext": [
+   {
+    "name": "柜体-品牌A(水消防)",
+    "value": 4100
+   },
+   {
+    "name": "柜体-品牌B(气溶胶)",
+    "value": 1510
+   },
+   {
+    "name": "柜体-品牌C(气溶胶)",
+    "value": 650
+   },
+   {
+    "name": "电池-4824",
+    "value": 24800
+   },
+   {
+    "name": "电池-4814",
+    "value": 12657
+   },
+   {
+    "name": "电池-钠电",
+    "value": 43
+   }
+  ],
+  "fire_route": [
+   {
+    "name": "水消防",
+    "value": 4100
+   },
+   {
+    "name": "气溶胶",
+    "value": 2160
+   }
+  ],
+  "supplier": {
+   "top3_ratio": 82.6,
+   "supplier_count": 6,
+   "supplier_trend": [
+    {
+     "month": "2026-04",
+     "value": 86.2
+    },
+    {
+     "month": "2026-05",
+     "value": 85.1
+    },
+    {
+     "month": "2026-06",
+     "value": 84.0
+    },
+    {
+     "month": "2026-07",
+     "value": 83.4
+    },
+    {
+     "month": "2026-08",
+     "value": 82.9
+    },
+    {
+     "month": "2026-09",
+     "value": 82.6
+    }
+   ],
+   "warranty_avg_months": 24,
+   "warranty_expire_ratio": 8.2
+  },
+  "purchase": {
+   "cabinet_avg_price": 16800,
+   "cabinet_price_by_slot": [
+    {
+     "name": "12口柜",
+     "value": 32800
+    },
+    {
+     "name": "6口柜",
+     "value": 18600
+    },
+    {
+     "name": "4口柜",
+     "value": 14800
+    },
+    {
+     "name": "3口柜",
+     "value": 11200
+    }
+   ],
+   "battery_avg_price": {
+    "4824": 980,
+    "4814": 760,
+    "sodium": 1180
+   },
+   "total_purchase_amount": 97200000,
+   "paid_amount": 58300000,
+   "pay_ratio": 60.0,
+   "related_trade": "否",
+   "price_trend": [
+    {
+     "month": "2026-04",
+     "cabinet": 17200,
+     "battery": 1010
+    },
+    {
+     "month": "2026-05",
+     "cabinet": 17050,
+     "battery": 1000
+    },
+    {
+     "month": "2026-06",
+     "cabinet": 16920,
+     "battery": 995
+    },
+    {
+     "month": "2026-07",
+     "cabinet": 16860,
+     "battery": 988
+    },
+    {
+     "month": "2026-08",
+     "cabinet": 16820,
+     "battery": 985
+    },
+    {
+     "month": "2026-09",
+     "cabinet": 16800,
+     "battery": 980
+    }
+   ]
+  },
+  "financing": {
+   "restricted_devices": 3850,
+   "restricted_ratio": 59.4,
+   "financed_amount": 32000000,
+   "finance_methods": [
+    {
+     "name": "银行融资租赁",
+     "value": 46
+    },
+    {
+     "name": "融资租赁公司",
+     "value": 28
+    },
+    {
+     "name": "设备抵押贷款",
+     "value": 18
+    },
+    {
+     "name": "其他",
+     "value": 8
+    }
+   ]
+  },
+  "lifecycle": {
+   "avg_use_years": 1.8,
+   "design_life_cabinet": 8,
+   "design_life_battery": 2,
+   "life_used_ratio": 22.5,
+   "batch_deploy": [
+    {
+     "batch": "2024-Q3",
+     "value": 850
+    },
+    {
+     "batch": "2024-Q4",
+     "value": 1200
+    },
+    {
+     "batch": "2025-Q1",
+     "value": 980
+    },
+    {
+     "batch": "2025-Q2",
+     "value": 1050
+    },
+    {
+     "batch": "2025-Q3",
+     "value": 920
+    },
+    {
+     "batch": "2025-Q4",
+     "value": 610
+    },
+    {
+     "batch": "2026-Q1",
+     "value": 420
+    },
+    {
+     "batch": "2026-Q2",
+     "value": 230
+    }
+   ],
+   "age_structure": [
+    {
+     "name": "<1年",
+     "value": 31
+    },
+    {
+     "name": "1-2年",
+     "value": 42
+    },
+    {
+     "name": "2-3年",
+     "value": 21
+    },
+    {
+     "name": ">3年",
+     "value": 6
+    }
+   ],
+   "second_hand_ratio": 3.4,
+   "near_scrap_ratio": 2.8,
+   "soh_low_ratio": 5.6,
+   "aging_speed": [
+    {
+     "month": "2026-04",
+     "value": 3.1
+    },
+    {
+     "month": "2026-05",
+     "value": 3.3
+    },
+    {
+     "month": "2026-06",
+     "value": 3.5
+    },
+    {
+     "month": "2026-07",
+     "value": 3.8
+    },
+    {
+     "month": "2026-08",
+     "value": 4.1
+    },
+    {
+     "month": "2026-09",
+     "value": 4.4
+    }
+   ],
+   "payback_ext": {
+    "avg_months": 22.5,
+    "repaid_ratio": 46.8,
+    "payback_trend": [
+     {
+      "month": "2026-04",
+      "value": 24.2
+     },
+     {
+      "month": "2026-05",
+      "value": 23.8
+     },
+     {
+      "month": "2026-06",
+      "value": 23.4
+     },
+     {
+      "month": "2026-07",
+      "value": 23.0
+     },
+     {
+      "month": "2026-08",
+      "value": 22.7
+     },
+     {
+      "month": "2026-09",
+      "value": 22.5
+     }
+    ],
+    "by_city": [
+     {
+      "name": "深圳",
+      "value": 18.2
+     },
+     {
+      "name": "杭州",
+      "value": 21.6
+     },
+     {
+      "name": "广州",
+      "value": 24.8
+     },
+     {
+      "name": "东莞",
+      "value": 26.3
+     },
+     {
+      "name": "阳朔",
+      "value": 31.5
+     }
+    ]
+   }
+  }
+ },
+ "revenue": {
+  "kpis": {
+   "month_revenue": 1865000,
+   "arpu": 59.8,
+   "pay_conv_ratio": 68.4,
+   "month_active_ratio": 64.2,
+   "renew_ratio": 82.6,
+   "churn_ratio": 3.2,
+   "advance_balance": 2450000,
+   "refund_rate": 1.8,
+   "bad_debt_rate": 0.6,
+   "new_discount": 8.5,
+   "renew_price_gap": 4.2,
+   "long_term_ratio_3y": 22.4,
+   "net_new_users": 1680,
+   "ltv": 1860
+  },
+  "user_scale": [
+   {
+    "month": "2026-04",
+    "registered": 42800,
+    "paid": 29200,
+    "active": 28400
+   },
+   {
+    "month": "2026-05",
+    "registered": 44800,
+    "paid": 30000,
+    "active": 29200
+   },
+   {
+    "month": "2026-06",
+    "registered": 46200,
+    "paid": 30600,
+    "active": 29800
+   },
+   {
+    "month": "2026-07",
+    "registered": 47400,
+    "paid": 31000,
+    "active": 30300
+   },
+   {
+    "month": "2026-08",
+    "registered": 48400,
+    "paid": 31300,
+    "active": 30800
+   },
+   {
+    "month": "2026-09",
+    "registered": 48600,
+    "paid": 31600,
+    "active": 31200
+   }
+  ],
+  "revenue_mix_ext": [
+   {
+    "name": "社区居民月租",
+    "value": 42.6
+   },
+   {
+    "name": "社区居民季租",
+    "value": 14.8
+   },
+   {
+    "name": "半年租",
+    "value": 9.6
+   },
+   {
+    "name": "1年租",
+    "value": 15.2
+   },
+   {
+    "name": "3年及以上",
+    "value": 13.4
+   },
+   {
+    "name": "其他收入",
+    "value": 4.4
+   }
+  ],
+  "per_cabinet_ext": {
+   "month_revenue": 2980,
+   "day_revenue": 99.3,
+   "target_ratio": 86.4,
+   "mom_trend": [
+    {
+     "month": "2026-04",
+     "value": 2750
+    },
+    {
+     "month": "2026-05",
+     "value": 2810
+    },
+    {
+     "month": "2026-06",
+     "value": 2840
+    },
+    {
+     "month": "2026-07",
+     "value": 2900
+    },
+    {
+     "month": "2026-08",
+     "value": 2950
+    },
+    {
+     "month": "2026-09",
+     "value": 2980
+    }
+   ],
+   "by_site_type": [
+    {
+     "name": "交通枢纽",
+     "value": 3520
+    },
+    {
+     "name": "写字楼",
+     "value": 3180
+    },
+    {
+     "name": "商场周边",
+     "value": 3050
+    },
+    {
+     "name": "物业小区",
+     "value": 2960
+    },
+    {
+     "name": "产业园区",
+     "value": 2810
+    },
+    {
+     "name": "社区门店",
+     "value": 2680
+    },
+    {
+     "name": "学校周边",
+     "value": 2420
+    },
+    {
+     "name": "合作车行",
+     "value": 2240
+    }
+   ]
+  },
+  "quality": {
+   "refund_reason": [
+    {
+     "name": "搬家迁移",
+     "value": 42
+    },
+    {
+     "name": "不再使用",
+     "value": 28
+    },
+    {
+     "name": "服务不满意",
+     "value": 17
+    },
+    {
+     "name": "价格因素",
+     "value": 13
+    }
+   ],
+   "prepay_leverage": [
+    {
+     "month": "2026-04",
+     "value": 1.42
+    },
+    {
+     "month": "2026-05",
+     "value": 1.39
+    },
+    {
+     "month": "2026-06",
+     "value": 1.36
+    },
+    {
+     "month": "2026-07",
+     "value": 1.33
+    },
+    {
+     "month": "2026-08",
+     "value": 1.31
+    },
+    {
+     "month": "2026-09",
+     "value": 1.31
+    }
+   ],
+   "long_term_prechurn": 2.6,
+   "battery_recycle_cost": 86000
+  },
+  "package_trend": [
+   {
+    "name": "月租",
+    "renew": 74.2,
+    "upgrade": 4.6,
+    "downgrade": 3.1
+   },
+   {
+    "name": "季租",
+    "renew": 79.5,
+    "upgrade": 5.8,
+    "downgrade": 2.4
+   },
+   {
+    "name": "半年租",
+    "renew": 84.1,
+    "upgrade": 6.2,
+    "downgrade": 1.8
+   },
+   {
+    "name": "1年租",
+    "renew": 88.6,
+    "upgrade": 3.4,
+    "downgrade": 1.2
+   },
+   {
+    "name": "3年及以上",
+    "renew": 93.2,
+    "upgrade": 1.2,
+    "downgrade": 0.6
+   }
+  ],
+  "unlimited_overuse_ratio": 8.4,
+  "package_users": [
+   {
+    "name": "月租",
+    "users": 12100,
+    "revenue_ratio": 42.6,
+    "arpu": 65.2,
+    "exchanges": 22
+   },
+   {
+    "name": "季租",
+    "users": 5200,
+    "revenue_ratio": 14.8,
+    "arpu": 52.6,
+    "exchanges": 19
+   },
+   {
+    "name": "半年租",
+    "users": 3400,
+    "revenue_ratio": 9.6,
+    "arpu": 52.0,
+    "exchanges": 18
+   },
+   {
+    "name": "1年租",
+    "users": 5900,
+    "revenue_ratio": 15.2,
+    "arpu": 47.6,
+    "exchanges": 17
+   },
+   {
+    "name": "3年及以上",
+    "users": 5000,
+    "revenue_ratio": 13.4,
+    "arpu": 49.5,
+    "exchanges": 16
+   }
+  ],
+  "pricing_benchmark": [
+   {
+    "name": "本项目月租",
+    "value": 128
+   },
+   {
+    "name": "竞品A月租",
+    "value": 138
+   },
+   {
+    "name": "竞品B月租",
+    "value": 118
+   },
+   {
+    "name": "本项目年租",
+    "value": 1080
+   },
+   {
+    "name": "竞品A年租",
+    "value": 1180
+   },
+   {
+    "name": "竞品B年租",
+    "value": 980
+   }
+  ]
+ },
+ "expense": {
+  "kpis": {
+   "month_cost": 1321000,
+   "cost_income_ratio": 70.8,
+   "electric_ratio": 22.4,
+   "share_ratio": 15.8,
+   "opex_ratio": 18.6,
+   "cac": 86,
+   "cac_ltv": 0.046,
+   "mttr_hours": 1.8,
+   "month_capex_dep": 240000,
+   "software_ratio": 4.2
+  },
+  "capex": {
+   "cabinet_total": 6260,
+   "cabinet_avg": 16800,
+   "battery_total": 37500,
+   "battery_avg": 960,
+   "cabinet_capex": 105168000,
+   "battery_capex": 36000000,
+   "install_transport": 4860000,
+   "single_cabinet_capex": 23400,
+   "month_dep": 240000,
+   "residual_ratio": 12.0,
+   "early_scrap_ratio": 1.6,
+   "life_real_vs_theory": [
+    {
+     "name": "电池-理论",
+     "value": 24
+    },
+    {
+     "name": "电池-实际",
+     "value": 21
+    },
+    {
+     "name": "柜体-理论",
+     "value": 96
+    },
+    {
+     "name": "柜体-实际",
+     "value": 78
+    }
+   ]
+  },
+  "electricity": {
+   "month_cost": 295000,
+   "per_cabinet": 668,
+   "ratio_income": 22.4,
+   "per_exchange": 0.95,
+   "price_range": "0.7-2元/度",
+   "valley_saving": 12.6,
+   "trend": [
+    {
+     "month": "2026-04",
+     "value": 281000
+    },
+    {
+     "month": "2026-05",
+     "value": 285000
+    },
+    {
+     "month": "2026-06",
+     "value": 290000
+    },
+    {
+     "month": "2026-07",
+     "value": 296000
+    },
+    {
+     "month": "2026-08",
+     "value": 298000
+    },
+    {
+     "month": "2026-09",
+     "value": 295000
+    }
+   ],
+   "by_city": [
+    {
+     "name": "深圳",
+     "value": 112000
+    },
+    {
+     "name": "杭州",
+     "value": 71000
+    },
+    {
+     "name": "广州",
+     "value": 47000
+    },
+    {
+     "name": "东莞",
+     "value": 30000
+    },
+    {
+     "name": "阳朔",
+     "value": 35000
+    }
+   ]
+  },
+  "share_cost": {
+   "month_cost": 208000,
+   "ratio_income": 15.8,
+   "per_cabinet": 470,
+   "mode": [
+    {
+     "name": "按次分成15%-30%",
+     "value": 46
+    },
+    {
+     "name": "年场租+电费",
+     "value": 24
+    },
+    {
+     "name": "电费+分成",
+     "value": 20
+    },
+    {
+     "name": "免费场地",
+     "value": 10
+    }
+   ],
+   "trend": [
+    {
+     "month": "2026-04",
+     "value": 196000
+    },
+    {
+     "month": "2026-05",
+     "value": 199000
+    },
+    {
+     "month": "2026-06",
+     "value": 201000
+    },
+    {
+     "month": "2026-07",
+     "value": 204000
+    },
+    {
+     "month": "2026-08",
+     "value": 207000
+    },
+    {
+     "month": "2026-09",
+     "value": 208000
+    }
+   ],
+   "acquisition_cost_per_site": 3200
+  },
+  "acquisition": {
+   "month_cost": 145000,
+   "cac": 86,
+   "channels": [
+    {
+     "name": "车行门店导购",
+     "value": 44
+    },
+    {
+     "name": "线上广告",
+     "value": 22
+    },
+    {
+     "name": "老客推荐",
+     "value": 21
+    },
+    {
+     "name": "地推活动",
+     "value": 13
+    }
+   ],
+   "cac_trend": [
+    {
+     "month": "2026-04",
+     "value": 92
+    },
+    {
+     "month": "2026-05",
+     "value": 90
+    },
+    {
+     "month": "2026-06",
+     "value": 89
+    },
+    {
+     "month": "2026-07",
+     "value": 88
+    },
+    {
+     "month": "2026-08",
+     "value": 87
+    },
+    {
+     "month": "2026-09",
+     "value": 86
+    }
+   ],
+   "referral_renew_ratio": 88.4
+  },
+  "opex": {
+   "month_cost": 246000,
+   "staff_count": 32,
+   "per_cabinet": 556,
+   "repair_cost_single": 186,
+   "repair_asset_ratio": 2.4,
+   "fault_churn_ratio": 0.8,
+   "fault_loss_exchanges": 1250,
+   "cost_trend": [
+    {
+     "month": "2026-04",
+     "value": 238000
+    },
+    {
+     "month": "2026-05",
+     "value": 241000
+    },
+    {
+     "month": "2026-06",
+     "value": 243000
+    },
+    {
+     "month": "2026-07",
+     "value": 244000
+    },
+    {
+     "month": "2026-08",
+     "value": 245000
+    },
+    {
+     "month": "2026-09",
+     "value": 246000
+    }
+   ]
+  },
+  "platform_cost": {
+   "month_cost": 56000,
+   "ratio_income": 4.2,
+   "iot_fee_per_device": 9.5,
+   "trend": [
+    {
+     "month": "2026-04",
+     "value": 54000
+    },
+    {
+     "month": "2026-05",
+     "value": 54500
+    },
+    {
+     "month": "2026-06",
+     "value": 55000
+    },
+    {
+     "month": "2026-07",
+     "value": 55500
+    },
+    {
+     "month": "2026-08",
+     "value": 55800
+    },
+    {
+     "month": "2026-09",
+     "value": 56000
+    }
+   ],
+   "pay_fee_rate": 0.6
+  },
+  "incentive": {
+   "month_cost": 68000,
+   "per_staff": 2125,
+   "ratio_revenue": 5.1,
+   "structure": [
+    {
+     "name": "地推销售",
+     "value": 48
+    },
+    {
+     "name": "运营人员",
+     "value": 30
+    },
+    {
+     "name": "客服",
+     "value": 12
+    },
+    {
+     "name": "管理层",
+     "value": 10
+    }
+   ],
+   "trend": [
+    {
+     "month": "2026-04",
+     "value": 62000
+    },
+    {
+     "month": "2026-05",
+     "value": 64000
+    },
+    {
+     "month": "2026-06",
+     "value": 65000
+    },
+    {
+     "month": "2026-07",
+     "value": 66500
+    },
+    {
+     "month": "2026-08",
+     "value": 67500
+    },
+    {
+     "month": "2026-09",
+     "value": 68000
+    }
+   ]
+  },
+  "store_incentive": {
+   "month_cost": 88000,
+   "stores": 156,
+   "per_store": 564,
+   "return_structure": [
+    {
+     "name": "激活返佣",
+     "value": 62
+    },
+    {
+     "name": "续租返佣",
+     "value": 38
+    }
+   ],
+   "renew_vs_natural": [
+    {
+     "name": "导购渠道",
+     "value": 88.4
+    },
+    {
+     "name": "自然获客",
+     "value": 80.2
+    }
+   ],
+   "per_staff_activate": 14.2,
+   "day30_renew": 82.5,
+   "payback_months": 5.2
+  },
+  "package_cost": [
+   {
+    "name": "月租",
+    "cost": 52.4,
+    "ratio": 80.4,
+    "margin": 19.6
+   },
+   {
+    "name": "季租",
+    "cost": 41.8,
+    "ratio": 79.5,
+    "margin": 20.5
+   },
+   {
+    "name": "半年租",
+    "cost": 40.2,
+    "ratio": 77.3,
+    "margin": 22.7
+   },
+   {
+    "name": "1年租",
+    "cost": 36.8,
+    "ratio": 77.3,
+    "margin": 22.7
+   },
+   {
+    "name": "3年及以上",
+    "cost": 37.5,
+    "ratio": 75.8,
+    "margin": 24.2
+   }
+  ],
+  "other_cost": {
+   "insurance_ratio": 1.2,
+   "compliance_per_cabinet": 360,
+   "recycle_recovery_ratio": 68.0,
+   "structure": [
+    {
+     "name": "保险",
+     "value": 22
+    },
+    {
+     "name": "合规",
+     "value": 16
+    },
+    {
+     "name": "税费",
+     "value": 38
+    },
+    {
+     "name": "总部分摊",
+     "value": 24
+    }
+   ]
+  }
+ },
+ "efficiency": {
+  "site_layer": {
+   "site_count": 898,
+   "avg_cabinet_per_site": 7.0,
+   "city_site_ratio": [
+    {
+     "name": "深圳",
+     "value": 341
+    },
+    {
+     "name": "杭州",
+     "value": 216
+    },
+    {
+     "name": "阳朔",
+     "value": 108
+    },
+    {
+     "name": "广州",
+     "value": 144
+    },
+    {
+     "name": "东莞",
+     "value": 90
+    }
+   ],
+   "expand_speed": [
+    {
+     "month": "2026-04",
+     "value": 842
+    },
+    {
+     "month": "2026-05",
+     "value": 856
+    },
+    {
+     "month": "2026-06",
+     "value": 868
+    },
+    {
+     "month": "2026-07",
+     "value": 877
+    },
+    {
+     "month": "2026-08",
+     "value": 886
+    },
+    {
+     "month": "2026-09",
+     "value": 898
+    }
+   ],
+   "daily_exchanges": [
+    {
+     "name": "交通枢纽",
+     "value": 148
+    },
+    {
+     "name": "写字楼",
+     "value": 132
+    },
+    {
+     "name": "商场周边",
+     "value": 124
+    },
+    {
+     "name": "物业小区",
+     "value": 118
+    },
+    {
+     "name": "产业园区",
+     "value": 108
+    },
+    {
+     "name": "社区门店",
+     "value": 96
+    },
+    {
+     "name": "学校周边",
+     "value": 82
+    },
+    {
+     "name": "合作车行",
+     "value": 71
+    }
+   ],
+   "full_rate": [
+    {
+     "name": "高峰期",
+     "value": 86.4
+    },
+    {
+     "name": "平峰期",
+     "value": 62.8
+    },
+    {
+     "name": "低谷期",
+     "value": 34.2
+    }
+   ],
+   "tier": [
+    {
+     "name": "高收入点位",
+     "value": 18.2
+    },
+    {
+     "name": "普通点位",
+     "value": 62.4
+    },
+    {
+     "name": "低效点位",
+     "value": 19.4
+    }
+   ],
+   "tier_metrics": [
+    {
+     "name": "高收入点位",
+     "revenue": 6120,
+     "margin": 42.6
+    },
+    {
+     "name": "普通点位",
+     "revenue": 2980,
+     "margin": 24.8
+    },
+    {
+     "name": "低效点位",
+     "revenue": 1320,
+     "margin": -6.2
+    }
+   ]
+  },
+  "battery_turnover": {
+   "turnover_ratio": 1.42,
+   "daily_exchanges": 30600,
+   "fail_ratio": 2.1,
+   "avg_wait_min": 2.6,
+   "dispatch_cost_income": 3.4,
+   "status": [
+    {
+     "name": "在柜充电",
+     "value": 62
+    },
+    {
+     "name": "满电待换",
+     "value": 24
+    },
+    {
+     "name": "在途调度",
+     "value": 3
+    },
+    {
+     "name": "维修中",
+     "value": 2
+    },
+    {
+     "name": "仓库储备",
+     "value": 9
+    }
+   ],
+   "fail_trend": [
+    {
+     "month": "2026-04",
+     "value": 2.6
+    },
+    {
+     "month": "2026-05",
+     "value": 2.5
+    },
+    {
+     "month": "2026-06",
+     "value": 2.4
+    },
+    {
+     "month": "2026-07",
+     "value": 2.3
+    },
+    {
+     "month": "2026-08",
+     "value": 2.2
+    },
+    {
+     "month": "2026-09",
+     "value": 2.1
+    }
+   ]
+  },
+  "user_freq": {
+   "daily_per_user": 1.36,
+   "weekly_per_user": 8.9,
+   "monthly_per_user": 18.6,
+   "tier": [
+    {
+     "name": "高频(>4次/日)",
+     "value": 18.2
+    },
+    {
+     "name": "中频(2-4次/日)",
+     "value": 46.8
+    },
+    {
+     "name": "低频(<2次/日)",
+     "value": 35.0
+    }
+   ],
+   "trend": [
+    {
+     "month": "2026-04",
+     "value": 17.2
+    },
+    {
+     "month": "2026-05",
+     "value": 17.5
+    },
+    {
+     "month": "2026-06",
+     "value": 17.8
+    },
+    {
+     "month": "2026-07",
+     "value": 18.0
+    },
+    {
+     "month": "2026-08",
+     "value": 18.3
+    },
+    {
+     "month": "2026-09",
+     "value": 18.6
+    }
+   ],
+   "decline_users_ratio": 6.8,
+   "avg_cycle_hours": 42.5,
+   "hour_dist": [
+    {
+     "hour": "0-2",
+     "value": 3.2
+    },
+    {
+     "hour": "2-4",
+     "value": 1.4
+    },
+    {
+     "hour": "4-6",
+     "value": 2.8
+    },
+    {
+     "hour": "6-8",
+     "value": 9.6
+    },
+    {
+     "hour": "8-10",
+     "value": 13.2
+    },
+    {
+     "hour": "10-12",
+     "value": 11.4
+    },
+    {
+     "hour": "12-14",
+     "value": 10.8
+    },
+    {
+     "hour": "14-16",
+     "value": 8.2
+    },
+    {
+     "hour": "16-18",
+     "value": 9.4
+    },
+    {
+     "hour": "18-20",
+     "value": 12.6
+    },
+    {
+     "hour": "20-22",
+     "value": 11.2
+    },
+    {
+     "hour": "22-24",
+     "value": 6.2
+    }
+   ],
+   "peak_fail_ratio": 3.8,
+   "season_factor": 1.08,
+   "first_exchange_hours": [
+    {
+     "name": "<1小时",
+     "value": 42
+    },
+    {
+     "name": "1-6小时",
+     "value": 28
+    },
+    {
+     "name": "6-24小时",
+     "value": 18
+    },
+    {
+     "name": "1-3天",
+     "value": 8
+    },
+    {
+     "name": ">3天",
+     "value": 4
+    }
+   ],
+   "lifecycle_exchanges": 246
+  },
+  "user_behavior": {
+   "retention": [
+    {
+     "month": "1月",
+     "value": 100
+    },
+    {
+     "month": "2月",
+     "value": 92
+    },
+    {
+     "month": "3月",
+     "value": 86
+    },
+    {
+     "month": "4月",
+     "value": 81
+    },
+    {
+     "month": "5月",
+     "value": 77
+    },
+    {
+     "month": "6月",
+     "value": 73
+    },
+    {
+     "month": "7月",
+     "value": 70
+    },
+    {
+     "month": "8月",
+     "value": 67
+    },
+    {
+     "month": "9月",
+     "value": 65
+    },
+    {
+     "month": "10月",
+     "value": 63
+    },
+    {
+     "month": "11月",
+     "value": 61
+    },
+    {
+     "month": "12月",
+     "value": 60
+    }
+   ],
+   "location_pref": [
+    {
+     "name": "居住地附近",
+     "value": 58
+    },
+    {
+     "name": "工作地附近",
+     "value": 27
+    },
+    {
+     "name": "通勤沿途",
+     "value": 11
+    },
+    {
+     "name": "其他",
+     "value": 4
+    }
+   ],
+   "churn_reason": [
+    {
+     "name": "搬家",
+     "value": 34
+    },
+    {
+     "name": "车辆处理",
+     "value": 26
+    },
+    {
+     "name": "价格",
+     "value": 16
+    },
+    {
+     "name": "服务体验",
+     "value": 12
+    },
+    {
+     "name": "其他",
+     "value": 12
+    }
+   ]
+  }
+ },
+ "iot": {
+  "platform_overview": {
+   "total_stations": 52497,
+   "online_stations": 50392,
+   "offline_stations": 2105,
+   "station_online_rate": 96.0,
+   "total_devices": 6260,
+   "devices_online": 3983,
+   "devices_offline": 2277,
+   "today_alarms": 186,
+   "pending_alarms": 23,
+   "today_workorders": 96,
+   "battery_monitored": 37500,
+   "battery_in_cabinet": 23250,
+   "battery_out_cabinet": 14250,
+   "province_dist": [
+    {
+     "name": "广东",
+     "value": 62
+    },
+    {
+     "name": "浙江",
+     "value": 24
+    },
+    {
+     "name": "广西",
+     "value": 14
+    }
+   ],
+   "cell_status": [
+    {
+     "name": "正常",
+     "value": 96.4
+    },
+    {
+     "name": "预警",
+     "value": 2.8
+    },
+    {
+     "name": "故障",
+     "value": 0.8
+    }
+   ],
+   "voltage_dist": [
+    {
+     "name": "<40V",
+     "value": 8
+    },
+    {
+     "name": "40-46V",
+     "value": 22
+    },
+    {
+     "name": "46-50V",
+     "value": 38
+    },
+    {
+     "name": "50-53V",
+     "value": 24
+    },
+    {
+     "name": ">53V",
+     "value": 8
+    }
+   ],
+   "soc_dist": [
+    {
+     "name": "0-20%",
+     "value": 12
+    },
+    {
+     "name": "20-40%",
+     "value": 18
+    },
+    {
+     "name": "40-60%",
+     "value": 24
+    },
+    {
+     "name": "60-80%",
+     "value": 26
+    },
+    {
+     "name": "80-100%",
+     "value": 20
+    }
+   ],
+   "alarm_trend": [
+    {
+     "month": "2026-04",
+     "value": 246
+    },
+    {
+     "month": "2026-05",
+     "value": 228
+    },
+    {
+     "month": "2026-06",
+     "value": 214
+    },
+    {
+     "month": "2026-07",
+     "value": 203
+    },
+    {
+     "month": "2026-08",
+     "value": 195
+    },
+    {
+     "month": "2026-09",
+     "value": 186
+    }
+   ]
+  },
+  "battery_params": [
+   {
+    "sn": "BN****f280",
+    "model": "4824",
+    "status": "在线",
+    "soc": 81,
+    "voltage": 48.63,
+    "temperature": 24.7,
+    "cycles": 535,
+    "soh": 96.2,
+    "in_cabinet": false,
+    "cabinet_no": "--",
+    "comm": "正常"
+   },
+   {
+    "sn": "BN****cfab",
+    "model": "4814",
+    "status": "在线",
+    "soc": 93,
+    "voltage": 48.54,
+    "temperature": 22.0,
+    "cycles": 199,
+    "soh": 94.9,
+    "in_cabinet": true,
+    "cabinet_no": "CAB-00470",
+    "comm": "正常"
+   },
+   {
+    "sn": "BN****d713",
+    "model": "4814",
+    "status": "在线",
+    "soc": 55,
+    "voltage": 48.12,
+    "temperature": 35.9,
+    "cycles": 488,
+    "soh": 83.8,
+    "in_cabinet": true,
+    "cabinet_no": "CAB-06000",
+    "comm": "正常"
+   },
+   {
+    "sn": "BN****0d8f",
+    "model": "4814",
+    "status": "在线",
+    "soc": 68,
+    "voltage": 48.27,
+    "temperature": 24.7,
+    "cycles": 128,
+    "soh": 91.0,
+    "in_cabinet": true,
+    "cabinet_no": "CAB-03977",
+    "comm": "正常"
+   },
+   {
+    "sn": "BN****7fa7",
+    "model": "4824",
+    "status": "在线",
+    "soc": 33,
+    "voltage": 47.59,
+    "temperature": 40.6,
+    "cycles": 212,
+    "soh": 74.9,
+    "in_cabinet": true,
+    "cabinet_no": "CAB-01106",
+    "comm": "正常"
+   },
+   {
+    "sn": "BN****8e6f",
+    "model": "4824",
+    "status": "在线",
+    "soc": 73,
+    "voltage": 48.56,
+    "temperature": 33.7,
+    "cycles": 436,
+    "soh": 85.0,
+    "in_cabinet": true,
+    "cabinet_no": "CAB-02294",
+    "comm": "正常"
+   },
+   {
+    "sn": "BN****7708",
+    "model": "4824",
+    "status": "在线",
+    "soc": 73,
+    "voltage": 48.55,
+    "temperature": 40.7,
+    "cycles": 79,
+    "soh": 96.3,
+    "in_cabinet": true,
+    "cabinet_no": "CAB-01234",
+    "comm": "正常"
+   },
+   {
+    "sn": "BN****35e4",
+    "model": "4814",
+    "status": "在线",
+    "soc": 69,
+    "voltage": 48.51,
+    "temperature": 18.4,
+    "cycles": 265,
+    "soh": 74.6,
+    "in_cabinet": false,
+    "cabinet_no": "--",
+    "comm": "正常"
+   },
+   {
+    "sn": "BN****0fe0",
+    "model": "4824",
+    "status": "离线",
+    "soc": 51,
+    "voltage": 48.19,
+    "temperature": 36.1,
+    "cycles": 399,
+    "soh": 93.1,
+    "in_cabinet": true,
+    "cabinet_no": "CAB-00793",
+    "comm": "正常"
+   },
+   {
+    "sn": "BN****a714",
+    "model": "4814",
+    "status": "在线",
+    "soc": 59,
+    "voltage": 48.15,
+    "temperature": 32.9,
+    "cycles": 303,
+    "soh": 96.9,
+    "in_cabinet": true,
+    "cabinet_no": "CAB-03574",
+    "comm": "正常"
+   },
+   {
+    "sn": "BN****a0ff",
+    "model": "4814",
+    "status": "在线",
+    "soc": 96,
+    "voltage": 49.11,
+    "temperature": 41.3,
+    "cycles": 509,
+    "soh": 87.5,
+    "in_cabinet": true,
+    "cabinet_no": "CAB-00534",
+    "comm": "正常"
+   },
+   {
+    "sn": "BN****7ed6",
+    "model": "4814",
+    "status": "在线",
+    "soc": 70,
+    "voltage": 48.13,
+    "temperature": 34.3,
+    "cycles": 444,
+    "soh": 90.0,
+    "in_cabinet": true,
+    "cabinet_no": "CAB-03913",
+    "comm": "正常"
+   },
+   {
+    "sn": "BN****ba62",
+    "model": "4814",
+    "status": "在线",
+    "soc": 91,
+    "voltage": 48.85,
+    "temperature": 18.3,
+    "cycles": 228,
+    "soh": 98.0,
+    "in_cabinet": true,
+    "cabinet_no": "CAB-04162",
+    "comm": "正常"
+   },
+   {
+    "sn": "BN****66ed",
+    "model": "4814",
+    "status": "在线",
+    "soc": 95,
+    "voltage": 48.7,
+    "temperature": 30.0,
+    "cycles": 190,
+    "soh": 91.2,
+    "in_cabinet": true,
+    "cabinet_no": "CAB-05594",
+    "comm": "正常"
+   },
+   {
+    "sn": "BN****fd3c",
+    "model": "4814",
+    "status": "在线",
+    "soc": 21,
+    "voltage": 47.6,
+    "temperature": 24.2,
+    "cycles": 523,
+    "soh": 90.0,
+    "in_cabinet": true,
+    "cabinet_no": "CAB-05998",
+    "comm": "正常"
+   },
+   {
+    "sn": "BN****fd12",
+    "model": "4824",
+    "status": "在线",
+    "soc": 61,
+    "voltage": 47.95,
+    "temperature": 18.1,
+    "cycles": 496,
+    "soh": 76.3,
+    "in_cabinet": true,
+    "cabinet_no": "CAB-05219",
+    "comm": "正常"
+   },
+   {
+    "sn": "BN****0fe8",
+    "model": "4814",
+    "status": "在线",
+    "soc": 54,
+    "voltage": 48.3,
+    "temperature": 41.3,
+    "cycles": 137,
+    "soh": 74.2,
+    "in_cabinet": true,
+    "cabinet_no": "CAB-05575",
+    "comm": "正常"
+   },
+   {
+    "sn": "BN****4873",
+    "model": "4814",
+    "status": "在线",
+    "soc": 76,
+    "voltage": 48.39,
+    "temperature": 27.5,
+    "cycles": 59,
+    "soh": 96.6,
+    "in_cabinet": true,
+    "cabinet_no": "CAB-03958",
+    "comm": "正常"
+   },
+   {
+    "sn": "BN****612c",
+    "model": "4814",
+    "status": "在线",
+    "soc": 40,
+    "voltage": 47.79,
+    "temperature": 39.5,
+    "cycles": 225,
+    "soh": 98.1,
+    "in_cabinet": true,
+    "cabinet_no": "CAB-02791",
+    "comm": "正常"
+   },
+   {
+    "sn": "BN****4856",
+    "model": "4824",
+    "status": "在线",
+    "soc": 66,
+    "voltage": 48.1,
+    "temperature": 21.6,
+    "cycles": 125,
+    "soh": 85.9,
+    "in_cabinet": false,
+    "cabinet_no": "--",
+    "comm": "正常"
+   },
+   {
+    "sn": "BN****dd5e",
+    "model": "4824",
+    "status": "在线",
+    "soc": 50,
+    "voltage": 47.71,
+    "temperature": 30.5,
+    "cycles": 258,
+    "soh": 94.3,
+    "in_cabinet": false,
+    "cabinet_no": "--",
+    "comm": "正常"
+   },
+   {
+    "sn": "BN****9b60",
+    "model": "4814",
+    "status": "在线",
+    "soc": 32,
+    "voltage": 47.48,
+    "temperature": 26.5,
+    "cycles": 664,
+    "soh": 93.0,
+    "in_cabinet": true,
+    "cabinet_no": "CAB-03182",
+    "comm": "正常"
+   },
+   {
+    "sn": "BN****8a02",
+    "model": "4814",
+    "status": "在线",
+    "soc": 91,
+    "voltage": 48.46,
+    "temperature": 37.9,
+    "cycles": 245,
+    "soh": 90.2,
+    "in_cabinet": false,
+    "cabinet_no": "--",
+    "comm": "正常"
+   },
+   {
+    "sn": "BN****2636",
+    "model": "4814",
+    "status": "在线",
+    "soc": 79,
+    "voltage": 48.55,
+    "temperature": 26.8,
+    "cycles": 431,
+    "soh": 98.5,
+    "in_cabinet": false,
+    "cabinet_no": "--",
+    "comm": "正常"
+   },
+   {
+    "sn": "BN****9c44",
+    "model": "4814",
+    "status": "在线",
+    "soc": 47,
+    "voltage": 48.02,
+    "temperature": 36.9,
+    "cycles": 614,
+    "soh": 89.7,
+    "in_cabinet": true,
+    "cabinet_no": "CAB-04943",
+    "comm": "正常"
+   },
+   {
+    "sn": "BN****563c",
+    "model": "4814",
+    "status": "在线",
+    "soc": 100,
+    "voltage": 48.75,
+    "temperature": 25.9,
+    "cycles": 311,
+    "soh": 80.0,
+    "in_cabinet": true,
+    "cabinet_no": "CAB-05427",
+    "comm": "正常"
+   },
+   {
+    "sn": "BN****3223",
+    "model": "4814",
+    "status": "在线",
+    "soc": 38,
+    "voltage": 47.73,
+    "temperature": 23.7,
+    "cycles": 103,
+    "soh": 86.6,
+    "in_cabinet": false,
+    "cabinet_no": "--",
+    "comm": "正常"
+   },
+   {
+    "sn": "BN****e88d",
+    "model": "4824",
+    "status": "在线",
+    "soc": 32,
+    "voltage": 47.45,
+    "temperature": 20.7,
+    "cycles": 266,
+    "soh": 88.5,
+    "in_cabinet": true,
+    "cabinet_no": "CAB-02916",
+    "comm": "正常"
+   },
+   {
+    "sn": "BN****b6a8",
+    "model": "4814",
+    "status": "在线",
+    "soc": 73,
+    "voltage": 48.23,
+    "temperature": 36.4,
+    "cycles": 607,
+    "soh": 90.8,
+    "in_cabinet": true,
+    "cabinet_no": "CAB-03548",
+    "comm": "正常"
+   },
+   {
+    "sn": "BN****32d8",
+    "model": "4824",
+    "status": "在线",
+    "soc": 52,
+    "voltage": 48.27,
+    "temperature": 38.9,
+    "cycles": 250,
+    "soh": 96.0,
+    "in_cabinet": true,
+    "cabinet_no": "CAB-05707",
+    "comm": "正常"
+   }
+  ],
+  "battery_detail": {
+   "fields": [
+    "SN",
+    "型号",
+    "状态",
+    "SOC",
+    "电压(V)",
+    "温度(℃)",
+    "循环次数",
+    "健康度SOH(%)",
+    "所在柜",
+    "通讯状态"
+   ]
+  },
+  "cell_status": {
+   "total_cells": 450000,
+   "normal": 96.4,
+   "warning": 2.8,
+   "fault": 0.8,
+   "cell_list": [
+    {
+     "cell_id": "CELL-880019",
+     "battery_sn": "BN202600274",
+     "status": "预警",
+     "voltage": 4.154,
+     "temperature": 30.7,
+     "internal_resistance": 41.8,
+     "use_hours": 3237
+    },
+    {
+     "cell_id": "CELL-880038",
+     "battery_sn": "BN202600411",
+     "status": "预警",
+     "voltage": 3.573,
+     "temperature": 36.0,
+     "internal_resistance": 18.5,
+     "use_hours": 5759
+    },
+    {
+     "cell_id": "CELL-880057",
+     "battery_sn": "BN202600548",
+     "status": "正常",
+     "voltage": 3.687,
+     "temperature": 20.3,
+     "internal_resistance": 41.0,
+     "use_hours": 1662
+    },
+    {
+     "cell_id": "CELL-880076",
+     "battery_sn": "BN202600685",
+     "status": "故障",
+     "voltage": 3.374,
+     "temperature": 35.0,
+     "internal_resistance": 23.6,
+     "use_hours": 6569
+    },
+    {
+     "cell_id": "CELL-880095",
+     "battery_sn": "BN202600822",
+     "status": "故障",
+     "voltage": 3.458,
+     "temperature": 29.1,
+     "internal_resistance": 44.2,
+     "use_hours": 6186
+    },
+    {
+     "cell_id": "CELL-880114",
+     "battery_sn": "BN202600959",
+     "status": "故障",
+     "voltage": 3.942,
+     "temperature": 27.6,
+     "internal_resistance": 23.9,
+     "use_hours": 2586
+    },
+    {
+     "cell_id": "CELL-880133",
+     "battery_sn": "BN202601096",
+     "status": "故障",
+     "voltage": 3.539,
+     "temperature": 18.9,
+     "internal_resistance": 35.1,
+     "use_hours": 7273
+    },
+    {
+     "cell_id": "CELL-880152",
+     "battery_sn": "BN202601233",
+     "status": "正常",
+     "voltage": 3.857,
+     "temperature": 40.0,
+     "internal_resistance": 31.4,
+     "use_hours": 2972
+    },
+    {
+     "cell_id": "CELL-880171",
+     "battery_sn": "BN202601370",
+     "status": "预警",
+     "voltage": 3.464,
+     "temperature": 20.6,
+     "internal_resistance": 37.7,
+     "use_hours": 6941
+    },
+    {
+     "cell_id": "CELL-880190",
+     "battery_sn": "BN202601507",
+     "status": "正常",
+     "voltage": 3.63,
+     "temperature": 35.6,
+     "internal_resistance": 37.5,
+     "use_hours": 1009
+    },
+    {
+     "cell_id": "CELL-880209",
+     "battery_sn": "BN202601644",
+     "status": "正常",
+     "voltage": 3.58,
+     "temperature": 28.8,
+     "internal_resistance": 40.9,
+     "use_hours": 3260
+    },
+    {
+     "cell_id": "CELL-880228",
+     "battery_sn": "BN202601781",
+     "status": "正常",
+     "voltage": 3.288,
+     "temperature": 26.9,
+     "internal_resistance": 25.2,
+     "use_hours": 7963
+    },
+    {
+     "cell_id": "CELL-880247",
+     "battery_sn": "BN202601918",
+     "status": "正常",
+     "voltage": 3.517,
+     "temperature": 26.6,
+     "internal_resistance": 21.4,
+     "use_hours": 1479
+    },
+    {
+     "cell_id": "CELL-880266",
+     "battery_sn": "BN202602055",
+     "status": "预警",
+     "voltage": 3.947,
+     "temperature": 34.3,
+     "internal_resistance": 43.3,
+     "use_hours": 5777
+    },
+    {
+     "cell_id": "CELL-880285",
+     "battery_sn": "BN202602192",
+     "status": "预警",
+     "voltage": 3.299,
+     "temperature": 35.4,
+     "internal_resistance": 42.6,
+     "use_hours": 1785
+    },
+    {
+     "cell_id": "CELL-880304",
+     "battery_sn": "BN202602329",
+     "status": "正常",
+     "voltage": 3.331,
+     "temperature": 34.1,
+     "internal_resistance": 36.4,
+     "use_hours": 4445
+    },
+    {
+     "cell_id": "CELL-880323",
+     "battery_sn": "BN202602466",
+     "status": "正常",
+     "voltage": 3.918,
+     "temperature": 31.9,
+     "internal_resistance": 42.6,
+     "use_hours": 4460
+    },
+    {
+     "cell_id": "CELL-880342",
+     "battery_sn": "BN202602603",
+     "status": "正常",
+     "voltage": 3.807,
+     "temperature": 30.8,
+     "internal_resistance": 19.1,
+     "use_hours": 523
+    },
+    {
+     "cell_id": "CELL-880361",
+     "battery_sn": "BN202602740",
+     "status": "正常",
+     "voltage": 3.512,
+     "temperature": 33.5,
+     "internal_resistance": 20.8,
+     "use_hours": 7005
+    },
+    {
+     "cell_id": "CELL-880380",
+     "battery_sn": "BN202602877",
+     "status": "故障",
+     "voltage": 3.579,
+     "temperature": 39.1,
+     "internal_resistance": 26.6,
+     "use_hours": 2496
+    },
+    {
+     "cell_id": "CELL-880399",
+     "battery_sn": "BN202603014",
+     "status": "预警",
+     "voltage": 4.11,
+     "temperature": 34.4,
+     "internal_resistance": 33.5,
+     "use_hours": 1564
+    },
+    {
+     "cell_id": "CELL-880418",
+     "battery_sn": "BN202603151",
+     "status": "预警",
+     "voltage": 3.857,
+     "temperature": 23.5,
+     "internal_resistance": 30.5,
+     "use_hours": 4995
+    },
+    {
+     "cell_id": "CELL-880437",
+     "battery_sn": "BN202603288",
+     "status": "预警",
+     "voltage": 4.036,
+     "temperature": 20.6,
+     "internal_resistance": 32.1,
+     "use_hours": 6240
+    },
+    {
+     "cell_id": "CELL-880456",
+     "battery_sn": "BN202603425",
+     "status": "正常",
+     "voltage": 3.165,
+     "temperature": 24.5,
+     "internal_resistance": 42.2,
+     "use_hours": 6728
+    },
+    {
+     "cell_id": "CELL-880475",
+     "battery_sn": "BN202603562",
+     "status": "预警",
+     "voltage": 3.479,
+     "temperature": 25.2,
+     "internal_resistance": 24.2,
+     "use_hours": 3120
+    },
+    {
+     "cell_id": "CELL-880494",
+     "battery_sn": "BN202603699",
+     "status": "故障",
+     "voltage": 3.484,
+     "temperature": 28.1,
+     "internal_resistance": 32.0,
+     "use_hours": 6617
+    },
+    {
+     "cell_id": "CELL-880513",
+     "battery_sn": "BN202603836",
+     "status": "正常",
+     "voltage": 3.886,
+     "temperature": 20.8,
+     "internal_resistance": 36.2,
+     "use_hours": 7298
+    },
+    {
+     "cell_id": "CELL-880532",
+     "battery_sn": "BN202603973",
+     "status": "故障",
+     "voltage": 4.102,
+     "temperature": 22.7,
+     "internal_resistance": 44.9,
+     "use_hours": 1894
+    },
+    {
+     "cell_id": "CELL-880551",
+     "battery_sn": "BN202604110",
+     "status": "预警",
+     "voltage": 3.826,
+     "temperature": 38.4,
+     "internal_resistance": 21.7,
+     "use_hours": 1919
+    },
+    {
+     "cell_id": "CELL-880570",
+     "battery_sn": "BN202600137",
+     "status": "正常",
+     "voltage": 4.003,
+     "temperature": 35.6,
+     "internal_resistance": 43.0,
+     "use_hours": 7267
+    },
+    {
+     "cell_id": "CELL-880589",
+     "battery_sn": "BN202600274",
+     "status": "正常",
+     "voltage": 4.028,
+     "temperature": 32.9,
+     "internal_resistance": 43.7,
+     "use_hours": 6200
+    },
+    {
+     "cell_id": "CELL-880608",
+     "battery_sn": "BN202600411",
+     "status": "正常",
+     "voltage": 3.746,
+     "temperature": 32.5,
+     "internal_resistance": 32.4,
+     "use_hours": 5993
+    },
+    {
+     "cell_id": "CELL-880627",
+     "battery_sn": "BN202600548",
+     "status": "预警",
+     "voltage": 3.384,
+     "temperature": 38.3,
+     "internal_resistance": 39.4,
+     "use_hours": 2865
+    },
+    {
+     "cell_id": "CELL-880646",
+     "battery_sn": "BN202600685",
+     "status": "正常",
+     "voltage": 3.958,
+     "temperature": 38.4,
+     "internal_resistance": 33.2,
+     "use_hours": 355
+    },
+    {
+     "cell_id": "CELL-880665",
+     "battery_sn": "BN202600822",
+     "status": "正常",
+     "voltage": 3.244,
+     "temperature": 35.8,
+     "internal_resistance": 30.9,
+     "use_hours": 5667
+    },
+    {
+     "cell_id": "CELL-880684",
+     "battery_sn": "BN202600959",
+     "status": "正常",
+     "voltage": 3.267,
+     "temperature": 37.3,
+     "internal_resistance": 36.9,
+     "use_hours": 4750
+    },
+    {
+     "cell_id": "CELL-880703",
+     "battery_sn": "BN202601096",
+     "status": "正常",
+     "voltage": 4.068,
+     "temperature": 30.1,
+     "internal_resistance": 34.9,
+     "use_hours": 3310
+    },
+    {
+     "cell_id": "CELL-880722",
+     "battery_sn": "BN202601233",
+     "status": "正常",
+     "voltage": 4.166,
+     "temperature": 29.9,
+     "internal_resistance": 26.6,
+     "use_hours": 5902
+    },
+    {
+     "cell_id": "CELL-880741",
+     "battery_sn": "BN202601370",
+     "status": "故障",
+     "voltage": 4.036,
+     "temperature": 33.6,
+     "internal_resistance": 34.3,
+     "use_hours": 7451
+    },
+    {
+     "cell_id": "CELL-880760",
+     "battery_sn": "BN202601507",
+     "status": "正常",
+     "voltage": 4.175,
+     "temperature": 27.4,
+     "internal_resistance": 27.8,
+     "use_hours": 3512
+    }
+   ]
+  },
+  "battery_manage": {
+   "adr_status": [
+    {
+     "name": "ADR正常",
+     "value": 98.2
+    },
+    {
+     "name": "ADR异常",
+     "value": 1.8
+    }
+   ],
+   "comm_status": [
+    {
+     "name": "通讯正常",
+     "value": 96.5
+    },
+    {
+     "name": "通讯异常",
+     "value": 3.5
+    }
+   ],
+   "voltage_ok": 97.4,
+   "soc_ok": 96.8,
+   "temp_ok": 97.9
+  },
+  "alarm_list": [
+   {
+    "id": "ALM-900077",
+    "time": "2026-09-02 01:29",
+    "device": "CAB-03198",
+    "type": "通讯异常",
+    "level": "普通",
+    "status": "已处理",
+    "handler": "王工"
+   },
+   {
+    "id": "ALM-900154",
+    "time": "2026-09-05 19:18",
+    "device": "CAB-02430",
+    "type": "电池SOC过低",
+    "level": "普通",
+    "status": "处理中",
+    "handler": "王工"
+   },
+   {
+    "id": "ALM-900231",
+    "time": "2026-09-13 07:21",
+    "device": "CAB-01057",
+    "type": "电池温度过高",
+    "level": "紧急",
+    "status": "待处理",
+    "handler": "--"
+   },
+   {
+    "id": "ALM-900308",
+    "time": "2026-09-04 18:21",
+    "device": "CAB-02015",
+    "type": "充电模块故障",
+    "level": "普通",
+    "status": "待处理",
+    "handler": "陈工"
+   },
+   {
+    "id": "ALM-900385",
+    "time": "2026-09-11 11:39",
+    "device": "CAB-06133",
+    "type": "柜门异常",
+    "level": "普通",
+    "status": "处理中",
+    "handler": "张工"
+   },
+   {
+    "id": "ALM-900462",
+    "time": "2026-09-10 15:28",
+    "device": "CAB-04085",
+    "type": "离柜异常",
+    "level": "重要",
+    "status": "已处理",
+    "handler": "王工"
+   },
+   {
+    "id": "ALM-900539",
+    "time": "2026-09-16 13:08",
+    "device": "CAB-05891",
+    "type": "电池温度过高",
+    "level": "普通",
+    "status": "待处理",
+    "handler": "陈工"
+   },
+   {
+    "id": "ALM-900616",
+    "time": "2026-09-01 01:43",
+    "device": "CAB-02341",
+    "type": "充电模块故障",
+    "level": "普通",
+    "status": "已处理",
+    "handler": "李工"
+   },
+   {
+    "id": "ALM-900693",
+    "time": "2026-09-01 02:34",
+    "device": "CAB-04154",
+    "type": "离柜异常",
+    "level": "普通",
+    "status": "待处理",
+    "handler": "陈工"
+   },
+   {
+    "id": "ALM-900770",
+    "time": "2026-09-06 06:58",
+    "device": "CAB-01046",
+    "type": "离柜异常",
+    "level": "普通",
+    "status": "处理中",
+    "handler": "李工"
+   },
+   {
+    "id": "ALM-900847",
+    "time": "2026-09-06 12:37",
+    "device": "CAB-02641",
+    "type": "充电模块故障",
+    "level": "紧急",
+    "status": "处理中",
+    "handler": "张工"
+   },
+   {
+    "id": "ALM-900924",
+    "time": "2026-09-12 13:34",
+    "device": "CAB-00826",
+    "type": "电池SOC过低",
+    "level": "普通",
+    "status": "待处理",
+    "handler": "--"
+   },
+   {
+    "id": "ALM-901001",
+    "time": "2026-09-07 08:36",
+    "device": "CAB-04237",
+    "type": "通讯异常",
+    "level": "重要",
+    "status": "待处理",
+    "handler": "--"
+   },
+   {
+    "id": "ALM-901078",
+    "time": "2026-09-01 05:37",
+    "device": "CAB-04584",
+    "type": "电池温度过高",
+    "level": "普通",
+    "status": "处理中",
+    "handler": "--"
+   },
+   {
+    "id": "ALM-901155",
+    "time": "2026-09-11 16:03",
+    "device": "CAB-06098",
+    "type": "柜门异常",
+    "level": "普通",
+    "status": "已处理",
+    "handler": "--"
+   },
+   {
+    "id": "ALM-901232",
+    "time": "2026-09-06 21:50",
+    "device": "CAB-05983",
+    "type": "电芯压差过大",
+    "level": "普通",
+    "status": "已处理",
+    "handler": "陈工"
+   },
+   {
+    "id": "ALM-901309",
+    "time": "2026-09-16 01:41",
+    "device": "CAB-01173",
+    "type": "通讯异常",
+    "level": "紧急",
+    "status": "待处理",
+    "handler": "陈工"
+   },
+   {
+    "id": "ALM-901386",
+    "time": "2026-09-08 01:07",
+    "device": "CAB-04244",
+    "type": "离柜异常",
+    "level": "重要",
+    "status": "待处理",
+    "handler": "王工"
+   },
+   {
+    "id": "ALM-901463",
+    "time": "2026-09-08 03:10",
+    "device": "CAB-02882",
+    "type": "电芯压差过大",
+    "level": "重要",
+    "status": "已处理",
+    "handler": "李工"
+   },
+   {
+    "id": "ALM-901540",
+    "time": "2026-09-12 10:18",
+    "device": "CAB-01965",
+    "type": "电池温度过高",
+    "level": "重要",
+    "status": "处理中",
+    "handler": "李工"
+   },
+   {
+    "id": "ALM-901617",
+    "time": "2026-09-16 18:49",
+    "device": "CAB-05454",
+    "type": "离柜异常",
+    "level": "紧急",
+    "status": "待处理",
+    "handler": "--"
+   },
+   {
+    "id": "ALM-901694",
+    "time": "2026-09-04 02:22",
+    "device": "CAB-05776",
+    "type": "消防误报",
+    "level": "普通",
+    "status": "处理中",
+    "handler": "张工"
+   },
+   {
+    "id": "ALM-901771",
+    "time": "2026-09-07 03:33",
+    "device": "CAB-02242",
+    "type": "电池温度过高",
+    "level": "紧急",
+    "status": "已处理",
+    "handler": "李工"
+   },
+   {
+    "id": "ALM-901848",
+    "time": "2026-09-07 02:13",
+    "device": "CAB-02571",
+    "type": "离柜异常",
+    "level": "重要",
+    "status": "待处理",
+    "handler": "--"
+   },
+   {
+    "id": "ALM-901925",
+    "time": "2026-09-16 07:18",
+    "device": "CAB-00153",
+    "type": "离柜异常",
+    "level": "重要",
+    "status": "处理中",
+    "handler": "陈工"
+   }
+  ]
+ },
+ "maps": {
+  "device": [
+   {
+    "name": "深圳",
+    "lng": 114.06,
+    "lat": 22.55,
+    "cabinets": 2379,
+    "batteries": 14250,
+    "online_rate": 97.6,
+    "users": 18468,
+    "vehicles": 16800,
+    "density": 54.2,
+    "sites": 341,
+    "avg_cabinet": 7.0,
+    "revenue": 708000,
+    "daily_exchanges": 11685
+   },
+   {
+    "name": "杭州",
+    "lng": 120.15,
+    "lat": 30.28,
+    "cabinets": 1502,
+    "batteries": 9000,
+    "online_rate": 98.9,
+    "users": 11664,
+    "vehicles": 10600,
+    "density": 54.0,
+    "sites": 216,
+    "avg_cabinet": 7.0,
+    "revenue": 448000,
+    "daily_exchanges": 7380
+   },
+   {
+    "name": "广州",
+    "lng": 113.26,
+    "lat": 23.13,
+    "cabinets": 1002,
+    "batteries": 6000,
+    "online_rate": 96.2,
+    "users": 7776,
+    "vehicles": 7100,
+    "density": 54.4,
+    "sites": 143,
+    "avg_cabinet": 7.0,
+    "revenue": 299000,
+    "daily_exchanges": 4920
+   },
+   {
+    "name": "东莞",
+    "lng": 113.75,
+    "lat": 23.02,
+    "cabinets": 626,
+    "batteries": 3750,
+    "online_rate": 97.9,
+    "users": 4860,
+    "vehicles": 4400,
+    "density": 54.0,
+    "sites": 90,
+    "avg_cabinet": 7.0,
+    "revenue": 187000,
+    "daily_exchanges": 3075
+   },
+   {
+    "name": "阳朔",
+    "lng": 110.49,
+    "lat": 24.78,
+    "cabinets": 751,
+    "batteries": 4500,
+    "online_rate": 98.9,
+    "users": 5832,
+    "vehicles": 5300,
+    "density": 54.0,
+    "sites": 108,
+    "avg_cabinet": 7.0,
+    "revenue": 224000,
+    "daily_exchanges": 3690
+   },
+   {
+    "name": "佛山",
+    "lng": 113.12,
+    "lat": 23.02,
+    "cabinets": 180,
+    "batteries": 1080,
+    "online_rate": 98.0,
+    "users": 1200,
+    "vehicles": 1100,
+    "density": 46.2,
+    "sites": 26,
+    "avg_cabinet": 6.9,
+    "revenue": 54000,
+    "daily_exchanges": 886
+   },
+   {
+    "name": "珠海",
+    "lng": 113.57,
+    "lat": 22.27,
+    "cabinets": 140,
+    "batteries": 840,
+    "online_rate": 95.7,
+    "users": 950,
+    "vehicles": 880,
+    "density": 47.5,
+    "sites": 20,
+    "avg_cabinet": 7.0,
+    "revenue": 42000,
+    "daily_exchanges": 689
+   },
+   {
+    "name": "中山",
+    "lng": 113.39,
+    "lat": 22.52,
+    "cabinets": 120,
+    "batteries": 720,
+    "online_rate": 98.4,
+    "users": 820,
+    "vehicles": 760,
+    "density": 45.6,
+    "sites": 18,
+    "avg_cabinet": 6.7,
+    "revenue": 36000,
+    "daily_exchanges": 590
+   },
+   {
+    "name": "惠州",
+    "lng": 114.42,
+    "lat": 23.11,
+    "cabinets": 110,
+    "batteries": 660,
+    "online_rate": 96.6,
+    "users": 750,
+    "vehicles": 690,
+    "density": 46.9,
+    "sites": 16,
+    "avg_cabinet": 6.9,
+    "revenue": 33000,
+    "daily_exchanges": 541
+   },
+   {
+    "name": "汕头",
+    "lng": 116.68,
+    "lat": 23.35,
+    "cabinets": 90,
+    "batteries": 540,
+    "online_rate": 95.9,
+    "users": 620,
+    "vehicles": 570,
+    "density": 44.3,
+    "sites": 14,
+    "avg_cabinet": 6.4,
+    "revenue": 27000,
+    "daily_exchanges": 443
+   },
+   {
+    "name": "温州",
+    "lng": 120.7,
+    "lat": 28.0,
+    "cabinets": 130,
+    "batteries": 780,
+    "online_rate": 96.5,
+    "users": 860,
+    "vehicles": 800,
+    "density": 43.0,
+    "sites": 20,
+    "avg_cabinet": 6.5,
+    "revenue": 39000,
+    "daily_exchanges": 640
+   },
+   {
+    "name": "宁波",
+    "lng": 121.55,
+    "lat": 29.88,
+    "cabinets": 110,
+    "batteries": 660,
+    "online_rate": 98.9,
+    "users": 720,
+    "vehicles": 660,
+    "density": 45.0,
+    "sites": 16,
+    "avg_cabinet": 6.9,
+    "revenue": 33000,
+    "daily_exchanges": 541
+   },
+   {
+    "name": "绍兴",
+    "lng": 120.58,
+    "lat": 30.03,
+    "cabinets": 80,
+    "batteries": 480,
+    "online_rate": 94.8,
+    "users": 560,
+    "vehicles": 520,
+    "density": 46.7,
+    "sites": 12,
+    "avg_cabinet": 6.7,
+    "revenue": 24000,
+    "daily_exchanges": 394
+   },
+   {
+    "name": "桂林",
+    "lng": 110.29,
+    "lat": 25.27,
+    "cabinets": 90,
+    "batteries": 540,
+    "online_rate": 95.1,
+    "users": 610,
+    "vehicles": 560,
+    "density": 43.6,
+    "sites": 14,
+    "avg_cabinet": 6.4,
+    "revenue": 27000,
+    "daily_exchanges": 443
+   },
+   {
+    "name": "柳州",
+    "lng": 109.42,
+    "lat": 24.33,
+    "cabinets": 80,
+    "batteries": 480,
+    "online_rate": 94.0,
+    "users": 540,
+    "vehicles": 500,
+    "density": 45.0,
+    "sites": 12,
+    "avg_cabinet": 6.7,
+    "revenue": 24000,
+    "daily_exchanges": 394
+   },
+   {
+    "name": "南宁",
+    "lng": 108.37,
+    "lat": 22.82,
+    "cabinets": 100,
+    "batteries": 600,
+    "online_rate": 94.4,
+    "users": 650,
+    "vehicles": 600,
+    "density": 43.3,
+    "sites": 15,
+    "avg_cabinet": 6.7,
+    "revenue": 30000,
+    "daily_exchanges": 492
+   }
+  ],
+  "user_vehicle": [
+   {
+    "name": "深圳",
+    "lng": 114.06,
+    "lat": 22.55,
+    "cabinets": 0,
+    "batteries": 0,
+    "online_rate": 96.6,
+    "users": 18468,
+    "vehicles": 16800,
+    "density": 54.2,
+    "sites": 341,
+    "avg_cabinet": 0.0,
+    "revenue": 0,
+    "daily_exchanges": 0
+   },
+   {
+    "name": "杭州",
+    "lng": 120.15,
+    "lat": 30.28,
+    "cabinets": 0,
+    "batteries": 0,
+    "online_rate": 98.2,
+    "users": 11664,
+    "vehicles": 10600,
+    "density": 54.0,
+    "sites": 216,
+    "avg_cabinet": 0.0,
+    "revenue": 0,
+    "daily_exchanges": 0
+   },
+   {
+    "name": "广州",
+    "lng": 113.26,
+    "lat": 23.13,
+    "cabinets": 0,
+    "batteries": 0,
+    "online_rate": 95.3,
+    "users": 7776,
+    "vehicles": 7100,
+    "density": 54.4,
+    "sites": 143,
+    "avg_cabinet": 0.0,
+    "revenue": 0,
+    "daily_exchanges": 0
+   },
+   {
+    "name": "东莞",
+    "lng": 113.75,
+    "lat": 23.02,
+    "cabinets": 0,
+    "batteries": 0,
+    "online_rate": 95.5,
+    "users": 4860,
+    "vehicles": 4400,
+    "density": 54.0,
+    "sites": 90,
+    "avg_cabinet": 0.0,
+    "revenue": 0,
+    "daily_exchanges": 0
+   },
+   {
+    "name": "阳朔",
+    "lng": 110.49,
+    "lat": 24.78,
+    "cabinets": 0,
+    "batteries": 0,
+    "online_rate": 96.7,
+    "users": 5832,
+    "vehicles": 5300,
+    "density": 54.0,
+    "sites": 108,
+    "avg_cabinet": 0.0,
+    "revenue": 0,
+    "daily_exchanges": 0
+   },
+   {
+    "name": "佛山",
+    "lng": 113.12,
+    "lat": 23.02,
+    "cabinets": 0,
+    "batteries": 0,
+    "online_rate": 94.7,
+    "users": 1200,
+    "vehicles": 1100,
+    "density": 46.2,
+    "sites": 26,
+    "avg_cabinet": 0.0,
+    "revenue": 0,
+    "daily_exchanges": 0
+   },
+   {
+    "name": "珠海",
+    "lng": 113.57,
+    "lat": 22.27,
+    "cabinets": 0,
+    "batteries": 0,
+    "online_rate": 95.3,
+    "users": 950,
+    "vehicles": 880,
+    "density": 47.5,
+    "sites": 20,
+    "avg_cabinet": 0.0,
+    "revenue": 0,
+    "daily_exchanges": 0
+   },
+   {
+    "name": "中山",
+    "lng": 113.39,
+    "lat": 22.52,
+    "cabinets": 0,
+    "batteries": 0,
+    "online_rate": 94.7,
+    "users": 820,
+    "vehicles": 760,
+    "density": 45.6,
+    "sites": 18,
+    "avg_cabinet": 0.0,
+    "revenue": 0,
+    "daily_exchanges": 0
+   },
+   {
+    "name": "惠州",
+    "lng": 114.42,
+    "lat": 23.11,
+    "cabinets": 0,
+    "batteries": 0,
+    "online_rate": 95.4,
+    "users": 750,
+    "vehicles": 690,
+    "density": 46.9,
+    "sites": 16,
+    "avg_cabinet": 0.0,
+    "revenue": 0,
+    "daily_exchanges": 0
+   },
+   {
+    "name": "汕头",
+    "lng": 116.68,
+    "lat": 23.35,
+    "cabinets": 0,
+    "batteries": 0,
+    "online_rate": 99.0,
+    "users": 620,
+    "vehicles": 570,
+    "density": 44.3,
+    "sites": 14,
+    "avg_cabinet": 0.0,
+    "revenue": 0,
+    "daily_exchanges": 0
+   },
+   {
+    "name": "温州",
+    "lng": 120.7,
+    "lat": 28.0,
+    "cabinets": 0,
+    "batteries": 0,
+    "online_rate": 94.7,
+    "users": 860,
+    "vehicles": 800,
+    "density": 43.0,
+    "sites": 20,
+    "avg_cabinet": 0.0,
+    "revenue": 0,
+    "daily_exchanges": 0
+   },
+   {
+    "name": "宁波",
+    "lng": 121.55,
+    "lat": 29.88,
+    "cabinets": 0,
+    "batteries": 0,
+    "online_rate": 96.7,
+    "users": 720,
+    "vehicles": 660,
+    "density": 45.0,
+    "sites": 16,
+    "avg_cabinet": 0.0,
+    "revenue": 0,
+    "daily_exchanges": 0
+   },
+   {
+    "name": "绍兴",
+    "lng": 120.58,
+    "lat": 30.03,
+    "cabinets": 0,
+    "batteries": 0,
+    "online_rate": 95.2,
+    "users": 560,
+    "vehicles": 520,
+    "density": 46.7,
+    "sites": 12,
+    "avg_cabinet": 0.0,
+    "revenue": 0,
+    "daily_exchanges": 0
+   },
+   {
+    "name": "桂林",
+    "lng": 110.29,
+    "lat": 25.27,
+    "cabinets": 0,
+    "batteries": 0,
+    "online_rate": 96.6,
+    "users": 610,
+    "vehicles": 560,
+    "density": 43.6,
+    "sites": 14,
+    "avg_cabinet": 0.0,
+    "revenue": 0,
+    "daily_exchanges": 0
+   },
+   {
+    "name": "柳州",
+    "lng": 109.42,
+    "lat": 24.33,
+    "cabinets": 0,
+    "batteries": 0,
+    "online_rate": 98.4,
+    "users": 540,
+    "vehicles": 500,
+    "density": 45.0,
+    "sites": 12,
+    "avg_cabinet": 0.0,
+    "revenue": 0,
+    "daily_exchanges": 0
+   },
+   {
+    "name": "南宁",
+    "lng": 108.37,
+    "lat": 22.82,
+    "cabinets": 0,
+    "batteries": 0,
+    "online_rate": 97.3,
+    "users": 650,
+    "vehicles": 600,
+    "density": 43.3,
+    "sites": 15,
+    "avg_cabinet": 0.0,
+    "revenue": 0,
+    "daily_exchanges": 0
+   }
+  ],
+  "site": [
+   {
+    "name": "深圳",
+    "lng": 114.06,
+    "lat": 22.55,
+    "cabinets": 2379,
+    "batteries": 14250,
+    "online_rate": 94.4,
+    "users": 0,
+    "vehicles": 0,
+    "density": 0.0,
+    "sites": 341,
+    "avg_cabinet": 7.0,
+    "revenue": 708000,
+    "daily_exchanges": 11685
+   },
+   {
+    "name": "杭州",
+    "lng": 120.15,
+    "lat": 30.28,
+    "cabinets": 1502,
+    "batteries": 9000,
+    "online_rate": 98.9,
+    "users": 0,
+    "vehicles": 0,
+    "density": 0.0,
+    "sites": 216,
+    "avg_cabinet": 7.0,
+    "revenue": 448000,
+    "daily_exchanges": 7380
+   },
+   {
+    "name": "广州",
+    "lng": 113.26,
+    "lat": 23.13,
+    "cabinets": 1002,
+    "batteries": 6000,
+    "online_rate": 97.1,
+    "users": 0,
+    "vehicles": 0,
+    "density": 0.0,
+    "sites": 143,
+    "avg_cabinet": 7.0,
+    "revenue": 299000,
+    "daily_exchanges": 4920
+   },
+   {
+    "name": "东莞",
+    "lng": 113.75,
+    "lat": 23.02,
+    "cabinets": 626,
+    "batteries": 3750,
+    "online_rate": 94.7,
+    "users": 0,
+    "vehicles": 0,
+    "density": 0.0,
+    "sites": 90,
+    "avg_cabinet": 7.0,
+    "revenue": 187000,
+    "daily_exchanges": 3075
+   },
+   {
+    "name": "阳朔",
+    "lng": 110.49,
+    "lat": 24.78,
+    "cabinets": 751,
+    "batteries": 4500,
+    "online_rate": 98.4,
+    "users": 0,
+    "vehicles": 0,
+    "density": 0.0,
+    "sites": 108,
+    "avg_cabinet": 7.0,
+    "revenue": 224000,
+    "daily_exchanges": 3690
+   },
+   {
+    "name": "佛山",
+    "lng": 113.12,
+    "lat": 23.02,
+    "cabinets": 180,
+    "batteries": 1080,
+    "online_rate": 95.6,
+    "users": 0,
+    "vehicles": 0,
+    "density": 0.0,
+    "sites": 26,
+    "avg_cabinet": 6.9,
+    "revenue": 54000,
+    "daily_exchanges": 886
+   },
+   {
+    "name": "珠海",
+    "lng": 113.57,
+    "lat": 22.27,
+    "cabinets": 140,
+    "batteries": 840,
+    "online_rate": 94.6,
+    "users": 0,
+    "vehicles": 0,
+    "density": 0.0,
+    "sites": 20,
+    "avg_cabinet": 7.0,
+    "revenue": 42000,
+    "daily_exchanges": 689
+   },
+   {
+    "name": "中山",
+    "lng": 113.39,
+    "lat": 22.52,
+    "cabinets": 120,
+    "batteries": 720,
+    "online_rate": 97.6,
+    "users": 0,
+    "vehicles": 0,
+    "density": 0.0,
+    "sites": 18,
+    "avg_cabinet": 6.7,
+    "revenue": 36000,
+    "daily_exchanges": 590
+   },
+   {
+    "name": "惠州",
+    "lng": 114.42,
+    "lat": 23.11,
+    "cabinets": 110,
+    "batteries": 660,
+    "online_rate": 96.0,
+    "users": 0,
+    "vehicles": 0,
+    "density": 0.0,
+    "sites": 16,
+    "avg_cabinet": 6.9,
+    "revenue": 33000,
+    "daily_exchanges": 541
+   },
+   {
+    "name": "汕头",
+    "lng": 116.68,
+    "lat": 23.35,
+    "cabinets": 90,
+    "batteries": 540,
+    "online_rate": 97.7,
+    "users": 0,
+    "vehicles": 0,
+    "density": 0.0,
+    "sites": 14,
+    "avg_cabinet": 6.4,
+    "revenue": 27000,
+    "daily_exchanges": 443
+   },
+   {
+    "name": "温州",
+    "lng": 120.7,
+    "lat": 28.0,
+    "cabinets": 130,
+    "batteries": 780,
+    "online_rate": 97.7,
+    "users": 0,
+    "vehicles": 0,
+    "density": 0.0,
+    "sites": 20,
+    "avg_cabinet": 6.5,
+    "revenue": 39000,
+    "daily_exchanges": 640
+   },
+   {
+    "name": "宁波",
+    "lng": 121.55,
+    "lat": 29.88,
+    "cabinets": 110,
+    "batteries": 660,
+    "online_rate": 98.2,
+    "users": 0,
+    "vehicles": 0,
+    "density": 0.0,
+    "sites": 16,
+    "avg_cabinet": 6.9,
+    "revenue": 33000,
+    "daily_exchanges": 541
+   },
+   {
+    "name": "绍兴",
+    "lng": 120.58,
+    "lat": 30.03,
+    "cabinets": 80,
+    "batteries": 480,
+    "online_rate": 95.3,
+    "users": 0,
+    "vehicles": 0,
+    "density": 0.0,
+    "sites": 12,
+    "avg_cabinet": 6.7,
+    "revenue": 24000,
+    "daily_exchanges": 394
+   },
+   {
+    "name": "桂林",
+    "lng": 110.29,
+    "lat": 25.27,
+    "cabinets": 90,
+    "batteries": 540,
+    "online_rate": 94.6,
+    "users": 0,
+    "vehicles": 0,
+    "density": 0.0,
+    "sites": 14,
+    "avg_cabinet": 6.4,
+    "revenue": 27000,
+    "daily_exchanges": 443
+   },
+   {
+    "name": "柳州",
+    "lng": 109.42,
+    "lat": 24.33,
+    "cabinets": 80,
+    "batteries": 480,
+    "online_rate": 95.9,
+    "users": 0,
+    "vehicles": 0,
+    "density": 0.0,
+    "sites": 12,
+    "avg_cabinet": 6.7,
+    "revenue": 24000,
+    "daily_exchanges": 394
+   },
+   {
+    "name": "南宁",
+    "lng": 108.37,
+    "lat": 22.82,
+    "cabinets": 100,
+    "batteries": 600,
+    "online_rate": 96.5,
+    "users": 0,
+    "vehicles": 0,
+    "density": 0.0,
+    "sites": 15,
+    "avg_cabinet": 6.7,
+    "revenue": 30000,
+    "daily_exchanges": 492
+   }
+  ]
+ },
+ "details": {
+  "cabinets": [
+   {
+    "id": "CAB-00001",
+    "city": "广州",
+    "site": "东莞-写字楼-32号",
+    "slot": "6口",
+    "status": "运营中",
+    "online": "在线",
+    "daily_orders": 9,
+    "month_revenue": 4165,
+    "use_years": 2.3,
+    "payback": "已回本"
+   },
+   {
+    "id": "CAB-00002",
+    "city": "深圳",
+    "site": "东莞-社区门店-36号",
+    "slot": "6口",
+    "status": "运营中",
+    "online": "在线",
+    "daily_orders": 9,
+    "month_revenue": 4689,
+    "use_years": 1.9,
+    "payback": "已回本"
+   },
+   {
+    "id": "CAB-00003",
+    "city": "深圳",
+    "site": "深圳-写字楼-08号",
+    "slot": "6口",
+    "status": "运营中",
+    "online": "在线",
+    "daily_orders": 16,
+    "month_revenue": 2352,
+    "use_years": 0.4,
+    "payback": "已回本"
+   },
+   {
+    "id": "CAB-00004",
+    "city": "阳朔",
+    "site": "深圳-社区门店-24号",
+    "slot": "6口",
+    "status": "运营中",
+    "online": "在线",
+    "daily_orders": 13,
+    "month_revenue": 4594,
+    "use_years": 1.2,
+    "payback": "已回本"
+   },
+   {
+    "id": "CAB-00005",
+    "city": "杭州",
+    "site": "东莞-物业小区-24号",
+    "slot": "6口",
+    "status": "运营中",
+    "online": "离线",
+    "daily_orders": 13,
+    "month_revenue": 2692,
+    "use_years": 2.8,
+    "payback": "未回本"
+   },
+   {
+    "id": "CAB-00006",
+    "city": "杭州",
+    "site": "东莞-合作车行-22号",
+    "slot": "4口",
+    "status": "运营中",
+    "online": "在线",
+    "daily_orders": 10,
+    "month_revenue": 2389,
+    "use_years": 2.3,
+    "payback": "已回本"
+   },
+   {
+    "id": "CAB-00007",
+    "city": "深圳",
+    "site": "杭州-交通枢纽-29号",
+    "slot": "6口",
+    "status": "运营中",
+    "online": "在线",
+    "daily_orders": 11,
+    "month_revenue": 4905,
+    "use_years": 2.7,
+    "payback": "已回本"
+   },
+   {
+    "id": "CAB-00008",
+    "city": "广州",
+    "site": "杭州-交通枢纽-33号",
+    "slot": "6口",
+    "status": "运营中",
+    "online": "在线",
+    "daily_orders": 7,
+    "month_revenue": 4629,
+    "use_years": 3.3,
+    "payback": "已回本"
+   },
+   {
+    "id": "CAB-00009",
+    "city": "杭州",
+    "site": "杭州-写字楼-01号",
+    "slot": "6口",
+    "status": "运营中",
+    "online": "在线",
+    "daily_orders": 15,
+    "month_revenue": 1937,
+    "use_years": 0.9,
+    "payback": "已回本"
+   },
+   {
+    "id": "CAB-00010",
+    "city": "阳朔",
+    "site": "广州-商场周边-01号",
+    "slot": "6口",
+    "status": "运营中",
+    "online": "在线",
+    "daily_orders": 5,
+    "month_revenue": 1589,
+    "use_years": 2.7,
+    "payback": "已回本"
+   },
+   {
+    "id": "CAB-00011",
+    "city": "阳朔",
+    "site": "东莞-社区门店-07号",
+    "slot": "4口",
+    "status": "运营中",
+    "online": "在线",
+    "daily_orders": 4,
+    "month_revenue": 1833,
+    "use_years": 0.3,
+    "payback": "已回本"
+   },
+   {
+    "id": "CAB-00012",
+    "city": "阳朔",
+    "site": "深圳-交通枢纽-02号",
+    "slot": "6口",
+    "status": "运营中",
+    "online": "在线",
+    "daily_orders": 12,
+    "month_revenue": 3189,
+    "use_years": 3.3,
+    "payback": "未回本"
+   },
+   {
+    "id": "CAB-00013",
+    "city": "广州",
+    "site": "阳朔-产业园区-35号",
+    "slot": "6口",
+    "status": "运营中",
+    "online": "在线",
+    "daily_orders": 5,
+    "month_revenue": 4199,
+    "use_years": 1.5,
+    "payback": "已回本"
+   },
+   {
+    "id": "CAB-00014",
+    "city": "深圳",
+    "site": "广州-合作车行-07号",
+    "slot": "6口",
+    "status": "运营中",
+    "online": "在线",
+    "daily_orders": 10,
+    "month_revenue": 2248,
+    "use_years": 0.8,
+    "payback": "已回本"
+   },
+   {
+    "id": "CAB-00015",
+    "city": "广州",
+    "site": "杭州-合作车行-02号",
+    "slot": "6口",
+    "status": "运营中",
+    "online": "在线",
+    "daily_orders": 10,
+    "month_revenue": 3974,
+    "use_years": 1.8,
+    "payback": "未回本"
+   },
+   {
+    "id": "CAB-00016",
+    "city": "杭州",
+    "site": "广州-社区门店-28号",
+    "slot": "6口",
+    "status": "运营中",
+    "online": "在线",
+    "daily_orders": 13,
+    "month_revenue": 4829,
+    "use_years": 0.5,
+    "payback": "未回本"
+   },
+   {
+    "id": "CAB-00017",
+    "city": "深圳",
+    "site": "深圳-社区门店-03号",
+    "slot": "4口",
+    "status": "运营中",
+    "online": "在线",
+    "daily_orders": 8,
+    "month_revenue": 2048,
+    "use_years": 2.0,
+    "payback": "未回本"
+   },
+   {
+    "id": "CAB-00018",
+    "city": "阳朔",
+    "site": "杭州-交通枢纽-27号",
+    "slot": "6口",
+    "status": "运营中",
+    "online": "在线",
+    "daily_orders": 15,
+    "month_revenue": 1575,
+    "use_years": 2.0,
+    "payback": "已回本"
+   },
+   {
+    "id": "CAB-00019",
+    "city": "东莞",
+    "site": "深圳-社区门店-24号",
+    "slot": "6口",
+    "status": "运营中",
+    "online": "在线",
+    "daily_orders": 9,
+    "month_revenue": 2329,
+    "use_years": 3.2,
+    "payback": "已回本"
+   },
+   {
+    "id": "CAB-00020",
+    "city": "杭州",
+    "site": "东莞-社区门店-18号",
+    "slot": "6口",
+    "status": "运营中",
+    "online": "在线",
+    "daily_orders": 4,
+    "month_revenue": 1508,
+    "use_years": 2.3,
+    "payback": "已回本"
+   },
+   {
+    "id": "CAB-00021",
+    "city": "深圳",
+    "site": "杭州-社区门店-07号",
+    "slot": "4口",
+    "status": "运营中",
+    "online": "在线",
+    "daily_orders": 8,
+    "month_revenue": 3680,
+    "use_years": 2.5,
+    "payback": "未回本"
+   },
+   {
+    "id": "CAB-00022",
+    "city": "深圳",
+    "site": "广州-物业小区-37号",
+    "slot": "6口",
+    "status": "运营中",
+    "online": "在线",
+    "daily_orders": 8,
+    "month_revenue": 2829,
+    "use_years": 2.9,
+    "payback": "未回本"
+   },
+   {
+    "id": "CAB-00023",
+    "city": "杭州",
+    "site": "深圳-学校周边-21号",
+    "slot": "4口",
+    "status": "运营中",
+    "online": "在线",
+    "daily_orders": 11,
+    "month_revenue": 2329,
+    "use_years": 0.5,
+    "payback": "已回本"
+   },
+   {
+    "id": "CAB-00024",
+    "city": "阳朔",
+    "site": "东莞-学校周边-26号",
+    "slot": "6口",
+    "status": "运营中",
+    "online": "在线",
+    "daily_orders": 6,
+    "month_revenue": 1617,
+    "use_years": 3.1,
+    "payback": "已回本"
+   },
+   {
+    "id": "CAB-00025",
+    "city": "杭州",
+    "site": "东莞-社区门店-18号",
+    "slot": "3口",
+    "status": "运营中",
+    "online": "在线",
+    "daily_orders": 16,
+    "month_revenue": 4691,
+    "use_years": 2.2,
+    "payback": "未回本"
+   },
+   {
+    "id": "CAB-00026",
+    "city": "深圳",
+    "site": "阳朔-合作车行-38号",
+    "slot": "3口",
+    "status": "运营中",
+    "online": "在线",
+    "daily_orders": 8,
+    "month_revenue": 1503,
+    "use_years": 1.8,
+    "payback": "未回本"
+   },
+   {
+    "id": "CAB-00027",
+    "city": "杭州",
+    "site": "深圳-物业小区-39号",
+    "slot": "6口",
+    "status": "运营中",
+    "online": "离线",
+    "daily_orders": 7,
+    "month_revenue": 4072,
+    "use_years": 2.0,
+    "payback": "已回本"
+   },
+   {
+    "id": "CAB-00028",
+    "city": "杭州",
+    "site": "深圳-社区门店-03号",
+    "slot": "6口",
+    "status": "运营中",
+    "online": "在线",
+    "daily_orders": 4,
+    "month_revenue": 4109,
+    "use_years": 3.0,
+    "payback": "已回本"
+   },
+   {
+    "id": "CAB-00029",
+    "city": "杭州",
+    "site": "杭州-学校周边-32号",
+    "slot": "6口",
+    "status": "运营中",
+    "online": "在线",
+    "daily_orders": 4,
+    "month_revenue": 3316,
+    "use_years": 1.7,
+    "payback": "未回本"
+   },
+   {
+    "id": "CAB-00030",
+    "city": "杭州",
+    "site": "杭州-合作车行-02号",
+    "slot": "3口",
+    "status": "运营中",
+    "online": "在线",
+    "daily_orders": 8,
+    "month_revenue": 3557,
+    "use_years": 1.9,
+    "payback": "已回本"
+   },
+   {
+    "id": "CAB-00031",
+    "city": "杭州",
+    "site": "杭州-社区门店-34号",
+    "slot": "6口",
+    "status": "运营中",
+    "online": "在线",
+    "daily_orders": 15,
+    "month_revenue": 2197,
+    "use_years": 1.4,
+    "payback": "未回本"
+   },
+   {
+    "id": "CAB-00032",
+    "city": "阳朔",
+    "site": "广州-写字楼-38号",
+    "slot": "6口",
+    "status": "运营中",
+    "online": "在线",
+    "daily_orders": 13,
+    "month_revenue": 4612,
+    "use_years": 3.0,
+    "payback": "已回本"
+   },
+   {
+    "id": "CAB-00033",
+    "city": "深圳",
+    "site": "杭州-合作车行-02号",
+    "slot": "4口",
+    "status": "运营中",
+    "online": "在线",
+    "daily_orders": 15,
+    "month_revenue": 2992,
+    "use_years": 1.3,
+    "payback": "已回本"
+   },
+   {
+    "id": "CAB-00034",
+    "city": "阳朔",
+    "site": "东莞-商场周边-30号",
+    "slot": "6口",
+    "status": "运营中",
+    "online": "在线",
+    "daily_orders": 10,
+    "month_revenue": 5100,
+    "use_years": 1.5,
+    "payback": "未回本"
+   },
+   {
+    "id": "CAB-00035",
+    "city": "深圳",
+    "site": "东莞-社区门店-09号",
+    "slot": "4口",
+    "status": "运营中",
+    "online": "在线",
+    "daily_orders": 4,
+    "month_revenue": 3877,
+    "use_years": 2.2,
+    "payback": "已回本"
+   },
+   {
+    "id": "CAB-00036",
+    "city": "杭州",
+    "site": "广州-学校周边-04号",
+    "slot": "3口",
+    "status": "运营中",
+    "online": "在线",
+    "daily_orders": 16,
+    "month_revenue": 1966,
+    "use_years": 2.7,
+    "payback": "已回本"
+   },
+   {
+    "id": "CAB-00037",
+    "city": "深圳",
+    "site": "东莞-物业小区-24号",
+    "slot": "6口",
+    "status": "运营中",
+    "online": "在线",
+    "daily_orders": 6,
+    "month_revenue": 4754,
+    "use_years": 2.9,
+    "payback": "已回本"
+   },
+   {
+    "id": "CAB-00038",
+    "city": "杭州",
+    "site": "深圳-物业小区-36号",
+    "slot": "6口",
+    "status": "运营中",
+    "online": "在线",
+    "daily_orders": 10,
+    "month_revenue": 2200,
+    "use_years": 0.8,
+    "payback": "已回本"
+   },
+   {
+    "id": "CAB-00039",
+    "city": "深圳",
+    "site": "广州-商场周边-27号",
+    "slot": "4口",
+    "status": "运营中",
+    "online": "离线",
+    "daily_orders": 11,
+    "month_revenue": 4521,
+    "use_years": 3.3,
+    "payback": "已回本"
+   },
+   {
+    "id": "CAB-00040",
+    "city": "东莞",
+    "site": "深圳-物业小区-23号",
+    "slot": "6口",
+    "status": "运营中",
+    "online": "离线",
+    "daily_orders": 14,
+    "month_revenue": 2633,
+    "use_years": 2.1,
+    "payback": "未回本"
+   },
+   {
+    "id": "CAB-00041",
+    "city": "深圳",
+    "site": "广州-合作车行-05号",
+    "slot": "3口",
+    "status": "运营中",
+    "online": "在线",
+    "daily_orders": 10,
+    "month_revenue": 3368,
+    "use_years": 1.2,
+    "payback": "已回本"
+   },
+   {
+    "id": "CAB-00042",
+    "city": "阳朔",
+    "site": "阳朔-产业园区-23号",
+    "slot": "6口",
+    "status": "运营中",
+    "online": "离线",
+    "daily_orders": 8,
+    "month_revenue": 2366,
+    "use_years": 2.2,
+    "payback": "已回本"
+   },
+   {
+    "id": "CAB-00043",
+    "city": "深圳",
+    "site": "杭州-交通枢纽-27号",
+    "slot": "3口",
+    "status": "运营中",
+    "online": "在线",
+    "daily_orders": 6,
+    "month_revenue": 4567,
+    "use_years": 0.7,
+    "payback": "已回本"
+   },
+   {
+    "id": "CAB-00044",
+    "city": "东莞",
+    "site": "东莞-社区门店-01号",
+    "slot": "4口",
+    "status": "运营中",
+    "online": "在线",
+    "daily_orders": 6,
+    "month_revenue": 4536,
+    "use_years": 1.5,
+    "payback": "已回本"
+   },
+   {
+    "id": "CAB-00045",
+    "city": "东莞",
+    "site": "阳朔-写字楼-11号",
+    "slot": "6口",
+    "status": "运营中",
+    "online": "离线",
+    "daily_orders": 16,
+    "month_revenue": 1663,
+    "use_years": 0.5,
+    "payback": "未回本"
+   },
+   {
+    "id": "CAB-00046",
+    "city": "杭州",
+    "site": "广州-社区门店-22号",
+    "slot": "6口",
+    "status": "运营中",
+    "online": "在线",
+    "daily_orders": 14,
+    "month_revenue": 4076,
+    "use_years": 1.2,
+    "payback": "未回本"
+   },
+   {
+    "id": "CAB-00047",
+    "city": "东莞",
+    "site": "广州-社区门店-22号",
+    "slot": "6口",
+    "status": "运营中",
+    "online": "在线",
+    "daily_orders": 12,
+    "month_revenue": 1597,
+    "use_years": 1.0,
+    "payback": "已回本"
+   },
+   {
+    "id": "CAB-00048",
+    "city": "深圳",
+    "site": "东莞-学校周边-26号",
+    "slot": "6口",
+    "status": "运营中",
+    "online": "在线",
+    "daily_orders": 8,
+    "month_revenue": 3522,
+    "use_years": 3.3,
+    "payback": "未回本"
+   },
+   {
+    "id": "CAB-00049",
+    "city": "杭州",
+    "site": "东莞-商场周边-30号",
+    "slot": "6口",
+    "status": "运营中",
+    "online": "在线",
+    "daily_orders": 13,
+    "month_revenue": 4134,
+    "use_years": 3.2,
+    "payback": "未回本"
+   },
+   {
+    "id": "CAB-00050",
+    "city": "杭州",
+    "site": "阳朔-产业园区-35号",
+    "slot": "6口",
+    "status": "运营中",
+    "online": "在线",
+    "daily_orders": 12,
+    "month_revenue": 2868,
+    "use_years": 1.9,
+    "payback": "未回本"
+   },
+   {
+    "id": "CAB-00051",
+    "city": "东莞",
+    "site": "深圳-交通枢纽-02号",
+    "slot": "4口",
+    "status": "运营中",
+    "online": "在线",
+    "daily_orders": 12,
+    "month_revenue": 3566,
+    "use_years": 1.1,
+    "payback": "已回本"
+   },
+   {
+    "id": "CAB-00052",
+    "city": "深圳",
+    "site": "广州-合作车行-26号",
+    "slot": "3口",
+    "status": "运营中",
+    "online": "在线",
+    "daily_orders": 9,
+    "month_revenue": 2922,
+    "use_years": 0.8,
+    "payback": "未回本"
+   },
+   {
+    "id": "CAB-00053",
+    "city": "杭州",
+    "site": "深圳-写字楼-27号",
+    "slot": "4口",
+    "status": "运营中",
+    "online": "在线",
+    "daily_orders": 14,
+    "month_revenue": 3827,
+    "use_years": 1.7,
+    "payback": "未回本"
+   },
+   {
+    "id": "CAB-00054",
+    "city": "东莞",
+    "site": "东莞-社区门店-07号",
+    "slot": "3口",
+    "status": "运营中",
+    "online": "在线",
+    "daily_orders": 14,
+    "month_revenue": 4334,
+    "use_years": 1.1,
+    "payback": "未回本"
+   },
+   {
+    "id": "CAB-00055",
+    "city": "广州",
+    "site": "广州-社区门店-28号",
+    "slot": "6口",
+    "status": "运营中",
+    "online": "在线",
+    "daily_orders": 11,
+    "month_revenue": 4490,
+    "use_years": 2.1,
+    "payback": "已回本"
+   },
+   {
+    "id": "CAB-00056",
+    "city": "杭州",
+    "site": "东莞-社区门店-04号",
+    "slot": "6口",
+    "status": "运营中",
+    "online": "在线",
+    "daily_orders": 16,
+    "month_revenue": 1695,
+    "use_years": 2.9,
+    "payback": "未回本"
+   },
+   {
+    "id": "CAB-00057",
+    "city": "阳朔",
+    "site": "阳朔-学校周边-15号",
+    "slot": "6口",
+    "status": "运营中",
+    "online": "离线",
+    "daily_orders": 5,
+    "month_revenue": 4511,
+    "use_years": 0.6,
+    "payback": "已回本"
+   },
+   {
+    "id": "CAB-00058",
+    "city": "广州",
+    "site": "广州-写字楼-14号",
+    "slot": "4口",
+    "status": "运营中",
+    "online": "在线",
+    "daily_orders": 10,
+    "month_revenue": 5131,
+    "use_years": 2.8,
+    "payback": "已回本"
+   },
+   {
+    "id": "CAB-00059",
+    "city": "东莞",
+    "site": "广州-写字楼-06号",
+    "slot": "4口",
+    "status": "运营中",
+    "online": "在线",
+    "daily_orders": 4,
+    "month_revenue": 4359,
+    "use_years": 0.4,
+    "payback": "未回本"
+   },
+   {
+    "id": "CAB-00060",
+    "city": "广州",
+    "site": "杭州-学校周边-40号",
+    "slot": "6口",
+    "status": "运营中",
+    "online": "在线",
+    "daily_orders": 6,
+    "month_revenue": 4548,
+    "use_years": 2.4,
+    "payback": "已回本"
+   }
+  ],
+  "batteries": [
+   {
+    "id": "BT-00001",
+    "model": "4824",
+    "city": "深圳",
+    "status": "在柜",
+    "soc": 15,
+    "voltage": 47.0,
+    "temperature": 32.8,
+    "cycles": 194,
+    "soh": 94.3,
+    "use_months": 19
+   },
+   {
+    "id": "BT-00002",
+    "model": "4824",
+    "city": "深圳",
+    "status": "在柜",
+    "soc": 69,
+    "voltage": 50.3,
+    "temperature": 24.6,
+    "cycles": 647,
+    "soh": 97.2,
+    "use_months": 7
+   },
+   {
+    "id": "BT-00003",
+    "model": "4824",
+    "city": "阳朔",
+    "status": "满电待换",
+    "soc": 6,
+    "voltage": 49.4,
+    "temperature": 37.3,
+    "cycles": 265,
+    "soh": 86.1,
+    "use_months": 9
+   },
+   {
+    "id": "BT-00004",
+    "model": "4824",
+    "city": "深圳",
+    "status": "在柜",
+    "soc": 91,
+    "voltage": 50.8,
+    "temperature": 29.8,
+    "cycles": 518,
+    "soh": 75.0,
+    "use_months": 11
+   },
+   {
+    "id": "BT-00005",
+    "model": "4824",
+    "city": "广州",
+    "status": "满电待换",
+    "soc": 8,
+    "voltage": 49.8,
+    "temperature": 37.3,
+    "cycles": 316,
+    "soh": 85.2,
+    "use_months": 1
+   },
+   {
+    "id": "BT-00006",
+    "model": "4824",
+    "city": "深圳",
+    "status": "仓库",
+    "soc": 23,
+    "voltage": 50.9,
+    "temperature": 33.4,
+    "cycles": 529,
+    "soh": 83.8,
+    "use_months": 17
+   },
+   {
+    "id": "BT-00007",
+    "model": "4814",
+    "city": "杭州",
+    "status": "在柜",
+    "soc": 85,
+    "voltage": 53.5,
+    "temperature": 18.4,
+    "cycles": 94,
+    "soh": 90.9,
+    "use_months": 4
+   },
+   {
+    "id": "BT-00008",
+    "model": "4814",
+    "city": "东莞",
+    "status": "维修中",
+    "soc": 75,
+    "voltage": 53.5,
+    "temperature": 20.8,
+    "cycles": 184,
+    "soh": 96.6,
+    "use_months": 21
+   },
+   {
+    "id": "BT-00009",
+    "model": "4814",
+    "city": "广州",
+    "status": "维修中",
+    "soc": 46,
+    "voltage": 49.0,
+    "temperature": 30.3,
+    "cycles": 236,
+    "soh": 82.3,
+    "use_months": 6
+   },
+   {
+    "id": "BT-00010",
+    "model": "4814",
+    "city": "深圳",
+    "status": "满电待换",
+    "soc": 16,
+    "voltage": 48.5,
+    "temperature": 33.1,
+    "cycles": 449,
+    "soh": 98.9,
+    "use_months": 10
+   },
+   {
+    "id": "BT-00011",
+    "model": "4814",
+    "city": "深圳",
+    "status": "在柜",
+    "soc": 75,
+    "voltage": 52.6,
+    "temperature": 18.7,
+    "cycles": 610,
+    "soh": 92.2,
+    "use_months": 19
+   },
+   {
+    "id": "BT-00012",
+    "model": "4814",
+    "city": "杭州",
+    "status": "在柜",
+    "soc": 99,
+    "voltage": 48.7,
+    "temperature": 21.0,
+    "cycles": 649,
+    "soh": 98.5,
+    "use_months": 7
+   },
+   {
+    "id": "BT-00013",
+    "model": "4824",
+    "city": "杭州",
+    "status": "在柜",
+    "soc": 48,
+    "voltage": 53.2,
+    "temperature": 40.3,
+    "cycles": 557,
+    "soh": 74.7,
+    "use_months": 13
+   },
+   {
+    "id": "BT-00014",
+    "model": "4814",
+    "city": "杭州",
+    "status": "维修中",
+    "soc": 6,
+    "voltage": 50.8,
+    "temperature": 23.4,
+    "cycles": 63,
+    "soh": 84.6,
+    "use_months": 20
+   },
+   {
+    "id": "BT-00015",
+    "model": "4814",
+    "city": "深圳",
+    "status": "满电待换",
+    "soc": 47,
+    "voltage": 52.2,
+    "temperature": 35.9,
+    "cycles": 372,
+    "soh": 76.5,
+    "use_months": 13
+   },
+   {
+    "id": "BT-00016",
+    "model": "4824",
+    "city": "深圳",
+    "status": "在柜",
+    "soc": 42,
+    "voltage": 51.6,
+    "temperature": 39.5,
+    "cycles": 652,
+    "soh": 89.4,
+    "use_months": 13
+   },
+   {
+    "id": "BT-00017",
+    "model": "4814",
+    "city": "深圳",
+    "status": "仓库",
+    "soc": 49,
+    "voltage": 49.2,
+    "temperature": 30.5,
+    "cycles": 203,
+    "soh": 81.0,
+    "use_months": 22
+   },
+   {
+    "id": "BT-00018",
+    "model": "4814",
+    "city": "杭州",
+    "status": "满电待换",
+    "soc": 92,
+    "voltage": 47.4,
+    "temperature": 29.6,
+    "cycles": 470,
+    "soh": 83.2,
+    "use_months": 5
+   },
+   {
+    "id": "BT-00019",
+    "model": "4824",
+    "city": "深圳",
+    "status": "满电待换",
+    "soc": 39,
+    "voltage": 52.7,
+    "temperature": 29.6,
+    "cycles": 235,
+    "soh": 97.4,
+    "use_months": 15
+   },
+   {
+    "id": "BT-00020",
+    "model": "4824",
+    "city": "杭州",
+    "status": "在柜",
+    "soc": 91,
+    "voltage": 47.5,
+    "temperature": 33.5,
+    "cycles": 584,
+    "soh": 87.8,
+    "use_months": 23
+   },
+   {
+    "id": "BT-00021",
+    "model": "4814",
+    "city": "深圳",
+    "status": "在柜",
+    "soc": 95,
+    "voltage": 53.3,
+    "temperature": 18.1,
+    "cycles": 686,
+    "soh": 87.1,
+    "use_months": 21
+   },
+   {
+    "id": "BT-00022",
+    "model": "4824",
+    "city": "深圳",
+    "status": "仓库",
+    "soc": 56,
+    "voltage": 50.3,
+    "temperature": 32.7,
+    "cycles": 380,
+    "soh": 73.3,
+    "use_months": 8
+   },
+   {
+    "id": "BT-00023",
+    "model": "4824",
+    "city": "东莞",
+    "status": "在柜",
+    "soc": 9,
+    "voltage": 52.9,
+    "temperature": 32.8,
+    "cycles": 634,
+    "soh": 91.7,
+    "use_months": 6
+   },
+   {
+    "id": "BT-00024",
+    "model": "4824",
+    "city": "东莞",
+    "status": "在柜",
+    "soc": 18,
+    "voltage": 47.8,
+    "temperature": 23.9,
+    "cycles": 175,
+    "soh": 88.0,
+    "use_months": 22
+   },
+   {
+    "id": "BT-00025",
+    "model": "4814",
+    "city": "深圳",
+    "status": "在柜",
+    "soc": 87,
+    "voltage": 48.9,
+    "temperature": 28.0,
+    "cycles": 452,
+    "soh": 85.3,
+    "use_months": 5
+   },
+   {
+    "id": "BT-00026",
+    "model": "4824",
+    "city": "深圳",
+    "status": "在柜",
+    "soc": 92,
+    "voltage": 49.1,
+    "temperature": 29.6,
+    "cycles": 69,
+    "soh": 93.2,
+    "use_months": 8
+   },
+   {
+    "id": "BT-00027",
+    "model": "4814",
+    "city": "东莞",
+    "status": "在柜",
+    "soc": 33,
+    "voltage": 51.9,
+    "temperature": 31.5,
+    "cycles": 416,
+    "soh": 82.6,
+    "use_months": 9
+   },
+   {
+    "id": "BT-00028",
+    "model": "4824",
+    "city": "东莞",
+    "status": "维修中",
+    "soc": 34,
+    "voltage": 51.2,
+    "temperature": 28.4,
+    "cycles": 506,
+    "soh": 97.5,
+    "use_months": 17
+   },
+   {
+    "id": "BT-00029",
+    "model": "4824",
+    "city": "广州",
+    "status": "维修中",
+    "soc": 65,
+    "voltage": 48.9,
+    "temperature": 30.2,
+    "cycles": 300,
+    "soh": 79.3,
+    "use_months": 12
+   },
+   {
+    "id": "BT-00030",
+    "model": "4824",
+    "city": "东莞",
+    "status": "在柜",
+    "soc": 64,
+    "voltage": 51.6,
+    "temperature": 31.2,
+    "cycles": 146,
+    "soh": 92.6,
+    "use_months": 10
+   },
+   {
+    "id": "BT-00031",
+    "model": "4824",
+    "city": "东莞",
+    "status": "在柜",
+    "soc": 15,
+    "voltage": 53.1,
+    "temperature": 27.3,
+    "cycles": 175,
+    "soh": 96.7,
+    "use_months": 16
+   },
+   {
+    "id": "BT-00032",
+    "model": "4824",
+    "city": "广州",
+    "status": "满电待换",
+    "soc": 37,
+    "voltage": 52.1,
+    "temperature": 41.1,
+    "cycles": 350,
+    "soh": 81.6,
+    "use_months": 19
+   },
+   {
+    "id": "BT-00033",
+    "model": "4824",
+    "city": "阳朔",
+    "status": "仓库",
+    "soc": 56,
+    "voltage": 47.5,
+    "temperature": 36.8,
+    "cycles": 637,
+    "soh": 87.6,
+    "use_months": 6
+   },
+   {
+    "id": "BT-00034",
+    "model": "4824",
+    "city": "深圳",
+    "status": "在柜",
+    "soc": 36,
+    "voltage": 51.2,
+    "temperature": 20.1,
+    "cycles": 68,
+    "soh": 90.5,
+    "use_months": 17
+   },
+   {
+    "id": "BT-00035",
+    "model": "4814",
+    "city": "广州",
+    "status": "在柜",
+    "soc": 64,
+    "voltage": 46.5,
+    "temperature": 37.3,
+    "cycles": 315,
+    "soh": 76.6,
+    "use_months": 12
+   },
+   {
+    "id": "BT-00036",
+    "model": "4814",
+    "city": "深圳",
+    "status": "在柜",
+    "soc": 79,
+    "voltage": 48.9,
+    "temperature": 22.9,
+    "cycles": 643,
+    "soh": 87.7,
+    "use_months": 17
+   },
+   {
+    "id": "BT-00037",
+    "model": "4814",
+    "city": "阳朔",
+    "status": "在柜",
+    "soc": 15,
+    "voltage": 51.4,
+    "temperature": 27.1,
+    "cycles": 228,
+    "soh": 97.6,
+    "use_months": 1
+   },
+   {
+    "id": "BT-00038",
+    "model": "4824",
+    "city": "深圳",
+    "status": "仓库",
+    "soc": 58,
+    "voltage": 47.7,
+    "temperature": 21.0,
+    "cycles": 186,
+    "soh": 82.5,
+    "use_months": 17
+   },
+   {
+    "id": "BT-00039",
+    "model": "4824",
+    "city": "阳朔",
+    "status": "在柜",
+    "soc": 16,
+    "voltage": 52.2,
+    "temperature": 20.8,
+    "cycles": 224,
+    "soh": 95.9,
+    "use_months": 17
+   },
+   {
+    "id": "BT-00040",
+    "model": "4824",
+    "city": "深圳",
+    "status": "满电待换",
+    "soc": 44,
+    "voltage": 51.7,
+    "temperature": 28.3,
+    "cycles": 679,
+    "soh": 76.6,
+    "use_months": 24
+   },
+   {
+    "id": "BT-00041",
+    "model": "4814",
+    "city": "深圳",
+    "status": "维修中",
+    "soc": 98,
+    "voltage": 53.4,
+    "temperature": 30.2,
+    "cycles": 199,
+    "soh": 77.5,
+    "use_months": 21
+   },
+   {
+    "id": "BT-00042",
+    "model": "4824",
+    "city": "深圳",
+    "status": "在柜",
+    "soc": 79,
+    "voltage": 51.8,
+    "temperature": 26.4,
+    "cycles": 626,
+    "soh": 89.9,
+    "use_months": 2
+   },
+   {
+    "id": "BT-00043",
+    "model": "4824",
+    "city": "深圳",
+    "status": "满电待换",
+    "soc": 61,
+    "voltage": 48.6,
+    "temperature": 38.8,
+    "cycles": 74,
+    "soh": 98.5,
+    "use_months": 4
+   },
+   {
+    "id": "BT-00044",
+    "model": "4814",
+    "city": "深圳",
+    "status": "在柜",
+    "soc": 68,
+    "voltage": 50.1,
+    "temperature": 23.2,
+    "cycles": 222,
+    "soh": 75.2,
+    "use_months": 16
+   },
+   {
+    "id": "BT-00045",
+    "model": "4824",
+    "city": "广州",
+    "status": "在柜",
+    "soc": 65,
+    "voltage": 49.8,
+    "temperature": 32.4,
+    "cycles": 513,
+    "soh": 85.9,
+    "use_months": 16
+   },
+   {
+    "id": "BT-00046",
+    "model": "4824",
+    "city": "深圳",
+    "status": "仓库",
+    "soc": 23,
+    "voltage": 46.8,
+    "temperature": 24.9,
+    "cycles": 433,
+    "soh": 88.0,
+    "use_months": 1
+   },
+   {
+    "id": "BT-00047",
+    "model": "4814",
+    "city": "深圳",
+    "status": "维修中",
+    "soc": 86,
+    "voltage": 49.2,
+    "temperature": 31.0,
+    "cycles": 542,
+    "soh": 76.1,
+    "use_months": 12
+   },
+   {
+    "id": "BT-00048",
+    "model": "4824",
+    "city": "阳朔",
+    "status": "满电待换",
+    "soc": 91,
+    "voltage": 46.5,
+    "temperature": 35.1,
+    "cycles": 92,
+    "soh": 79.7,
+    "use_months": 22
+   },
+   {
+    "id": "BT-00049",
+    "model": "4814",
+    "city": "东莞",
+    "status": "维修中",
+    "soc": 65,
+    "voltage": 51.3,
+    "temperature": 22.0,
+    "cycles": 640,
+    "soh": 75.5,
+    "use_months": 11
+   },
+   {
+    "id": "BT-00050",
+    "model": "4824",
+    "city": "深圳",
+    "status": "仓库",
+    "soc": 15,
+    "voltage": 53.0,
+    "temperature": 35.2,
+    "cycles": 517,
+    "soh": 74.1,
+    "use_months": 14
+   },
+   {
+    "id": "BT-00051",
+    "model": "4814",
+    "city": "深圳",
+    "status": "在柜",
+    "soc": 41,
+    "voltage": 47.2,
+    "temperature": 40.6,
+    "cycles": 359,
+    "soh": 75.0,
+    "use_months": 19
+   },
+   {
+    "id": "BT-00052",
+    "model": "4824",
+    "city": "东莞",
+    "status": "满电待换",
+    "soc": 91,
+    "voltage": 52.7,
+    "temperature": 22.7,
+    "cycles": 82,
+    "soh": 90.2,
+    "use_months": 16
+   },
+   {
+    "id": "BT-00053",
+    "model": "4814",
+    "city": "深圳",
+    "status": "在柜",
+    "soc": 72,
+    "voltage": 50.4,
+    "temperature": 41.4,
+    "cycles": 661,
+    "soh": 91.7,
+    "use_months": 22
+   },
+   {
+    "id": "BT-00054",
+    "model": "4814",
+    "city": "阳朔",
+    "status": "在柜",
+    "soc": 57,
+    "voltage": 47.3,
+    "temperature": 38.2,
+    "cycles": 323,
+    "soh": 84.6,
+    "use_months": 24
+   },
+   {
+    "id": "BT-00055",
+    "model": "4814",
+    "city": "深圳",
+    "status": "在柜",
+    "soc": 81,
+    "voltage": 49.6,
+    "temperature": 31.9,
+    "cycles": 586,
+    "soh": 95.0,
+    "use_months": 20
+   },
+   {
+    "id": "BT-00056",
+    "model": "4814",
+    "city": "杭州",
+    "status": "在柜",
+    "soc": 29,
+    "voltage": 47.5,
+    "temperature": 23.7,
+    "cycles": 631,
+    "soh": 94.8,
+    "use_months": 10
+   },
+   {
+    "id": "BT-00057",
+    "model": "4824",
+    "city": "深圳",
+    "status": "满电待换",
+    "soc": 44,
+    "voltage": 46.8,
+    "temperature": 19.2,
+    "cycles": 471,
+    "soh": 89.9,
+    "use_months": 16
+   },
+   {
+    "id": "BT-00058",
+    "model": "4824",
+    "city": "东莞",
+    "status": "在柜",
+    "soc": 35,
+    "voltage": 51.6,
+    "temperature": 25.8,
+    "cycles": 502,
+    "soh": 86.7,
+    "use_months": 6
+   },
+   {
+    "id": "BT-00059",
+    "model": "4814",
+    "city": "深圳",
+    "status": "在柜",
+    "soc": 49,
+    "voltage": 48.3,
+    "temperature": 27.9,
+    "cycles": 133,
+    "soh": 84.1,
+    "use_months": 4
+   },
+   {
+    "id": "BT-00060",
+    "model": "4824",
+    "city": "杭州",
+    "status": "维修中",
+    "soc": 48,
+    "voltage": 52.3,
+    "temperature": 29.7,
+    "cycles": 481,
+    "soh": 92.3,
+    "use_months": 10
+   },
+   {
+    "id": "BT-00061",
+    "model": "4824",
+    "city": "深圳",
+    "status": "满电待换",
+    "soc": 66,
+    "voltage": 50.9,
+    "temperature": 41.7,
+    "cycles": 616,
+    "soh": 96.1,
+    "use_months": 11
+   },
+   {
+    "id": "BT-00062",
+    "model": "4814",
+    "city": "深圳",
+    "status": "维修中",
+    "soc": 47,
+    "voltage": 53.8,
+    "temperature": 29.7,
+    "cycles": 437,
+    "soh": 73.9,
+    "use_months": 15
+   },
+   {
+    "id": "BT-00063",
+    "model": "4824",
+    "city": "杭州",
+    "status": "维修中",
+    "soc": 80,
+    "voltage": 47.0,
+    "temperature": 20.4,
+    "cycles": 157,
+    "soh": 74.3,
+    "use_months": 5
+   },
+   {
+    "id": "BT-00064",
+    "model": "4814",
+    "city": "杭州",
+    "status": "仓库",
+    "soc": 27,
+    "voltage": 47.6,
+    "temperature": 25.5,
+    "cycles": 62,
+    "soh": 79.6,
+    "use_months": 6
+   },
+   {
+    "id": "BT-00065",
+    "model": "4824",
+    "city": "杭州",
+    "status": "在柜",
+    "soc": 62,
+    "voltage": 50.0,
+    "temperature": 34.7,
+    "cycles": 655,
+    "soh": 84.1,
+    "use_months": 9
+   },
+   {
+    "id": "BT-00066",
+    "model": "4824",
+    "city": "杭州",
+    "status": "在柜",
+    "soc": 11,
+    "voltage": 50.3,
+    "temperature": 21.3,
+    "cycles": 496,
+    "soh": 93.9,
+    "use_months": 4
+   },
+   {
+    "id": "BT-00067",
+    "model": "4814",
+    "city": "阳朔",
+    "status": "维修中",
+    "soc": 24,
+    "voltage": 53.1,
+    "temperature": 37.1,
+    "cycles": 475,
+    "soh": 78.4,
+    "use_months": 9
+   },
+   {
+    "id": "BT-00068",
+    "model": "4824",
+    "city": "广州",
+    "status": "满电待换",
+    "soc": 89,
+    "voltage": 46.1,
+    "temperature": 37.7,
+    "cycles": 286,
+    "soh": 98.9,
+    "use_months": 17
+   },
+   {
+    "id": "BT-00069",
+    "model": "4824",
+    "city": "阳朔",
+    "status": "在柜",
+    "soc": 21,
+    "voltage": 51.4,
+    "temperature": 26.0,
+    "cycles": 145,
+    "soh": 79.7,
+    "use_months": 3
+   },
+   {
+    "id": "BT-00070",
+    "model": "4814",
+    "city": "东莞",
+    "status": "仓库",
+    "soc": 92,
+    "voltage": 46.2,
+    "temperature": 18.9,
+    "cycles": 381,
+    "soh": 97.4,
+    "use_months": 18
+   },
+   {
+    "id": "BT-00071",
+    "model": "4814",
+    "city": "深圳",
+    "status": "在柜",
+    "soc": 37,
+    "voltage": 49.6,
+    "temperature": 39.3,
+    "cycles": 145,
+    "soh": 97.2,
+    "use_months": 10
+   },
+   {
+    "id": "BT-00072",
+    "model": "4814",
+    "city": "杭州",
+    "status": "在柜",
+    "soc": 40,
+    "voltage": 52.7,
+    "temperature": 31.5,
+    "cycles": 671,
+    "soh": 84.7,
+    "use_months": 23
+   },
+   {
+    "id": "BT-00073",
+    "model": "4814",
+    "city": "杭州",
+    "status": "满电待换",
+    "soc": 13,
+    "voltage": 46.4,
+    "temperature": 28.7,
+    "cycles": 224,
+    "soh": 97.6,
+    "use_months": 1
+   },
+   {
+    "id": "BT-00074",
+    "model": "4814",
+    "city": "阳朔",
+    "status": "在柜",
+    "soc": 34,
+    "voltage": 49.1,
+    "temperature": 20.3,
+    "cycles": 209,
+    "soh": 99.0,
+    "use_months": 11
+   },
+   {
+    "id": "BT-00075",
+    "model": "4814",
+    "city": "深圳",
+    "status": "维修中",
+    "soc": 67,
+    "voltage": 49.8,
+    "temperature": 30.4,
+    "cycles": 589,
+    "soh": 76.3,
+    "use_months": 5
+   },
+   {
+    "id": "BT-00076",
+    "model": "4824",
+    "city": "杭州",
+    "status": "满电待换",
+    "soc": 54,
+    "voltage": 49.9,
+    "temperature": 25.3,
+    "cycles": 274,
+    "soh": 83.2,
+    "use_months": 17
+   },
+   {
+    "id": "BT-00077",
+    "model": "4814",
+    "city": "深圳",
+    "status": "在柜",
+    "soc": 86,
+    "voltage": 48.3,
+    "temperature": 35.7,
+    "cycles": 602,
+    "soh": 79.4,
+    "use_months": 17
+   },
+   {
+    "id": "BT-00078",
+    "model": "4824",
+    "city": "广州",
+    "status": "在柜",
+    "soc": 97,
+    "voltage": 46.2,
+    "temperature": 23.1,
+    "cycles": 470,
+    "soh": 72.2,
+    "use_months": 6
+   },
+   {
+    "id": "BT-00079",
+    "model": "4814",
+    "city": "阳朔",
+    "status": "在柜",
+    "soc": 76,
+    "voltage": 48.4,
+    "temperature": 32.0,
+    "cycles": 195,
+    "soh": 97.6,
+    "use_months": 13
+   },
+   {
+    "id": "BT-00080",
+    "model": "4824",
+    "city": "深圳",
+    "status": "在柜",
+    "soc": 30,
+    "voltage": 48.6,
+    "temperature": 23.7,
+    "cycles": 381,
+    "soh": 79.3,
+    "use_months": 4
+   }
+  ],
+  "cells": [
+   {
+    "id": "CELL-880019",
+    "battery": "BT-00068",
+    "status": "预警",
+    "voltage": 4.191,
+    "temperature": 29.0,
+    "use_hours": 638
+   },
+   {
+    "id": "CELL-880038",
+    "battery": "BT-00073",
+    "status": "预警",
+    "voltage": 4.053,
+    "temperature": 35.1,
+    "use_hours": 7039
+   },
+   {
+    "id": "CELL-880057",
+    "battery": "BT-00073",
+    "status": "正常",
+    "voltage": 3.597,
+    "temperature": 39.7,
+    "use_hours": 2243
+   },
+   {
+    "id": "CELL-880076",
+    "battery": "BT-00058",
+    "status": "正常",
+    "voltage": 4.148,
+    "temperature": 29.6,
+    "use_hours": 5016
+   },
+   {
+    "id": "CELL-880095",
+    "battery": "BT-00022",
+    "status": "正常",
+    "voltage": 3.603,
+    "temperature": 34.3,
+    "use_hours": 2430
+   },
+   {
+    "id": "CELL-880114",
+    "battery": "BT-00003",
+    "status": "正常",
+    "voltage": 3.376,
+    "temperature": 31.3,
+    "use_hours": 4802
+   },
+   {
+    "id": "CELL-880133",
+    "battery": "BT-00069",
+    "status": "正常",
+    "voltage": 3.198,
+    "temperature": 39.3,
+    "use_hours": 6443
+   },
+   {
+    "id": "CELL-880152",
+    "battery": "BT-00013",
+    "status": "正常",
+    "voltage": 4.011,
+    "temperature": 23.0,
+    "use_hours": 695
+   },
+   {
+    "id": "CELL-880171",
+    "battery": "BT-00062",
+    "status": "正常",
+    "voltage": 3.371,
+    "temperature": 38.9,
+    "use_hours": 5623
+   },
+   {
+    "id": "CELL-880190",
+    "battery": "BT-00021",
+    "status": "故障",
+    "voltage": 3.994,
+    "temperature": 23.6,
+    "use_hours": 6181
+   },
+   {
+    "id": "CELL-880209",
+    "battery": "BT-00065",
+    "status": "正常",
+    "voltage": 4.163,
+    "temperature": 32.6,
+    "use_hours": 1605
+   },
+   {
+    "id": "CELL-880228",
+    "battery": "BT-00041",
+    "status": "正常",
+    "voltage": 4.135,
+    "temperature": 32.9,
+    "use_hours": 7900
+   },
+   {
+    "id": "CELL-880247",
+    "battery": "BT-00062",
+    "status": "正常",
+    "voltage": 4.195,
+    "temperature": 18.7,
+    "use_hours": 6284
+   },
+   {
+    "id": "CELL-880266",
+    "battery": "BT-00005",
+    "status": "正常",
+    "voltage": 3.225,
+    "temperature": 38.4,
+    "use_hours": 2959
+   },
+   {
+    "id": "CELL-880285",
+    "battery": "BT-00036",
+    "status": "正常",
+    "voltage": 3.162,
+    "temperature": 28.5,
+    "use_hours": 8270
+   },
+   {
+    "id": "CELL-880304",
+    "battery": "BT-00062",
+    "status": "预警",
+    "voltage": 3.666,
+    "temperature": 27.0,
+    "use_hours": 8017
+   },
+   {
+    "id": "CELL-880323",
+    "battery": "BT-00044",
+    "status": "正常",
+    "voltage": 3.507,
+    "temperature": 18.3,
+    "use_hours": 3930
+   },
+   {
+    "id": "CELL-880342",
+    "battery": "BT-00066",
+    "status": "正常",
+    "voltage": 4.039,
+    "temperature": 25.1,
+    "use_hours": 1868
+   },
+   {
+    "id": "CELL-880361",
+    "battery": "BT-00072",
+    "status": "正常",
+    "voltage": 3.483,
+    "temperature": 39.6,
+    "use_hours": 7038
+   },
+   {
+    "id": "CELL-880380",
+    "battery": "BT-00072",
+    "status": "正常",
+    "voltage": 3.403,
+    "temperature": 26.2,
+    "use_hours": 3294
+   },
+   {
+    "id": "CELL-880399",
+    "battery": "BT-00001",
+    "status": "正常",
+    "voltage": 3.622,
+    "temperature": 34.0,
+    "use_hours": 4557
+   },
+   {
+    "id": "CELL-880418",
+    "battery": "BT-00028",
+    "status": "正常",
+    "voltage": 3.679,
+    "temperature": 32.8,
+    "use_hours": 6571
+   },
+   {
+    "id": "CELL-880437",
+    "battery": "BT-00053",
+    "status": "正常",
+    "voltage": 3.553,
+    "temperature": 31.7,
+    "use_hours": 7888
+   },
+   {
+    "id": "CELL-880456",
+    "battery": "BT-00040",
+    "status": "预警",
+    "voltage": 3.966,
+    "temperature": 18.4,
+    "use_hours": 1173
+   },
+   {
+    "id": "CELL-880475",
+    "battery": "BT-00043",
+    "status": "正常",
+    "voltage": 3.177,
+    "temperature": 27.4,
+    "use_hours": 5260
+   },
+   {
+    "id": "CELL-880494",
+    "battery": "BT-00014",
+    "status": "正常",
+    "voltage": 3.283,
+    "temperature": 38.4,
+    "use_hours": 371
+   },
+   {
+    "id": "CELL-880513",
+    "battery": "BT-00002",
+    "status": "正常",
+    "voltage": 4.168,
+    "temperature": 18.5,
+    "use_hours": 5788
+   },
+   {
+    "id": "CELL-880532",
+    "battery": "BT-00069",
+    "status": "预警",
+    "voltage": 3.369,
+    "temperature": 18.6,
+    "use_hours": 2197
+   },
+   {
+    "id": "CELL-880551",
+    "battery": "BT-00018",
+    "status": "正常",
+    "voltage": 3.755,
+    "temperature": 29.8,
+    "use_hours": 4559
+   },
+   {
+    "id": "CELL-880570",
+    "battery": "BT-00074",
+    "status": "故障",
+    "voltage": 3.635,
+    "temperature": 38.0,
+    "use_hours": 5622
+   },
+   {
+    "id": "CELL-880589",
+    "battery": "BT-00028",
+    "status": "正常",
+    "voltage": 3.464,
+    "temperature": 32.9,
+    "use_hours": 6516
+   },
+   {
+    "id": "CELL-880608",
+    "battery": "BT-00024",
+    "status": "预警",
+    "voltage": 3.315,
+    "temperature": 21.4,
+    "use_hours": 2639
+   },
+   {
+    "id": "CELL-880627",
+    "battery": "BT-00025",
+    "status": "正常",
+    "voltage": 3.166,
+    "temperature": 21.5,
+    "use_hours": 4617
+   },
+   {
+    "id": "CELL-880646",
+    "battery": "BT-00019",
+    "status": "正常",
+    "voltage": 3.307,
+    "temperature": 39.0,
+    "use_hours": 2426
+   },
+   {
+    "id": "CELL-880665",
+    "battery": "BT-00012",
+    "status": "预警",
+    "voltage": 3.921,
+    "temperature": 22.8,
+    "use_hours": 8455
+   },
+   {
+    "id": "CELL-880684",
+    "battery": "BT-00027",
+    "status": "正常",
+    "voltage": 3.93,
+    "temperature": 26.7,
+    "use_hours": 8229
+   },
+   {
+    "id": "CELL-880703",
+    "battery": "BT-00075",
+    "status": "正常",
+    "voltage": 3.198,
+    "temperature": 19.1,
+    "use_hours": 8210
+   },
+   {
+    "id": "CELL-880722",
+    "battery": "BT-00045",
+    "status": "正常",
+    "voltage": 3.161,
+    "temperature": 27.7,
+    "use_hours": 1101
+   },
+   {
+    "id": "CELL-880741",
+    "battery": "BT-00051",
+    "status": "正常",
+    "voltage": 4.099,
+    "temperature": 30.7,
+    "use_hours": 6674
+   },
+   {
+    "id": "CELL-880760",
+    "battery": "BT-00075",
+    "status": "故障",
+    "voltage": 3.711,
+    "temperature": 38.2,
+    "use_hours": 4273
+   },
+   {
+    "id": "CELL-880779",
+    "battery": "BT-00073",
+    "status": "故障",
+    "voltage": 3.498,
+    "temperature": 33.8,
+    "use_hours": 7867
+   },
+   {
+    "id": "CELL-880798",
+    "battery": "BT-00012",
+    "status": "正常",
+    "voltage": 3.375,
+    "temperature": 29.5,
+    "use_hours": 4088
+   },
+   {
+    "id": "CELL-880817",
+    "battery": "BT-00066",
+    "status": "故障",
+    "voltage": 3.408,
+    "temperature": 31.1,
+    "use_hours": 1585
+   },
+   {
+    "id": "CELL-880836",
+    "battery": "BT-00034",
+    "status": "正常",
+    "voltage": 3.23,
+    "temperature": 39.7,
+    "use_hours": 3088
+   },
+   {
+    "id": "CELL-880855",
+    "battery": "BT-00052",
+    "status": "故障",
+    "voltage": 3.761,
+    "temperature": 27.9,
+    "use_hours": 1659
+   },
+   {
+    "id": "CELL-880874",
+    "battery": "BT-00007",
+    "status": "正常",
+    "voltage": 3.599,
+    "temperature": 20.6,
+    "use_hours": 1898
+   },
+   {
+    "id": "CELL-880893",
+    "battery": "BT-00025",
+    "status": "正常",
+    "voltage": 3.388,
+    "temperature": 33.2,
+    "use_hours": 2508
+   },
+   {
+    "id": "CELL-880912",
+    "battery": "BT-00060",
+    "status": "正常",
+    "voltage": 3.81,
+    "temperature": 38.2,
+    "use_hours": 1821
+   },
+   {
+    "id": "CELL-880931",
+    "battery": "BT-00004",
+    "status": "正常",
+    "voltage": 3.33,
+    "temperature": 31.6,
+    "use_hours": 2919
+   },
+   {
+    "id": "CELL-880950",
+    "battery": "BT-00034",
+    "status": "预警",
+    "voltage": 3.709,
+    "temperature": 22.3,
+    "use_hours": 1599
+   }
+  ],
+  "alarms": [
+   {
+    "id": "ALM-900077",
+    "time": "2026-09-01 19:16",
+    "device": "CAB-03009",
+    "type": "电芯压差过大",
+    "level": "普通",
+    "status": "已处理",
+    "handler": "--"
+   },
+   {
+    "id": "ALM-900154",
+    "time": "2026-09-01 20:11",
+    "device": "CAB-05889",
+    "type": "柜门异常",
+    "level": "普通",
+    "status": "处理中",
+    "handler": "陈工"
+   },
+   {
+    "id": "ALM-900231",
+    "time": "2026-09-11 05:12",
+    "device": "CAB-03185",
+    "type": "离柜异常",
+    "level": "普通",
+    "status": "已处理",
+    "handler": "张工"
+   },
+   {
+    "id": "ALM-900308",
+    "time": "2026-09-08 03:14",
+    "device": "CAB-05949",
+    "type": "充电模块故障",
+    "level": "普通",
+    "status": "已处理",
+    "handler": "王工"
+   },
+   {
+    "id": "ALM-900385",
+    "time": "2026-09-14 18:40",
+    "device": "CAB-01117",
+    "type": "电池温度过高",
+    "level": "紧急",
+    "status": "处理中",
+    "handler": "张工"
+   },
+   {
+    "id": "ALM-900462",
+    "time": "2026-09-16 10:18",
+    "device": "CAB-00104",
+    "type": "消防误报",
+    "level": "紧急",
+    "status": "已处理",
+    "handler": "张工"
+   },
+   {
+    "id": "ALM-900539",
+    "time": "2026-09-03 02:22",
+    "device": "CAB-05143",
+    "type": "电池SOC过低",
+    "level": "普通",
+    "status": "已处理",
+    "handler": "李工"
+   },
+   {
+    "id": "ALM-900616",
+    "time": "2026-09-12 16:46",
+    "device": "CAB-02507",
+    "type": "电池SOC过低",
+    "level": "普通",
+    "status": "待处理",
+    "handler": "陈工"
+   },
+   {
+    "id": "ALM-900693",
+    "time": "2026-09-02 09:00",
+    "device": "CAB-03440",
+    "type": "消防误报",
+    "level": "普通",
+    "status": "已处理",
+    "handler": "--"
+   },
+   {
+    "id": "ALM-900770",
+    "time": "2026-09-02 07:07",
+    "device": "CAB-00949",
+    "type": "电池SOC过低",
+    "level": "重要",
+    "status": "已处理",
+    "handler": "张工"
+   },
+   {
+    "id": "ALM-900847",
+    "time": "2026-09-13 23:42",
+    "device": "CAB-01212",
+    "type": "消防误报",
+    "level": "普通",
+    "status": "待处理",
+    "handler": "张工"
+   },
+   {
+    "id": "ALM-900924",
+    "time": "2026-09-06 01:34",
+    "device": "CAB-01921",
+    "type": "柜门异常",
+    "level": "普通",
+    "status": "已处理",
+    "handler": "--"
+   },
+   {
+    "id": "ALM-901001",
+    "time": "2026-09-09 18:40",
+    "device": "CAB-05607",
+    "type": "电池温度过高",
+    "level": "普通",
+    "status": "待处理",
+    "handler": "--"
+   },
+   {
+    "id": "ALM-901078",
+    "time": "2026-09-08 19:54",
+    "device": "CAB-05446",
+    "type": "充电模块故障",
+    "level": "紧急",
+    "status": "处理中",
+    "handler": "王工"
+   },
+   {
+    "id": "ALM-901155",
+    "time": "2026-09-06 08:58",
+    "device": "CAB-05878",
+    "type": "柜门异常",
+    "level": "普通",
+    "status": "处理中",
+    "handler": "王工"
+   },
+   {
+    "id": "ALM-901232",
+    "time": "2026-09-16 17:25",
+    "device": "CAB-01756",
+    "type": "电芯压差过大",
+    "level": "普通",
+    "status": "已处理",
+    "handler": "张工"
+   },
+   {
+    "id": "ALM-901309",
+    "time": "2026-09-05 05:38",
+    "device": "CAB-05508",
+    "type": "离柜异常",
+    "level": "普通",
+    "status": "已处理",
+    "handler": "李工"
+   },
+   {
+    "id": "ALM-901386",
+    "time": "2026-09-08 04:21",
+    "device": "CAB-00814",
+    "type": "充电模块故障",
+    "level": "重要",
+    "status": "处理中",
+    "handler": "--"
+   },
+   {
+    "id": "ALM-901463",
+    "time": "2026-09-08 01:19",
+    "device": "CAB-00407",
+    "type": "电池SOC过低",
+    "level": "普通",
+    "status": "已处理",
+    "handler": "陈工"
+   },
+   {
+    "id": "ALM-901540",
+    "time": "2026-09-13 16:19",
+    "device": "CAB-04358",
+    "type": "电芯压差过大",
+    "level": "普通",
+    "status": "已处理",
+    "handler": "张工"
+   },
+   {
+    "id": "ALM-901617",
+    "time": "2026-09-04 18:04",
+    "device": "CAB-05588",
+    "type": "离柜异常",
+    "level": "普通",
+    "status": "已处理",
+    "handler": "李工"
+   },
+   {
+    "id": "ALM-901694",
+    "time": "2026-09-08 12:55",
+    "device": "CAB-05746",
+    "type": "电池SOC过低",
+    "level": "重要",
+    "status": "已处理",
+    "handler": "--"
+   },
+   {
+    "id": "ALM-901771",
+    "time": "2026-09-06 22:32",
+    "device": "CAB-00408",
+    "type": "充电模块故障",
+    "level": "重要",
+    "status": "已处理",
+    "handler": "陈工"
+   },
+   {
+    "id": "ALM-901848",
+    "time": "2026-09-09 07:06",
+    "device": "CAB-02153",
+    "type": "充电模块故障",
+    "level": "普通",
+    "status": "处理中",
+    "handler": "张工"
+   },
+   {
+    "id": "ALM-901925",
+    "time": "2026-09-15 01:31",
+    "device": "CAB-00998",
+    "type": "离柜异常",
+    "level": "普通",
+    "status": "处理中",
+    "handler": "王工"
+   },
+   {
+    "id": "ALM-902002",
+    "time": "2026-09-07 03:35",
+    "device": "CAB-05641",
+    "type": "消防误报",
+    "level": "普通",
+    "status": "待处理",
+    "handler": "张工"
+   },
+   {
+    "id": "ALM-902079",
+    "time": "2026-09-16 00:20",
+    "device": "CAB-02329",
+    "type": "充电模块故障",
+    "level": "紧急",
+    "status": "已处理",
+    "handler": "陈工"
+   },
+   {
+    "id": "ALM-902156",
+    "time": "2026-09-13 21:01",
+    "device": "CAB-00945",
+    "type": "消防误报",
+    "level": "紧急",
+    "status": "处理中",
+    "handler": "--"
+   },
+   {
+    "id": "ALM-902233",
+    "time": "2026-09-16 22:35",
+    "device": "CAB-01512",
+    "type": "电池SOC过低",
+    "level": "重要",
+    "status": "已处理",
+    "handler": "张工"
+   },
+   {
+    "id": "ALM-902310",
+    "time": "2026-09-10 13:36",
+    "device": "CAB-00301",
+    "type": "通讯异常",
+    "level": "重要",
+    "status": "待处理",
+    "handler": "李工"
+   },
+   {
+    "id": "ALM-902387",
+    "time": "2026-09-05 07:29",
+    "device": "CAB-00773",
+    "type": "消防误报",
+    "level": "普通",
+    "status": "处理中",
+    "handler": "陈工"
+   },
+   {
+    "id": "ALM-902464",
+    "time": "2026-09-03 21:19",
+    "device": "CAB-00654",
+    "type": "充电模块故障",
+    "level": "普通",
+    "status": "处理中",
+    "handler": "--"
+   },
+   {
+    "id": "ALM-902541",
+    "time": "2026-09-08 08:14",
+    "device": "CAB-02529",
+    "type": "离柜异常",
+    "level": "紧急",
+    "status": "处理中",
+    "handler": "陈工"
+   },
+   {
+    "id": "ALM-902618",
+    "time": "2026-09-05 17:38",
+    "device": "CAB-06025",
+    "type": "通讯异常",
+    "level": "普通",
+    "status": "待处理",
+    "handler": "--"
+   },
+   {
+    "id": "ALM-902695",
+    "time": "2026-09-15 21:13",
+    "device": "CAB-05099",
+    "type": "消防误报",
+    "level": "普通",
+    "status": "待处理",
+    "handler": "--"
+   },
+   {
+    "id": "ALM-902772",
+    "time": "2026-09-08 01:49",
+    "device": "CAB-03493",
+    "type": "离柜异常",
+    "level": "普通",
+    "status": "已处理",
+    "handler": "陈工"
+   },
+   {
+    "id": "ALM-902849",
+    "time": "2026-09-13 06:29",
+    "device": "CAB-05319",
+    "type": "充电模块故障",
+    "level": "普通",
+    "status": "处理中",
+    "handler": "李工"
+   },
+   {
+    "id": "ALM-902926",
+    "time": "2026-09-14 19:38",
+    "device": "CAB-03648",
+    "type": "充电模块故障",
+    "level": "普通",
+    "status": "处理中",
+    "handler": "陈工"
+   },
+   {
+    "id": "ALM-903003",
+    "time": "2026-09-02 07:45",
+    "device": "CAB-05833",
+    "type": "柜门异常",
+    "level": "普通",
+    "status": "已处理",
+    "handler": "--"
+   },
+   {
+    "id": "ALM-903080",
+    "time": "2026-09-07 17:52",
+    "device": "CAB-05172",
+    "type": "消防误报",
+    "level": "普通",
+    "status": "已处理",
+    "handler": "--"
+   },
+   {
+    "id": "ALM-903157",
+    "time": "2026-09-10 21:11",
+    "device": "CAB-02153",
+    "type": "充电模块故障",
+    "level": "重要",
+    "status": "待处理",
+    "handler": "张工"
+   },
+   {
+    "id": "ALM-903234",
+    "time": "2026-09-15 11:32",
+    "device": "CAB-03009",
+    "type": "电池SOC过低",
+    "level": "普通",
+    "status": "处理中",
+    "handler": "陈工"
+   },
+   {
+    "id": "ALM-903311",
+    "time": "2026-09-01 16:52",
+    "device": "CAB-05528",
+    "type": "离柜异常",
+    "level": "普通",
+    "status": "待处理",
+    "handler": "张工"
+   },
+   {
+    "id": "ALM-903388",
+    "time": "2026-09-05 12:10",
+    "device": "CAB-00354",
+    "type": "电池SOC过低",
+    "level": "普通",
+    "status": "已处理",
+    "handler": "--"
+   },
+   {
+    "id": "ALM-903465",
+    "time": "2026-09-13 00:14",
+    "device": "CAB-04539",
+    "type": "电池SOC过低",
+    "level": "紧急",
+    "status": "处理中",
+    "handler": "王工"
+   }
+  ],
+  "users": [
+   {
+    "id": "U-50017",
+    "phone_tail": "8567",
+    "city": "广州",
+    "package": "季租",
+    "status": "活跃",
+    "activate_date": "2026-09-05",
+    "month_exchanges": 47,
+    "arpu": 67.7,
+    "renewed": "是"
+   },
+   {
+    "id": "U-50034",
+    "phone_tail": "1531",
+    "city": "深圳",
+    "package": "月租",
+    "status": "已流失",
+    "activate_date": "2026-05-12",
+    "month_exchanges": 5,
+    "arpu": 55.7,
+    "renewed": "是"
+   },
+   {
+    "id": "U-50051",
+    "phone_tail": "6668",
+    "city": "杭州",
+    "package": "1年租",
+    "status": "沉默",
+    "activate_date": "2026-04-22",
+    "month_exchanges": 47,
+    "arpu": 63.1,
+    "renewed": "是"
+   },
+   {
+    "id": "U-50068",
+    "phone_tail": "8134",
+    "city": "深圳",
+    "package": "月租",
+    "status": "活跃",
+    "activate_date": "2026-02-12",
+    "month_exchanges": 57,
+    "arpu": 80.7,
+    "renewed": "是"
+   },
+   {
+    "id": "U-50085",
+    "phone_tail": "2677",
+    "city": "深圳",
+    "package": "月租",
+    "status": "活跃",
+    "activate_date": "2026-01-18",
+    "month_exchanges": 34,
+    "arpu": 46.4,
+    "renewed": "是"
+   },
+   {
+    "id": "U-50102",
+    "phone_tail": "5527",
+    "city": "深圳",
+    "package": "月租",
+    "status": "已流失",
+    "activate_date": "2026-04-17",
+    "month_exchanges": 3,
+    "arpu": 82.5,
+    "renewed": "是"
+   },
+   {
+    "id": "U-50119",
+    "phone_tail": "1252",
+    "city": "东莞",
+    "package": "3年及以上",
+    "status": "已流失",
+    "activate_date": "2026-09-20",
+    "month_exchanges": 18,
+    "arpu": 46.3,
+    "renewed": "是"
+   },
+   {
+    "id": "U-50136",
+    "phone_tail": "8193",
+    "city": "深圳",
+    "package": "月租",
+    "status": "已流失",
+    "activate_date": "2026-08-18",
+    "month_exchanges": 28,
+    "arpu": 74.0,
+    "renewed": "否"
+   },
+   {
+    "id": "U-50153",
+    "phone_tail": "1610",
+    "city": "深圳",
+    "package": "3年及以上",
+    "status": "沉默",
+    "activate_date": "2026-06-15",
+    "month_exchanges": 17,
+    "arpu": 77.0,
+    "renewed": "是"
+   },
+   {
+    "id": "U-50170",
+    "phone_tail": "8506",
+    "city": "阳朔",
+    "package": "3年及以上",
+    "status": "活跃",
+    "activate_date": "2026-03-20",
+    "month_exchanges": 34,
+    "arpu": 71.3,
+    "renewed": "是"
+   },
+   {
+    "id": "U-50187",
+    "phone_tail": "2824",
+    "city": "广州",
+    "package": "半年租",
+    "status": "活跃",
+    "activate_date": "2026-07-06",
+    "month_exchanges": 9,
+    "arpu": 85.2,
+    "renewed": "是"
+   },
+   {
+    "id": "U-50204",
+    "phone_tail": "6987",
+    "city": "阳朔",
+    "package": "月租",
+    "status": "活跃",
+    "activate_date": "2026-06-23",
+    "month_exchanges": 19,
+    "arpu": 75.4,
+    "renewed": "否"
+   },
+   {
+    "id": "U-50221",
+    "phone_tail": "5755",
+    "city": "杭州",
+    "package": "半年租",
+    "status": "活跃",
+    "activate_date": "2026-07-06",
+    "month_exchanges": 8,
+    "arpu": 86.1,
+    "renewed": "是"
+   },
+   {
+    "id": "U-50238",
+    "phone_tail": "9806",
+    "city": "广州",
+    "package": "1年租",
+    "status": "已流失",
+    "activate_date": "2026-09-19",
+    "month_exchanges": 4,
+    "arpu": 62.3,
+    "renewed": "是"
+   },
+   {
+    "id": "U-50255",
+    "phone_tail": "6245",
+    "city": "杭州",
+    "package": "1年租",
+    "status": "活跃",
+    "activate_date": "2026-04-26",
+    "month_exchanges": 48,
+    "arpu": 54.5,
+    "renewed": "否"
+   },
+   {
+    "id": "U-50272",
+    "phone_tail": "9089",
+    "city": "杭州",
+    "package": "半年租",
+    "status": "活跃",
+    "activate_date": "2026-03-04",
+    "month_exchanges": 46,
+    "arpu": 68.4,
+    "renewed": "是"
+   },
+   {
+    "id": "U-50289",
+    "phone_tail": "2640",
+    "city": "广州",
+    "package": "3年及以上",
+    "status": "活跃",
+    "activate_date": "2026-02-23",
+    "month_exchanges": 20,
+    "arpu": 71.7,
+    "renewed": "是"
+   },
+   {
+    "id": "U-50306",
+    "phone_tail": "5880",
+    "city": "广州",
+    "package": "月租",
+    "status": "活跃",
+    "activate_date": "2026-08-12",
+    "month_exchanges": 32,
+    "arpu": 75.0,
+    "renewed": "是"
+   },
+   {
+    "id": "U-50323",
+    "phone_tail": "5221",
+    "city": "深圳",
+    "package": "1年租",
+    "status": "沉默",
+    "activate_date": "2026-02-25",
+    "month_exchanges": 45,
+    "arpu": 85.5,
+    "renewed": "否"
+   },
+   {
+    "id": "U-50340",
+    "phone_tail": "6191",
+    "city": "广州",
+    "package": "月租",
+    "status": "已流失",
+    "activate_date": "2026-06-06",
+    "month_exchanges": 22,
+    "arpu": 56.6,
+    "renewed": "否"
+   },
+   {
+    "id": "U-50357",
+    "phone_tail": "1318",
+    "city": "杭州",
+    "package": "3年及以上",
+    "status": "沉默",
+    "activate_date": "2026-06-22",
+    "month_exchanges": 49,
+    "arpu": 78.6,
+    "renewed": "是"
+   },
+   {
+    "id": "U-50374",
+    "phone_tail": "6318",
+    "city": "杭州",
+    "package": "3年及以上",
+    "status": "沉默",
+    "activate_date": "2026-03-18",
+    "month_exchanges": 56,
+    "arpu": 83.6,
+    "renewed": "否"
+   },
+   {
+    "id": "U-50391",
+    "phone_tail": "6207",
+    "city": "深圳",
+    "package": "半年租",
+    "status": "沉默",
+    "activate_date": "2026-07-10",
+    "month_exchanges": 17,
+    "arpu": 40.7,
+    "renewed": "是"
+   },
+   {
+    "id": "U-50408",
+    "phone_tail": "4468",
+    "city": "深圳",
+    "package": "1年租",
+    "status": "沉默",
+    "activate_date": "2026-05-08",
+    "month_exchanges": 54,
+    "arpu": 82.6,
+    "renewed": "是"
+   },
+   {
+    "id": "U-50425",
+    "phone_tail": "7477",
+    "city": "深圳",
+    "package": "1年租",
+    "status": "已流失",
+    "activate_date": "2026-03-20",
+    "month_exchanges": 3,
+    "arpu": 76.8,
+    "renewed": "是"
+   },
+   {
+    "id": "U-50442",
+    "phone_tail": "5805",
+    "city": "杭州",
+    "package": "季租",
+    "status": "活跃",
+    "activate_date": "2026-05-26",
+    "month_exchanges": 4,
+    "arpu": 43.0,
+    "renewed": "是"
+   },
+   {
+    "id": "U-50459",
+    "phone_tail": "1936",
+    "city": "东莞",
+    "package": "1年租",
+    "status": "沉默",
+    "activate_date": "2026-08-22",
+    "month_exchanges": 47,
+    "arpu": 51.5,
+    "renewed": "是"
+   },
+   {
+    "id": "U-50476",
+    "phone_tail": "7911",
+    "city": "杭州",
+    "package": "季租",
+    "status": "沉默",
+    "activate_date": "2026-01-23",
+    "month_exchanges": 57,
+    "arpu": 75.2,
+    "renewed": "是"
+   },
+   {
+    "id": "U-50493",
+    "phone_tail": "7167",
+    "city": "深圳",
+    "package": "季租",
+    "status": "已流失",
+    "activate_date": "2026-03-22",
+    "month_exchanges": 36,
+    "arpu": 66.2,
+    "renewed": "是"
+   },
+   {
+    "id": "U-50510",
+    "phone_tail": "9823",
+    "city": "深圳",
+    "package": "月租",
+    "status": "已流失",
+    "activate_date": "2026-04-27",
+    "month_exchanges": 44,
+    "arpu": 50.7,
+    "renewed": "否"
+   },
+   {
+    "id": "U-50527",
+    "phone_tail": "2050",
+    "city": "深圳",
+    "package": "月租",
+    "status": "沉默",
+    "activate_date": "2026-06-07",
+    "month_exchanges": 10,
+    "arpu": 38.5,
+    "renewed": "是"
+   },
+   {
+    "id": "U-50544",
+    "phone_tail": "9744",
+    "city": "杭州",
+    "package": "月租",
+    "status": "活跃",
+    "activate_date": "2026-02-27",
+    "month_exchanges": 50,
+    "arpu": 63.6,
+    "renewed": "是"
+   },
+   {
+    "id": "U-50561",
+    "phone_tail": "7703",
+    "city": "杭州",
+    "package": "季租",
+    "status": "已流失",
+    "activate_date": "2026-09-24",
+    "month_exchanges": 35,
+    "arpu": 87.4,
+    "renewed": "是"
+   },
+   {
+    "id": "U-50578",
+    "phone_tail": "1932",
+    "city": "杭州",
+    "package": "1年租",
+    "status": "已流失",
+    "activate_date": "2026-09-25",
+    "month_exchanges": 19,
+    "arpu": 83.8,
+    "renewed": "是"
+   },
+   {
+    "id": "U-50595",
+    "phone_tail": "2766",
+    "city": "深圳",
+    "package": "季租",
+    "status": "已流失",
+    "activate_date": "2026-04-06",
+    "month_exchanges": 6,
+    "arpu": 67.0,
+    "renewed": "是"
+   },
+   {
+    "id": "U-50612",
+    "phone_tail": "7348",
+    "city": "深圳",
+    "package": "季租",
+    "status": "沉默",
+    "activate_date": "2026-03-08",
+    "month_exchanges": 48,
+    "arpu": 77.6,
+    "renewed": "是"
+   },
+   {
+    "id": "U-50629",
+    "phone_tail": "4921",
+    "city": "东莞",
+    "package": "3年及以上",
+    "status": "沉默",
+    "activate_date": "2026-09-19",
+    "month_exchanges": 28,
+    "arpu": 44.9,
+    "renewed": "否"
+   },
+   {
+    "id": "U-50646",
+    "phone_tail": "3216",
+    "city": "深圳",
+    "package": "季租",
+    "status": "已流失",
+    "activate_date": "2026-09-08",
+    "month_exchanges": 11,
+    "arpu": 38.0,
+    "renewed": "否"
+   },
+   {
+    "id": "U-50663",
+    "phone_tail": "5826",
+    "city": "深圳",
+    "package": "季租",
+    "status": "沉默",
+    "activate_date": "2026-01-22",
+    "month_exchanges": 34,
+    "arpu": 48.2,
+    "renewed": "是"
+   },
+   {
+    "id": "U-50680",
+    "phone_tail": "4529",
+    "city": "杭州",
+    "package": "3年及以上",
+    "status": "活跃",
+    "activate_date": "2026-04-04",
+    "month_exchanges": 50,
+    "arpu": 82.4,
+    "renewed": "是"
+   },
+   {
+    "id": "U-50697",
+    "phone_tail": "9810",
+    "city": "广州",
+    "package": "半年租",
+    "status": "活跃",
+    "activate_date": "2026-09-11",
+    "month_exchanges": 25,
+    "arpu": 83.1,
+    "renewed": "否"
+   },
+   {
+    "id": "U-50714",
+    "phone_tail": "4730",
+    "city": "杭州",
+    "package": "季租",
+    "status": "沉默",
+    "activate_date": "2026-04-27",
+    "month_exchanges": 37,
+    "arpu": 82.6,
+    "renewed": "是"
+   },
+   {
+    "id": "U-50731",
+    "phone_tail": "9699",
+    "city": "深圳",
+    "package": "3年及以上",
+    "status": "沉默",
+    "activate_date": "2026-07-07",
+    "month_exchanges": 26,
+    "arpu": 50.5,
+    "renewed": "否"
+   },
+   {
+    "id": "U-50748",
+    "phone_tail": "5046",
+    "city": "深圳",
+    "package": "月租",
+    "status": "已流失",
+    "activate_date": "2026-06-27",
+    "month_exchanges": 20,
+    "arpu": 87.5,
+    "renewed": "是"
+   },
+   {
+    "id": "U-50765",
+    "phone_tail": "3896",
+    "city": "杭州",
+    "package": "月租",
+    "status": "活跃",
+    "activate_date": "2026-09-11",
+    "month_exchanges": 48,
+    "arpu": 83.9,
+    "renewed": "是"
+   },
+   {
+    "id": "U-50782",
+    "phone_tail": "9095",
+    "city": "广州",
+    "package": "月租",
+    "status": "已流失",
+    "activate_date": "2026-08-13",
+    "month_exchanges": 11,
+    "arpu": 76.0,
+    "renewed": "是"
+   },
+   {
+    "id": "U-50799",
+    "phone_tail": "2832",
+    "city": "深圳",
+    "package": "季租",
+    "status": "已流失",
+    "activate_date": "2026-06-16",
+    "month_exchanges": 28,
+    "arpu": 60.8,
+    "renewed": "是"
+   },
+   {
+    "id": "U-50816",
+    "phone_tail": "9901",
+    "city": "东莞",
+    "package": "季租",
+    "status": "沉默",
+    "activate_date": "2026-02-17",
+    "month_exchanges": 41,
+    "arpu": 50.5,
+    "renewed": "否"
+   },
+   {
+    "id": "U-50833",
+    "phone_tail": "4198",
+    "city": "深圳",
+    "package": "半年租",
+    "status": "已流失",
+    "activate_date": "2026-04-12",
+    "month_exchanges": 23,
+    "arpu": 53.5,
+    "renewed": "是"
+   },
+   {
+    "id": "U-50850",
+    "phone_tail": "7220",
+    "city": "杭州",
+    "package": "半年租",
+    "status": "已流失",
+    "activate_date": "2026-04-12",
+    "month_exchanges": 55,
+    "arpu": 72.7,
+    "renewed": "否"
+   },
+   {
+    "id": "U-50867",
+    "phone_tail": "1524",
+    "city": "深圳",
+    "package": "季租",
+    "status": "活跃",
+    "activate_date": "2026-04-02",
+    "month_exchanges": 12,
+    "arpu": 53.9,
+    "renewed": "是"
+   },
+   {
+    "id": "U-50884",
+    "phone_tail": "9363",
+    "city": "广州",
+    "package": "季租",
+    "status": "活跃",
+    "activate_date": "2026-03-25",
+    "month_exchanges": 36,
+    "arpu": 49.1,
+    "renewed": "否"
+   },
+   {
+    "id": "U-50901",
+    "phone_tail": "8267",
+    "city": "杭州",
+    "package": "季租",
+    "status": "已流失",
+    "activate_date": "2026-07-01",
+    "month_exchanges": 16,
+    "arpu": 87.3,
+    "renewed": "是"
+   },
+   {
+    "id": "U-50918",
+    "phone_tail": "8686",
+    "city": "广州",
+    "package": "季租",
+    "status": "活跃",
+    "activate_date": "2026-01-15",
+    "month_exchanges": 36,
+    "arpu": 49.4,
+    "renewed": "是"
+   },
+   {
+    "id": "U-50935",
+    "phone_tail": "6062",
+    "city": "杭州",
+    "package": "半年租",
+    "status": "已流失",
+    "activate_date": "2026-06-28",
+    "month_exchanges": 38,
+    "arpu": 42.6,
+    "renewed": "是"
+   },
+   {
+    "id": "U-50952",
+    "phone_tail": "7951",
+    "city": "阳朔",
+    "package": "1年租",
+    "status": "活跃",
+    "activate_date": "2026-01-15",
+    "month_exchanges": 6,
+    "arpu": 57.4,
+    "renewed": "是"
+   },
+   {
+    "id": "U-50969",
+    "phone_tail": "7292",
+    "city": "杭州",
+    "package": "1年租",
+    "status": "已流失",
+    "activate_date": "2026-02-21",
+    "month_exchanges": 45,
+    "arpu": 44.5,
+    "renewed": "是"
+   },
+   {
+    "id": "U-50986",
+    "phone_tail": "2300",
+    "city": "杭州",
+    "package": "1年租",
+    "status": "已流失",
+    "activate_date": "2026-08-24",
+    "month_exchanges": 48,
+    "arpu": 41.0,
+    "renewed": "是"
+   },
+   {
+    "id": "U-51003",
+    "phone_tail": "8548",
+    "city": "深圳",
+    "package": "月租",
+    "status": "活跃",
+    "activate_date": "2026-09-22",
+    "month_exchanges": 23,
+    "arpu": 76.2,
+    "renewed": "是"
+   },
+   {
+    "id": "U-51020",
+    "phone_tail": "6468",
+    "city": "杭州",
+    "package": "3年及以上",
+    "status": "活跃",
+    "activate_date": "2026-07-11",
+    "month_exchanges": 49,
+    "arpu": 45.8,
+    "renewed": "是"
+   }
+  ],
+  "sites": [
+   {
+    "id": "SITE-0001",
+    "name": "阳朔-写字楼-01号",
+    "city": "阳朔",
+    "type": "社区门店",
+    "mode": "免费场地",
+    "share_ratio": 27.2,
+    "elec_price": 1.93,
+    "cabinets": 7,
+    "month_orders": 4908,
+    "month_revenue": 8889,
+    "profit": "盈利",
+    "expire": "2028-Q1"
+   },
+   {
+    "id": "SITE-0002",
+    "name": "阳朔-合作车行-02号",
+    "city": "阳朔",
+    "type": "物业小区",
+    "mode": "免费场地",
+    "share_ratio": 25.6,
+    "elec_price": 1.29,
+    "cabinets": 9,
+    "month_orders": 3440,
+    "month_revenue": 2540,
+    "profit": "盈利",
+    "expire": "2028-Q1"
+   },
+   {
+    "id": "SITE-0003",
+    "name": "深圳-商场周边-03号",
+    "city": "深圳",
+    "type": "物业小区",
+    "mode": "年场租+电费",
+    "share_ratio": 25.6,
+    "elec_price": 1.16,
+    "cabinets": 5,
+    "month_orders": 329,
+    "month_revenue": 3763,
+    "profit": "盈利",
+    "expire": "2026-Q4"
+   },
+   {
+    "id": "SITE-0004",
+    "name": "广州-交通枢纽-04号",
+    "city": "广州",
+    "type": "社区门店",
+    "mode": "免费场地",
+    "share_ratio": 21.2,
+    "elec_price": 1.21,
+    "cabinets": 10,
+    "month_orders": 1521,
+    "month_revenue": 4452,
+    "profit": "盈利",
+    "expire": "2028-Q4"
+   },
+   {
+    "id": "SITE-0005",
+    "name": "阳朔-产业园区-05号",
+    "city": "阳朔",
+    "type": "合作车行",
+    "mode": "电费+分成",
+    "share_ratio": 18.5,
+    "elec_price": 0.95,
+    "cabinets": 6,
+    "month_orders": 3894,
+    "month_revenue": 3433,
+    "profit": "盈利",
+    "expire": "2027-Q1"
+   },
+   {
+    "id": "SITE-0006",
+    "name": "广州-商场周边-06号",
+    "city": "广州",
+    "type": "交通枢纽",
+    "mode": "免费场地",
+    "share_ratio": 26.4,
+    "elec_price": 1.32,
+    "cabinets": 9,
+    "month_orders": 1969,
+    "month_revenue": 4578,
+    "profit": "盈利",
+    "expire": "2028-Q4"
+   },
+   {
+    "id": "SITE-0007",
+    "name": "杭州-交通枢纽-07号",
+    "city": "杭州",
+    "type": "学校周边",
+    "mode": "年场租+电费",
+    "share_ratio": 11.7,
+    "elec_price": 0.86,
+    "cabinets": 13,
+    "month_orders": 5571,
+    "month_revenue": 4870,
+    "profit": "盈利",
+    "expire": "2028-Q3"
+   },
+   {
+    "id": "SITE-0008",
+    "name": "阳朔-写字楼-08号",
+    "city": "阳朔",
+    "type": "写字楼",
+    "mode": "免费场地",
+    "share_ratio": 23.2,
+    "elec_price": 0.93,
+    "cabinets": 12,
+    "month_orders": 4099,
+    "month_revenue": 2429,
+    "profit": "盈利",
+    "expire": "2029-Q4"
+   },
+   {
+    "id": "SITE-0009",
+    "name": "杭州-交通枢纽-09号",
+    "city": "杭州",
+    "type": "写字楼",
+    "mode": "免费场地",
+    "share_ratio": 4.5,
+    "elec_price": 1.74,
+    "cabinets": 8,
+    "month_orders": 5691,
+    "month_revenue": 6238,
+    "profit": "亏损",
+    "expire": "2028-Q2"
+   },
+   {
+    "id": "SITE-0010",
+    "name": "杭州-社区门店-10号",
+    "city": "杭州",
+    "type": "合作车行",
+    "mode": "电费+分成",
+    "share_ratio": 17.4,
+    "elec_price": 0.86,
+    "cabinets": 14,
+    "month_orders": 4634,
+    "month_revenue": 2088,
+    "profit": "亏损",
+    "expire": "2026-Q2"
+   },
+   {
+    "id": "SITE-0011",
+    "name": "广州-交通枢纽-11号",
+    "city": "广州",
+    "type": "合作车行",
+    "mode": "电费+分成",
+    "share_ratio": 1.3,
+    "elec_price": 1.4,
+    "cabinets": 2,
+    "month_orders": 3994,
+    "month_revenue": 6256,
+    "profit": "盈利",
+    "expire": "2027-Q3"
+   },
+   {
+    "id": "SITE-0012",
+    "name": "阳朔-商场周边-12号",
+    "city": "阳朔",
+    "type": "社区门店",
+    "mode": "按次分成15%-30%",
+    "share_ratio": 24.2,
+    "elec_price": 1.51,
+    "cabinets": 16,
+    "month_orders": 1890,
+    "month_revenue": 4438,
+    "profit": "盈利",
+    "expire": "2027-Q3"
+   },
+   {
+    "id": "SITE-0013",
+    "name": "深圳-合作车行-13号",
+    "city": "深圳",
+    "type": "社区门店",
+    "mode": "按次分成15%-30%",
+    "share_ratio": 11.5,
+    "elec_price": 1.3,
+    "cabinets": 12,
+    "month_orders": 4683,
+    "month_revenue": 3476,
+    "profit": "盈利",
+    "expire": "2027-Q2"
+   },
+   {
+    "id": "SITE-0014",
+    "name": "深圳-物业小区-14号",
+    "city": "深圳",
+    "type": "写字楼",
+    "mode": "电费+分成",
+    "share_ratio": 13.4,
+    "elec_price": 0.79,
+    "cabinets": 8,
+    "month_orders": 824,
+    "month_revenue": 5248,
+    "profit": "亏损",
+    "expire": "2026-Q3"
+   },
+   {
+    "id": "SITE-0015",
+    "name": "杭州-写字楼-15号",
+    "city": "杭州",
+    "type": "交通枢纽",
+    "mode": "电费+分成",
+    "share_ratio": 27.8,
+    "elec_price": 1.38,
+    "cabinets": 14,
+    "month_orders": 2692,
+    "month_revenue": 5003,
+    "profit": "盈利",
+    "expire": "2028-Q4"
+   },
+   {
+    "id": "SITE-0016",
+    "name": "深圳-合作车行-16号",
+    "city": "深圳",
+    "type": "学校周边",
+    "mode": "电费+分成",
+    "share_ratio": 16.8,
+    "elec_price": 1.68,
+    "cabinets": 2,
+    "month_orders": 2745,
+    "month_revenue": 7761,
+    "profit": "盈利",
+    "expire": "2026-Q4"
+   },
+   {
+    "id": "SITE-0017",
+    "name": "深圳-写字楼-17号",
+    "city": "深圳",
+    "type": "产业园区",
+    "mode": "电费+分成",
+    "share_ratio": 15.2,
+    "elec_price": 0.88,
+    "cabinets": 6,
+    "month_orders": 4056,
+    "month_revenue": 8345,
+    "profit": "盈利",
+    "expire": "2027-Q1"
+   },
+   {
+    "id": "SITE-0018",
+    "name": "深圳-合作车行-18号",
+    "city": "深圳",
+    "type": "交通枢纽",
+    "mode": "按次分成15%-30%",
+    "share_ratio": 10.8,
+    "elec_price": 1.71,
+    "cabinets": 9,
+    "month_orders": 4596,
+    "month_revenue": 5465,
+    "profit": "盈利",
+    "expire": "2028-Q3"
+   },
+   {
+    "id": "SITE-0019",
+    "name": "东莞-交通枢纽-19号",
+    "city": "东莞",
+    "type": "商场周边",
+    "mode": "电费+分成",
+    "share_ratio": 15.1,
+    "elec_price": 0.7,
+    "cabinets": 10,
+    "month_orders": 2205,
+    "month_revenue": 6578,
+    "profit": "亏损",
+    "expire": "2028-Q1"
+   },
+   {
+    "id": "SITE-0020",
+    "name": "深圳-社区门店-20号",
+    "city": "深圳",
+    "type": "交通枢纽",
+    "mode": "免费场地",
+    "share_ratio": 24.8,
+    "elec_price": 1.76,
+    "cabinets": 12,
+    "month_orders": 2501,
+    "month_revenue": 6993,
+    "profit": "亏损",
+    "expire": "2026-Q1"
+   },
+   {
+    "id": "SITE-0021",
+    "name": "东莞-商场周边-21号",
+    "city": "东莞",
+    "type": "合作车行",
+    "mode": "年场租+电费",
+    "share_ratio": 23.8,
+    "elec_price": 1.19,
+    "cabinets": 10,
+    "month_orders": 3425,
+    "month_revenue": 4563,
+    "profit": "盈利",
+    "expire": "2027-Q1"
+   },
+   {
+    "id": "SITE-0022",
+    "name": "深圳-合作车行-22号",
+    "city": "深圳",
+    "type": "合作车行",
+    "mode": "免费场地",
+    "share_ratio": 2.3,
+    "elec_price": 1.82,
+    "cabinets": 4,
+    "month_orders": 692,
+    "month_revenue": 6893,
+    "profit": "盈利",
+    "expire": "2029-Q1"
+   },
+   {
+    "id": "SITE-0023",
+    "name": "深圳-合作车行-23号",
+    "city": "深圳",
+    "type": "学校周边",
+    "mode": "年场租+电费",
+    "share_ratio": 16.4,
+    "elec_price": 1.12,
+    "cabinets": 2,
+    "month_orders": 2120,
+    "month_revenue": 8005,
+    "profit": "盈利",
+    "expire": "2029-Q4"
+   },
+   {
+    "id": "SITE-0024",
+    "name": "广州-物业小区-24号",
+    "city": "广州",
+    "type": "物业小区",
+    "mode": "年场租+电费",
+    "share_ratio": 2.4,
+    "elec_price": 1.3,
+    "cabinets": 13,
+    "month_orders": 4564,
+    "month_revenue": 8287,
+    "profit": "盈利",
+    "expire": "2029-Q3"
+   },
+   {
+    "id": "SITE-0025",
+    "name": "广州-合作车行-25号",
+    "city": "广州",
+    "type": "合作车行",
+    "mode": "按次分成15%-30%",
+    "share_ratio": 5.9,
+    "elec_price": 1.58,
+    "cabinets": 16,
+    "month_orders": 4312,
+    "month_revenue": 4551,
+    "profit": "亏损",
+    "expire": "2029-Q4"
+   },
+   {
+    "id": "SITE-0026",
+    "name": "深圳-产业园区-26号",
+    "city": "深圳",
+    "type": "学校周边",
+    "mode": "免费场地",
+    "share_ratio": 28.1,
+    "elec_price": 0.74,
+    "cabinets": 6,
+    "month_orders": 5304,
+    "month_revenue": 4561,
+    "profit": "盈利",
+    "expire": "2029-Q3"
+   },
+   {
+    "id": "SITE-0027",
+    "name": "阳朔-物业小区-27号",
+    "city": "阳朔",
+    "type": "社区门店",
+    "mode": "电费+分成",
+    "share_ratio": 27.7,
+    "elec_price": 1.38,
+    "cabinets": 7,
+    "month_orders": 2853,
+    "month_revenue": 1963,
+    "profit": "盈利",
+    "expire": "2029-Q3"
+   },
+   {
+    "id": "SITE-0028",
+    "name": "广州-物业小区-28号",
+    "city": "广州",
+    "type": "社区门店",
+    "mode": "按次分成15%-30%",
+    "share_ratio": 7.2,
+    "elec_price": 0.8,
+    "cabinets": 8,
+    "month_orders": 1550,
+    "month_revenue": 6437,
+    "profit": "盈利",
+    "expire": "2027-Q1"
+   },
+   {
+    "id": "SITE-0029",
+    "name": "深圳-产业园区-29号",
+    "city": "深圳",
+    "type": "社区门店",
+    "mode": "免费场地",
+    "share_ratio": 17.3,
+    "elec_price": 0.92,
+    "cabinets": 13,
+    "month_orders": 394,
+    "month_revenue": 6591,
+    "profit": "盈利",
+    "expire": "2026-Q4"
+   },
+   {
+    "id": "SITE-0030",
+    "name": "深圳-合作车行-30号",
+    "city": "深圳",
+    "type": "社区门店",
+    "mode": "年场租+电费",
+    "share_ratio": 18.3,
+    "elec_price": 1.7,
+    "cabinets": 16,
+    "month_orders": 3874,
+    "month_revenue": 7544,
+    "profit": "亏损",
+    "expire": "2028-Q1"
+   },
+   {
+    "id": "SITE-0031",
+    "name": "广州-交通枢纽-31号",
+    "city": "广州",
+    "type": "写字楼",
+    "mode": "免费场地",
+    "share_ratio": 19.9,
+    "elec_price": 1.01,
+    "cabinets": 6,
+    "month_orders": 2542,
+    "month_revenue": 3982,
+    "profit": "盈利",
+    "expire": "2028-Q3"
+   },
+   {
+    "id": "SITE-0032",
+    "name": "杭州-写字楼-32号",
+    "city": "杭州",
+    "type": "写字楼",
+    "mode": "年场租+电费",
+    "share_ratio": 20.0,
+    "elec_price": 0.86,
+    "cabinets": 4,
+    "month_orders": 1029,
+    "month_revenue": 3934,
+    "profit": "亏损",
+    "expire": "2026-Q1"
+   },
+   {
+    "id": "SITE-0033",
+    "name": "东莞-写字楼-33号",
+    "city": "东莞",
+    "type": "合作车行",
+    "mode": "年场租+电费",
+    "share_ratio": 15.9,
+    "elec_price": 1.54,
+    "cabinets": 6,
+    "month_orders": 5055,
+    "month_revenue": 8825,
+    "profit": "盈利",
+    "expire": "2027-Q3"
+   },
+   {
+    "id": "SITE-0034",
+    "name": "深圳-产业园区-34号",
+    "city": "深圳",
+    "type": "产业园区",
+    "mode": "按次分成15%-30%",
+    "share_ratio": 12.8,
+    "elec_price": 1.92,
+    "cabinets": 9,
+    "month_orders": 897,
+    "month_revenue": 5336,
+    "profit": "盈利",
+    "expire": "2026-Q3"
+   },
+   {
+    "id": "SITE-0035",
+    "name": "深圳-商场周边-35号",
+    "city": "深圳",
+    "type": "物业小区",
+    "mode": "电费+分成",
+    "share_ratio": 1.2,
+    "elec_price": 0.98,
+    "cabinets": 13,
+    "month_orders": 1001,
+    "month_revenue": 2260,
+    "profit": "亏损",
+    "expire": "2029-Q1"
+   },
+   {
+    "id": "SITE-0036",
+    "name": "深圳-合作车行-36号",
+    "city": "深圳",
+    "type": "学校周边",
+    "mode": "按次分成15%-30%",
+    "share_ratio": 21.3,
+    "elec_price": 1.24,
+    "cabinets": 14,
+    "month_orders": 4674,
+    "month_revenue": 7172,
+    "profit": "亏损",
+    "expire": "2028-Q1"
+   },
+   {
+    "id": "SITE-0037",
+    "name": "东莞-物业小区-37号",
+    "city": "东莞",
+    "type": "产业园区",
+    "mode": "免费场地",
+    "share_ratio": 20.2,
+    "elec_price": 1.75,
+    "cabinets": 11,
+    "month_orders": 706,
+    "month_revenue": 5019,
+    "profit": "亏损",
+    "expire": "2029-Q3"
+   },
+   {
+    "id": "SITE-0038",
+    "name": "深圳-物业小区-38号",
+    "city": "深圳",
+    "type": "交通枢纽",
+    "mode": "免费场地",
+    "share_ratio": 12.3,
+    "elec_price": 1.06,
+    "cabinets": 16,
+    "month_orders": 590,
+    "month_revenue": 3934,
+    "profit": "亏损",
+    "expire": "2029-Q3"
+   },
+   {
+    "id": "SITE-0039",
+    "name": "杭州-合作车行-39号",
+    "city": "杭州",
+    "type": "交通枢纽",
+    "mode": "电费+分成",
+    "share_ratio": 14.6,
+    "elec_price": 1.43,
+    "cabinets": 14,
+    "month_orders": 2868,
+    "month_revenue": 4241,
+    "profit": "盈利",
+    "expire": "2027-Q2"
+   },
+   {
+    "id": "SITE-0040",
+    "name": "杭州-写字楼-40号",
+    "city": "杭州",
+    "type": "写字楼",
+    "mode": "年场租+电费",
+    "share_ratio": 16.7,
+    "elec_price": 1.84,
+    "cabinets": 2,
+    "month_orders": 556,
+    "month_revenue": 7115,
+    "profit": "盈利",
+    "expire": "2027-Q4"
+   },
+   {
+    "id": "SITE-0041",
+    "name": "杭州-交通枢纽-41号",
+    "city": "杭州",
+    "type": "物业小区",
+    "mode": "免费场地",
+    "share_ratio": 19.6,
+    "elec_price": 1.75,
+    "cabinets": 6,
+    "month_orders": 2340,
+    "month_revenue": 5554,
+    "profit": "盈利",
+    "expire": "2026-Q4"
+   },
+   {
+    "id": "SITE-0042",
+    "name": "东莞-物业小区-42号",
+    "city": "东莞",
+    "type": "商场周边",
+    "mode": "按次分成15%-30%",
+    "share_ratio": 28.4,
+    "elec_price": 1.48,
+    "cabinets": 15,
+    "month_orders": 4409,
+    "month_revenue": 3458,
+    "profit": "盈利",
+    "expire": "2029-Q4"
+   },
+   {
+    "id": "SITE-0043",
+    "name": "杭州-写字楼-43号",
+    "city": "杭州",
+    "type": "合作车行",
+    "mode": "免费场地",
+    "share_ratio": 23.8,
+    "elec_price": 1.3,
+    "cabinets": 7,
+    "month_orders": 1251,
+    "month_revenue": 8322,
+    "profit": "亏损",
+    "expire": "2029-Q2"
+   },
+   {
+    "id": "SITE-0044",
+    "name": "阳朔-社区门店-44号",
+    "city": "阳朔",
+    "type": "商场周边",
+    "mode": "电费+分成",
+    "share_ratio": 4.1,
+    "elec_price": 1.49,
+    "cabinets": 16,
+    "month_orders": 4320,
+    "month_revenue": 7466,
+    "profit": "盈利",
+    "expire": "2028-Q2"
+   },
+   {
+    "id": "SITE-0045",
+    "name": "深圳-合作车行-45号",
+    "city": "深圳",
+    "type": "交通枢纽",
+    "mode": "电费+分成",
+    "share_ratio": 8.2,
+    "elec_price": 1.28,
+    "cabinets": 6,
+    "month_orders": 2770,
+    "month_revenue": 2315,
+    "profit": "亏损",
+    "expire": "2027-Q3"
+   },
+   {
+    "id": "SITE-0046",
+    "name": "广州-交通枢纽-46号",
+    "city": "广州",
+    "type": "交通枢纽",
+    "mode": "年场租+电费",
+    "share_ratio": 4.1,
+    "elec_price": 1.44,
+    "cabinets": 12,
+    "month_orders": 2439,
+    "month_revenue": 8641,
+    "profit": "盈利",
+    "expire": "2026-Q4"
+   },
+   {
+    "id": "SITE-0047",
+    "name": "杭州-合作车行-47号",
+    "city": "杭州",
+    "type": "社区门店",
+    "mode": "电费+分成",
+    "share_ratio": 3.8,
+    "elec_price": 1.23,
+    "cabinets": 8,
+    "month_orders": 3053,
+    "month_revenue": 4886,
+    "profit": "亏损",
+    "expire": "2028-Q2"
+   },
+   {
+    "id": "SITE-0048",
+    "name": "深圳-交通枢纽-48号",
+    "city": "深圳",
+    "type": "学校周边",
+    "mode": "按次分成15%-30%",
+    "share_ratio": 13.2,
+    "elec_price": 1.71,
+    "cabinets": 13,
+    "month_orders": 988,
+    "month_revenue": 2483,
+    "profit": "亏损",
+    "expire": "2029-Q1"
+   },
+   {
+    "id": "SITE-0049",
+    "name": "广州-物业小区-49号",
+    "city": "广州",
+    "type": "合作车行",
+    "mode": "年场租+电费",
+    "share_ratio": 29.8,
+    "elec_price": 1.73,
+    "cabinets": 6,
+    "month_orders": 3044,
+    "month_revenue": 7964,
+    "profit": "亏损",
+    "expire": "2027-Q2"
+   },
+   {
+    "id": "SITE-0050",
+    "name": "东莞-物业小区-50号",
+    "city": "东莞",
+    "type": "合作车行",
+    "mode": "电费+分成",
+    "share_ratio": 29.5,
+    "elec_price": 1.73,
+    "cabinets": 3,
+    "month_orders": 4298,
+    "month_revenue": 6986,
+    "profit": "亏损",
+    "expire": "2026-Q4"
+   },
+   {
+    "id": "SITE-0051",
+    "name": "深圳-社区门店-51号",
+    "city": "深圳",
+    "type": "写字楼",
+    "mode": "按次分成15%-30%",
+    "share_ratio": 23.7,
+    "elec_price": 1.68,
+    "cabinets": 5,
+    "month_orders": 3613,
+    "month_revenue": 7435,
+    "profit": "盈利",
+    "expire": "2028-Q2"
+   },
+   {
+    "id": "SITE-0052",
+    "name": "阳朔-社区门店-52号",
+    "city": "阳朔",
+    "type": "写字楼",
+    "mode": "免费场地",
+    "share_ratio": 15.1,
+    "elec_price": 1.36,
+    "cabinets": 15,
+    "month_orders": 4394,
+    "month_revenue": 7909,
+    "profit": "盈利",
+    "expire": "2026-Q3"
+   },
+   {
+    "id": "SITE-0053",
+    "name": "杭州-写字楼-53号",
+    "city": "杭州",
+    "type": "社区门店",
+    "mode": "免费场地",
+    "share_ratio": 8.8,
+    "elec_price": 1.75,
+    "cabinets": 6,
+    "month_orders": 2022,
+    "month_revenue": 2858,
+    "profit": "盈利",
+    "expire": "2028-Q3"
+   },
+   {
+    "id": "SITE-0054",
+    "name": "杭州-合作车行-54号",
+    "city": "杭州",
+    "type": "写字楼",
+    "mode": "电费+分成",
+    "share_ratio": 6.7,
+    "elec_price": 1.0,
+    "cabinets": 4,
+    "month_orders": 2094,
+    "month_revenue": 7940,
+    "profit": "盈利",
+    "expire": "2028-Q1"
+   },
+   {
+    "id": "SITE-0055",
+    "name": "深圳-写字楼-55号",
+    "city": "深圳",
+    "type": "写字楼",
+    "mode": "免费场地",
+    "share_ratio": 6.7,
+    "elec_price": 1.47,
+    "cabinets": 5,
+    "month_orders": 2107,
+    "month_revenue": 3193,
+    "profit": "盈利",
+    "expire": "2027-Q4"
+   },
+   {
+    "id": "SITE-0056",
+    "name": "广州-产业园区-56号",
+    "city": "广州",
+    "type": "社区门店",
+    "mode": "按次分成15%-30%",
+    "share_ratio": 12.3,
+    "elec_price": 0.83,
+    "cabinets": 9,
+    "month_orders": 5483,
+    "month_revenue": 5818,
+    "profit": "盈利",
+    "expire": "2028-Q2"
+   },
+   {
+    "id": "SITE-0057",
+    "name": "深圳-社区门店-57号",
+    "city": "深圳",
+    "type": "交通枢纽",
+    "mode": "免费场地",
+    "share_ratio": 14.4,
+    "elec_price": 1.18,
+    "cabinets": 12,
+    "month_orders": 5975,
+    "month_revenue": 3552,
+    "profit": "盈利",
+    "expire": "2028-Q3"
+   },
+   {
+    "id": "SITE-0058",
+    "name": "东莞-写字楼-58号",
+    "city": "东莞",
+    "type": "写字楼",
+    "mode": "免费场地",
+    "share_ratio": 9.7,
+    "elec_price": 0.74,
+    "cabinets": 3,
+    "month_orders": 681,
+    "month_revenue": 5006,
+    "profit": "盈利",
+    "expire": "2029-Q3"
+   },
+   {
+    "id": "SITE-0059",
+    "name": "深圳-产业园区-59号",
+    "city": "深圳",
+    "type": "合作车行",
+    "mode": "免费场地",
+    "share_ratio": 29.4,
+    "elec_price": 1.18,
+    "cabinets": 2,
+    "month_orders": 966,
+    "month_revenue": 6401,
+    "profit": "亏损",
+    "expire": "2029-Q1"
+   },
+   {
+    "id": "SITE-0060",
+    "name": "深圳-写字楼-60号",
+    "city": "深圳",
+    "type": "物业小区",
+    "mode": "按次分成15%-30%",
+    "share_ratio": 4.4,
+    "elec_price": 0.76,
+    "cabinets": 11,
+    "month_orders": 809,
+    "month_revenue": 7198,
+    "profit": "亏损",
+    "expire": "2026-Q3"
+   }
+  ],
+  "orders": [
+   {
+    "id": "ORD-700031",
+    "time": "2026-09-06 09:34",
+    "user": "U-50374",
+    "city": "广州",
+    "site": "SITE-0022",
+    "cabinet": "CAB-00017",
+    "battery": "BT-00027",
+    "type": "退换",
+    "amount": 1.06,
+    "status": "成功"
+   },
+   {
+    "id": "ORD-700062",
+    "time": "2026-09-16 19:00",
+    "user": "U-50833",
+    "city": "阳朔",
+    "site": "SITE-0019",
+    "cabinet": "CAB-00054",
+    "battery": "BT-00066",
+    "type": "维修取电",
+    "amount": 2.0,
+    "status": "成功"
+   },
+   {
+    "id": "ORD-700093",
+    "time": "2026-09-05 14:13",
+    "user": "U-50748",
+    "city": "广州",
+    "site": "SITE-0052",
+    "cabinet": "CAB-00029",
+    "battery": "BT-00077",
+    "type": "换电",
+    "amount": 1.14,
+    "status": "成功"
+   },
+   {
+    "id": "ORD-700124",
+    "time": "2026-09-08 09:51",
+    "user": "U-50119",
+    "city": "杭州",
+    "site": "SITE-0011",
+    "cabinet": "CAB-00009",
+    "battery": "BT-00078",
+    "type": "换电",
+    "amount": 2.59,
+    "status": "成功"
+   },
+   {
+    "id": "ORD-700155",
+    "time": "2026-09-06 09:21",
+    "user": "U-50238",
+    "city": "杭州",
+    "site": "SITE-0016",
+    "cabinet": "CAB-00027",
+    "battery": "BT-00006",
+    "type": "换电",
+    "amount": 0.77,
+    "status": "成功"
+   },
+   {
+    "id": "ORD-700186",
+    "time": "2026-09-05 00:08",
+    "user": "U-50816",
+    "city": "深圳",
+    "site": "SITE-0002",
+    "cabinet": "CAB-00034",
+    "battery": "BT-00042",
+    "type": "退换",
+    "amount": 0.05,
+    "status": "成功"
+   },
+   {
+    "id": "ORD-700217",
+    "time": "2026-09-12 00:11",
+    "user": "U-50272",
+    "city": "阳朔",
+    "site": "SITE-0030",
+    "cabinet": "CAB-00039",
+    "battery": "BT-00056",
+    "type": "换电",
+    "amount": 1.04,
+    "status": "成功"
+   },
+   {
+    "id": "ORD-700248",
+    "time": "2026-09-08 23:16",
+    "user": "U-50799",
+    "city": "杭州",
+    "site": "SITE-0030",
+    "cabinet": "CAB-00029",
+    "battery": "BT-00078",
+    "type": "维修取电",
+    "amount": 0.36,
+    "status": "成功"
+   },
+   {
+    "id": "ORD-700279",
+    "time": "2026-09-16 05:48",
+    "user": "U-50374",
+    "city": "杭州",
+    "site": "SITE-0046",
+    "cabinet": "CAB-00044",
+    "battery": "BT-00013",
+    "type": "换电",
+    "amount": 0.82,
+    "status": "成功"
+   },
+   {
+    "id": "ORD-700310",
+    "time": "2026-09-06 13:24",
+    "user": "U-50782",
+    "city": "深圳",
+    "site": "SITE-0020",
+    "cabinet": "CAB-00033",
+    "battery": "BT-00066",
+    "type": "换电",
+    "amount": 1.23,
+    "status": "成功"
+   },
+   {
+    "id": "ORD-700341",
+    "time": "2026-09-11 21:00",
+    "user": "U-50748",
+    "city": "阳朔",
+    "site": "SITE-0059",
+    "cabinet": "CAB-00003",
+    "battery": "BT-00050",
+    "type": "换电",
+    "amount": 0.28,
+    "status": "成功"
+   },
+   {
+    "id": "ORD-700372",
+    "time": "2026-09-15 19:59",
+    "user": "U-50527",
+    "city": "东莞",
+    "site": "SITE-0055",
+    "cabinet": "CAB-00040",
+    "battery": "BT-00072",
+    "type": "退换",
+    "amount": 2.39,
+    "status": "成功"
+   },
+   {
+    "id": "ORD-700403",
+    "time": "2026-09-01 08:11",
+    "user": "U-50068",
+    "city": "深圳",
+    "site": "SITE-0011",
+    "cabinet": "CAB-00032",
+    "battery": "BT-00028",
+    "type": "退换",
+    "amount": 0.79,
+    "status": "成功"
+   },
+   {
+    "id": "ORD-700434",
+    "time": "2026-09-14 16:41",
+    "user": "U-50323",
+    "city": "深圳",
+    "site": "SITE-0022",
+    "cabinet": "CAB-00039",
+    "battery": "BT-00021",
+    "type": "换电",
+    "amount": 0.13,
+    "status": "成功"
+   },
+   {
+    "id": "ORD-700465",
+    "time": "2026-09-08 00:03",
+    "user": "U-50510",
+    "city": "深圳",
+    "site": "SITE-0022",
+    "cabinet": "CAB-00024",
+    "battery": "BT-00078",
+    "type": "维修取电",
+    "amount": 2.8,
+    "status": "成功"
+   },
+   {
+    "id": "ORD-700496",
+    "time": "2026-09-05 06:04",
+    "user": "U-50850",
+    "city": "阳朔",
+    "site": "SITE-0042",
+    "cabinet": "CAB-00036",
+    "battery": "BT-00045",
+    "type": "换电",
+    "amount": 1.45,
+    "status": "成功"
+   },
+   {
+    "id": "ORD-700527",
+    "time": "2026-09-16 11:26",
+    "user": "U-50765",
+    "city": "深圳",
+    "site": "SITE-0025",
+    "cabinet": "CAB-00056",
+    "battery": "BT-00044",
+    "type": "维修取电",
+    "amount": 0.08,
+    "status": "成功"
+   },
+   {
+    "id": "ORD-700558",
+    "time": "2026-09-11 12:31",
+    "user": "U-50510",
+    "city": "阳朔",
+    "site": "SITE-0013",
+    "cabinet": "CAB-00003",
+    "battery": "BT-00049",
+    "type": "换电",
+    "amount": 2.83,
+    "status": "成功"
+   },
+   {
+    "id": "ORD-700589",
+    "time": "2026-09-07 05:43",
+    "user": "U-50323",
+    "city": "东莞",
+    "site": "SITE-0010",
+    "cabinet": "CAB-00034",
+    "battery": "BT-00029",
+    "type": "维修取电",
+    "amount": 2.84,
+    "status": "成功"
+   },
+   {
+    "id": "ORD-700620",
+    "time": "2026-09-16 00:24",
+    "user": "U-50629",
+    "city": "东莞",
+    "site": "SITE-0010",
+    "cabinet": "CAB-00020",
+    "battery": "BT-00059",
+    "type": "换电",
+    "amount": 0.86,
+    "status": "成功"
+   },
+   {
+    "id": "ORD-700651",
+    "time": "2026-09-16 11:34",
+    "user": "U-50153",
+    "city": "深圳",
+    "site": "SITE-0024",
+    "cabinet": "CAB-00016",
+    "battery": "BT-00031",
+    "type": "换电",
+    "amount": 2.18,
+    "status": "成功"
+   },
+   {
+    "id": "ORD-700682",
+    "time": "2026-09-10 00:44",
+    "user": "U-50119",
+    "city": "深圳",
+    "site": "SITE-0026",
+    "cabinet": "CAB-00039",
+    "battery": "BT-00057",
+    "type": "退换",
+    "amount": 1.35,
+    "status": "成功"
+   },
+   {
+    "id": "ORD-700713",
+    "time": "2026-09-06 02:35",
+    "user": "U-50357",
+    "city": "东莞",
+    "site": "SITE-0045",
+    "cabinet": "CAB-00058",
+    "battery": "BT-00066",
+    "type": "换电",
+    "amount": 2.23,
+    "status": "成功"
+   },
+   {
+    "id": "ORD-700744",
+    "time": "2026-09-05 21:50",
+    "user": "U-50068",
+    "city": "杭州",
+    "site": "SITE-0030",
+    "cabinet": "CAB-00045",
+    "battery": "BT-00037",
+    "type": "退换",
+    "amount": 1.62,
+    "status": "成功"
+   },
+   {
+    "id": "ORD-700775",
+    "time": "2026-09-08 11:41",
+    "user": "U-50986",
+    "city": "广州",
+    "site": "SITE-0041",
+    "cabinet": "CAB-00038",
+    "battery": "BT-00071",
+    "type": "退换",
+    "amount": 0.91,
+    "status": "成功"
+   },
+   {
+    "id": "ORD-700806",
+    "time": "2026-09-07 03:53",
+    "user": "U-50714",
+    "city": "深圳",
+    "site": "SITE-0036",
+    "cabinet": "CAB-00033",
+    "battery": "BT-00011",
+    "type": "换电",
+    "amount": 0.63,
+    "status": "成功"
+   },
+   {
+    "id": "ORD-700837",
+    "time": "2026-09-06 14:54",
+    "user": "U-50799",
+    "city": "深圳",
+    "site": "SITE-0022",
+    "cabinet": "CAB-00031",
+    "battery": "BT-00048",
+    "type": "换电",
+    "amount": 0.1,
+    "status": "成功"
+   },
+   {
+    "id": "ORD-700868",
+    "time": "2026-09-08 16:54",
+    "user": "U-50544",
+    "city": "东莞",
+    "site": "SITE-0015",
+    "cabinet": "CAB-00057",
+    "battery": "BT-00058",
+    "type": "维修取电",
+    "amount": 0.82,
+    "status": "成功"
+   },
+   {
+    "id": "ORD-700899",
+    "time": "2026-09-04 10:41",
+    "user": "U-50119",
+    "city": "杭州",
+    "site": "SITE-0007",
+    "cabinet": "CAB-00015",
+    "battery": "BT-00030",
+    "type": "退换",
+    "amount": 1.9,
+    "status": "成功"
+   },
+   {
+    "id": "ORD-700930",
+    "time": "2026-09-04 16:06",
+    "user": "U-50833",
+    "city": "杭州",
+    "site": "SITE-0031",
+    "cabinet": "CAB-00025",
+    "battery": "BT-00074",
+    "type": "换电",
+    "amount": 1.85,
+    "status": "成功"
+   },
+   {
+    "id": "ORD-700961",
+    "time": "2026-09-05 11:15",
+    "user": "U-50561",
+    "city": "阳朔",
+    "site": "SITE-0054",
+    "cabinet": "CAB-00036",
+    "battery": "BT-00041",
+    "type": "换电",
+    "amount": 0.28,
+    "status": "成功"
+   },
+   {
+    "id": "ORD-700992",
+    "time": "2026-09-11 23:25",
+    "user": "U-50544",
+    "city": "东莞",
+    "site": "SITE-0040",
+    "cabinet": "CAB-00026",
+    "battery": "BT-00037",
+    "type": "退换",
+    "amount": 2.39,
+    "status": "成功"
+   },
+   {
+    "id": "ORD-701023",
+    "time": "2026-09-08 03:33",
+    "user": "U-50901",
+    "city": "东莞",
+    "site": "SITE-0028",
+    "cabinet": "CAB-00004",
+    "battery": "BT-00006",
+    "type": "退换",
+    "amount": 0.41,
+    "status": "成功"
+   },
+   {
+    "id": "ORD-701054",
+    "time": "2026-09-04 02:22",
+    "user": "U-50918",
+    "city": "深圳",
+    "site": "SITE-0049",
+    "cabinet": "CAB-00047",
+    "battery": "BT-00060",
+    "type": "维修取电",
+    "amount": 1.58,
+    "status": "成功"
+   },
+   {
+    "id": "ORD-701085",
+    "time": "2026-09-12 22:58",
+    "user": "U-50017",
+    "city": "深圳",
+    "site": "SITE-0047",
+    "cabinet": "CAB-00023",
+    "battery": "BT-00033",
+    "type": "换电",
+    "amount": 1.51,
+    "status": "成功"
+   },
+   {
+    "id": "ORD-701116",
+    "time": "2026-09-04 20:35",
+    "user": "U-50663",
+    "city": "阳朔",
+    "site": "SITE-0002",
+    "cabinet": "CAB-00022",
+    "battery": "BT-00003",
+    "type": "换电",
+    "amount": 2.47,
+    "status": "成功"
+   },
+   {
+    "id": "ORD-701147",
+    "time": "2026-09-12 17:52",
+    "user": "U-50850",
+    "city": "东莞",
+    "site": "SITE-0026",
+    "cabinet": "CAB-00045",
+    "battery": "BT-00076",
+    "type": "换电",
+    "amount": 2.47,
+    "status": "成功"
+   },
+   {
+    "id": "ORD-701178",
+    "time": "2026-09-12 04:56",
+    "user": "U-50782",
+    "city": "阳朔",
+    "site": "SITE-0016",
+    "cabinet": "CAB-00037",
+    "battery": "BT-00016",
+    "type": "维修取电",
+    "amount": 0.34,
+    "status": "成功"
+   },
+   {
+    "id": "ORD-701209",
+    "time": "2026-09-06 08:00",
+    "user": "U-50816",
+    "city": "杭州",
+    "site": "SITE-0042",
+    "cabinet": "CAB-00047",
+    "battery": "BT-00070",
+    "type": "退换",
+    "amount": 0.33,
+    "status": "成功"
+   },
+   {
+    "id": "ORD-701240",
+    "time": "2026-09-15 20:11",
+    "user": "U-50578",
+    "city": "广州",
+    "site": "SITE-0009",
+    "cabinet": "CAB-00031",
+    "battery": "BT-00062",
+    "type": "换电",
+    "amount": 1.26,
+    "status": "成功"
+   },
+   {
+    "id": "ORD-701271",
+    "time": "2026-09-09 15:35",
+    "user": "U-50510",
+    "city": "深圳",
+    "site": "SITE-0036",
+    "cabinet": "CAB-00049",
+    "battery": "BT-00015",
+    "type": "换电",
+    "amount": 1.64,
+    "status": "成功"
+   },
+   {
+    "id": "ORD-701302",
+    "time": "2026-09-12 23:21",
+    "user": "U-50612",
+    "city": "东莞",
+    "site": "SITE-0013",
+    "cabinet": "CAB-00059",
+    "battery": "BT-00009",
+    "type": "退换",
+    "amount": 1.06,
+    "status": "成功"
+   },
+   {
+    "id": "ORD-701333",
+    "time": "2026-09-01 16:34",
+    "user": "U-50935",
+    "city": "深圳",
+    "site": "SITE-0025",
+    "cabinet": "CAB-00029",
+    "battery": "BT-00037",
+    "type": "退换",
+    "amount": 2.77,
+    "status": "成功"
+   },
+   {
+    "id": "ORD-701364",
+    "time": "2026-09-16 04:54",
+    "user": "U-50323",
+    "city": "广州",
+    "site": "SITE-0053",
+    "cabinet": "CAB-00020",
+    "battery": "BT-00077",
+    "type": "换电",
+    "amount": 0.94,
+    "status": "成功"
+   },
+   {
+    "id": "ORD-701395",
+    "time": "2026-09-13 17:38",
+    "user": "U-50969",
+    "city": "杭州",
+    "site": "SITE-0053",
+    "cabinet": "CAB-00052",
+    "battery": "BT-00009",
+    "type": "换电",
+    "amount": 0.43,
+    "status": "成功"
+   },
+   {
+    "id": "ORD-701426",
+    "time": "2026-09-08 11:01",
+    "user": "U-50255",
+    "city": "深圳",
+    "site": "SITE-0032",
+    "cabinet": "CAB-00052",
+    "battery": "BT-00030",
+    "type": "换电",
+    "amount": 2.95,
+    "status": "成功"
+   },
+   {
+    "id": "ORD-701457",
+    "time": "2026-09-16 17:52",
+    "user": "U-50969",
+    "city": "深圳",
+    "site": "SITE-0060",
+    "cabinet": "CAB-00031",
+    "battery": "BT-00054",
+    "type": "换电",
+    "amount": 2.01,
+    "status": "成功"
+   },
+   {
+    "id": "ORD-701488",
+    "time": "2026-09-09 03:30",
+    "user": "U-50816",
+    "city": "杭州",
+    "site": "SITE-0007",
+    "cabinet": "CAB-00051",
+    "battery": "BT-00039",
+    "type": "换电",
+    "amount": 0.86,
+    "status": "成功"
+   },
+   {
+    "id": "ORD-701519",
+    "time": "2026-09-16 10:03",
+    "user": "U-50238",
+    "city": "杭州",
+    "site": "SITE-0052",
+    "cabinet": "CAB-00052",
+    "battery": "BT-00042",
+    "type": "换电",
+    "amount": 1.56,
+    "status": "成功"
+   },
+   {
+    "id": "ORD-701550",
+    "time": "2026-09-14 01:02",
+    "user": "U-50612",
+    "city": "广州",
+    "site": "SITE-0059",
+    "cabinet": "CAB-00057",
+    "battery": "BT-00007",
+    "type": "换电",
+    "amount": 2.14,
+    "status": "成功"
+   },
+   {
+    "id": "ORD-701581",
+    "time": "2026-09-14 19:53",
+    "user": "U-50748",
+    "city": "阳朔",
+    "site": "SITE-0009",
+    "cabinet": "CAB-00047",
+    "battery": "BT-00047",
+    "type": "换电",
+    "amount": 2.05,
+    "status": "成功"
+   },
+   {
+    "id": "ORD-701612",
+    "time": "2026-09-11 20:47",
+    "user": "U-50663",
+    "city": "深圳",
+    "site": "SITE-0019",
+    "cabinet": "CAB-00022",
+    "battery": "BT-00070",
+    "type": "维修取电",
+    "amount": 2.91,
+    "status": "成功"
+   },
+   {
+    "id": "ORD-701643",
+    "time": "2026-09-02 05:37",
+    "user": "U-50476",
+    "city": "深圳",
+    "site": "SITE-0006",
+    "cabinet": "CAB-00006",
+    "battery": "BT-00010",
+    "type": "退换",
+    "amount": 1.06,
+    "status": "成功"
+   },
+   {
+    "id": "ORD-701674",
+    "time": "2026-09-01 21:04",
+    "user": "U-50918",
+    "city": "深圳",
+    "site": "SITE-0033",
+    "cabinet": "CAB-00059",
+    "battery": "BT-00074",
+    "type": "换电",
+    "amount": 0.58,
+    "status": "成功"
+   },
+   {
+    "id": "ORD-701705",
+    "time": "2026-09-11 16:15",
+    "user": "U-50340",
+    "city": "深圳",
+    "site": "SITE-0010",
+    "cabinet": "CAB-00004",
+    "battery": "BT-00067",
+    "type": "换电",
+    "amount": 0.33,
+    "status": "成功"
+   },
+   {
+    "id": "ORD-701736",
+    "time": "2026-09-14 11:49",
+    "user": "U-50986",
+    "city": "东莞",
+    "site": "SITE-0043",
+    "cabinet": "CAB-00033",
+    "battery": "BT-00002",
+    "type": "维修取电",
+    "amount": 2.04,
+    "status": "成功"
+   },
+   {
+    "id": "ORD-701767",
+    "time": "2026-09-12 18:31",
+    "user": "U-50102",
+    "city": "广州",
+    "site": "SITE-0013",
+    "cabinet": "CAB-00057",
+    "battery": "BT-00071",
+    "type": "退换",
+    "amount": 1.45,
+    "status": "成功"
+   },
+   {
+    "id": "ORD-701798",
+    "time": "2026-09-01 15:59",
+    "user": "U-50782",
+    "city": "杭州",
+    "site": "SITE-0055",
+    "cabinet": "CAB-00057",
+    "battery": "BT-00054",
+    "type": "换电",
+    "amount": 0.77,
+    "status": "成功"
+   },
+   {
+    "id": "ORD-701829",
+    "time": "2026-09-05 12:02",
+    "user": "U-50221",
+    "city": "广州",
+    "site": "SITE-0013",
+    "cabinet": "CAB-00012",
+    "battery": "BT-00037",
+    "type": "换电",
+    "amount": 2.15,
+    "status": "成功"
+   },
+   {
+    "id": "ORD-701860",
+    "time": "2026-09-05 20:58",
+    "user": "U-50510",
+    "city": "深圳",
+    "site": "SITE-0053",
+    "cabinet": "CAB-00056",
+    "battery": "BT-00077",
+    "type": "换电",
+    "amount": 1.08,
+    "status": "成功"
+   }
+  ],
+  "packages": [
+   {
+    "name": "社区居民月租",
+    "price": 128,
+    "term": "1个月",
+    "power": "8000%电量包",
+    "users": 12100,
+    "revenue": 1548800,
+    "renew": 74.2,
+    "upgrade": 4.6,
+    "downgrade": 3.1,
+    "churn": 4.6,
+    "arpu": 65.2,
+    "exchanges": 22
+   },
+   {
+    "name": "社区居民季租",
+    "price": 350,
+    "term": "3个月",
+    "power": "8000%电量包",
+    "users": 5200,
+    "revenue": 728000,
+    "renew": 79.5,
+    "upgrade": 5.8,
+    "downgrade": 2.4,
+    "churn": 3.8,
+    "arpu": 52.6,
+    "exchanges": 19
+   },
+   {
+    "name": "半年租",
+    "price": 620,
+    "term": "6个月",
+    "power": "8000%电量包",
+    "users": 3400,
+    "revenue": 842000,
+    "renew": 84.1,
+    "upgrade": 6.2,
+    "downgrade": 1.8,
+    "churn": 3.1,
+    "arpu": 52.0,
+    "exchanges": 18
+   },
+   {
+    "name": "1年租",
+    "price": 1080,
+    "term": "12个月",
+    "power": "8000%电量包",
+    "users": 5900,
+    "revenue": 2548000,
+    "renew": 88.6,
+    "upgrade": 3.4,
+    "downgrade": 1.2,
+    "churn": 2.6,
+    "arpu": 47.6,
+    "exchanges": 17
+   },
+   {
+    "name": "3年及以上",
+    "price": 2880,
+    "term": "36个月",
+    "power": "8000%电量包+200元回收",
+    "users": 5000,
+    "revenue": 5760000,
+    "renew": 93.2,
+    "upgrade": 1.2,
+    "downgrade": 0.6,
+    "churn": 2.1,
+    "arpu": 49.5,
+    "exchanges": 16
+   }
+  ],
+  "procurement": [
+   {
+    "batch": "2024-Q3",
+    "type": "换电柜",
+    "model": "6口柜",
+    "qty": 850,
+    "price": 18600,
+    "amount": 15810000,
+    "supplier": "品牌A",
+    "date": "2024-08",
+    "status": "已交付",
+    "warranty_to": "2026-08"
+   },
+   {
+    "batch": "2024-Q4",
+    "type": "换电柜",
+    "model": "4口柜",
+    "qty": 1200,
+    "price": 14800,
+    "amount": 17760000,
+    "supplier": "品牌A",
+    "date": "2024-11",
+    "status": "已交付",
+    "warranty_to": "2026-11"
+   },
+   {
+    "batch": "2025-Q1",
+    "type": "换电柜",
+    "model": "6口柜",
+    "qty": 980,
+    "price": 18000,
+    "amount": 17640000,
+    "supplier": "品牌B",
+    "date": "2025-02",
+    "status": "已交付",
+    "warranty_to": "2027-02"
+   },
+   {
+    "batch": "2025-Q2",
+    "type": "换电柜",
+    "model": "3口柜",
+    "qty": 1050,
+    "price": 11200,
+    "amount": 11760000,
+    "supplier": "品牌A",
+    "date": "2025-05",
+    "status": "已交付",
+    "warranty_to": "2027-05"
+   },
+   {
+    "batch": "2025-Q3",
+    "type": "换电柜",
+    "model": "4口柜",
+    "qty": 920,
+    "price": 14500,
+    "amount": 13340000,
+    "supplier": "品牌C",
+    "date": "2025-08",
+    "status": "已交付",
+    "warranty_to": "2027-08"
+   },
+   {
+    "batch": "2025-Q4",
+    "type": "换电柜",
+    "model": "6口柜",
+    "qty": 610,
+    "price": 17200,
+    "amount": 10492000,
+    "supplier": "品牌B",
+    "date": "2025-11",
+    "status": "已安装",
+    "warranty_to": "2027-11"
+   },
+   {
+    "batch": "2026-Q1",
+    "type": "换电柜",
+    "model": "3口柜",
+    "qty": 420,
+    "price": 10800,
+    "amount": 4536000,
+    "supplier": "品牌A",
+    "date": "2026-02",
+    "status": "已安装",
+    "warranty_to": "2028-02"
+   },
+   {
+    "batch": "2026-Q2",
+    "type": "换电柜",
+    "model": "6口柜",
+    "qty": 230,
+    "price": 16800,
+    "amount": 3864000,
+    "supplier": "品牌B",
+    "date": "2026-05",
+    "status": "交付中",
+    "warranty_to": "2028-05"
+   },
+   {
+    "batch": "2024-Q3",
+    "type": "电池",
+    "model": "4824",
+    "qty": 15500,
+    "price": 980,
+    "amount": 15190000,
+    "supplier": "电池厂X",
+    "date": "2024-08",
+    "status": "已交付",
+    "warranty_to": "2026-08"
+   },
+   {
+    "batch": "2025-Q1",
+    "type": "电池",
+    "model": "4814",
+    "qty": 9800,
+    "price": 760,
+    "amount": 7448000,
+    "supplier": "电池厂Y",
+    "date": "2025-02",
+    "status": "已交付",
+    "warranty_to": "2027-02"
+   },
+   {
+    "batch": "2025-Q3",
+    "type": "电池",
+    "model": "4824",
+    "qty": 11500,
+    "price": 950,
+    "amount": 10925000,
+    "supplier": "电池厂X",
+    "date": "2025-08",
+    "status": "已交付",
+    "warranty_to": "2027-08"
+   },
+   {
+    "batch": "2026-Q1",
+    "type": "电池",
+    "model": "钠电",
+    "qty": 43,
+    "price": 1180,
+    "amount": 50740,
+    "supplier": "电池厂Z",
+    "date": "2026-02",
+    "status": "试点中",
+    "warranty_to": "2028-02"
+   }
+  ],
+  "expense_items": [
+   {
+    "month": "2026-09",
+    "item": "电费",
+    "amount": 295000,
+    "ratio": 22.3,
+    "note": "0.7-2元/度，峰谷充电"
+   },
+   {
+    "month": "2026-09",
+    "item": "网点分成",
+    "amount": 208000,
+    "ratio": 15.7,
+    "note": "按次分成15%-30%"
+   },
+   {
+    "month": "2026-09",
+    "item": "运维人工",
+    "amount": 246000,
+    "ratio": 18.6,
+    "note": "32人，人均126柜"
+   },
+   {
+    "month": "2026-09",
+    "item": "推广获客",
+    "amount": 145000,
+    "ratio": 11.0,
+    "note": "CAC 86元"
+   },
+   {
+    "month": "2026-09",
+    "item": "员工激励",
+    "amount": 68000,
+    "ratio": 5.1,
+    "note": "提成+奖金"
+   },
+   {
+    "month": "2026-09",
+    "item": "门店导购返佣",
+    "amount": 88000,
+    "ratio": 6.7,
+    "note": "激活+续租返佣"
+   },
+   {
+    "month": "2026-09",
+    "item": "平台与软件",
+    "amount": 56000,
+    "ratio": 4.2,
+    "note": "物联网年费+服务器"
+   },
+   {
+    "month": "2026-09",
+    "item": "折旧摊销",
+    "amount": 240000,
+    "ratio": 18.2,
+    "note": "柜+电池按月折旧"
+   },
+   {
+    "month": "2026-09",
+    "item": "其他",
+    "amount": 28000,
+    "ratio": 2.1,
+    "note": "保险/合规/税费"
+   }
+  ],
+  "revenue_items": [
+   {
+    "month": "2026-09",
+    "item": "月租套餐",
+    "amount": 794900,
+    "ratio": 42.6
+   },
+   {
+    "month": "2026-09",
+    "item": "季租套餐",
+    "amount": 276000,
+    "ratio": 14.8
+   },
+   {
+    "month": "2026-09",
+    "item": "半年租",
+    "amount": 179000,
+    "ratio": 9.6
+   },
+   {
+    "month": "2026-09",
+    "item": "1年租",
+    "amount": 283500,
+    "ratio": 15.2
+   },
+   {
+    "month": "2026-09",
+    "item": "3年及以上",
+    "amount": 249900,
+    "ratio": 13.4
+   },
+   {
+    "month": "2026-09",
+    "item": "其他收入",
+    "amount": 82000,
+    "ratio": 4.4
+   }
+  ]
+ },
+ "meta": {
+  "snapshot_time": "2026-09-16 22:40:32",
+  "source": "mock-demo-full",
+  "db_connected": false,
+  "db_host": "",
+  "note": "全量演示快照：文档11板块263指标+图片指标+三大地图+明细下钻；连接数据库后运行 collect.py 覆盖"
+ }
+}

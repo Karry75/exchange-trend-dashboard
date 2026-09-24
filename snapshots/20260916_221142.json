@@ -1,0 +1,1839 @@
+{
+ "overview": {
+  "kpis": {
+   "total_cabinets": 6260,
+   "cabinets_online": 3983,
+   "online_rate": 96.4,
+   "total_batteries": 37500,
+   "battery_per_cabinet": 6.0,
+   "warehouse_ratio": 34.3,
+   "total_users": 48600,
+   "active_users": 31200,
+   "month_new_users": 2140,
+   "month_churn_rate": 3.2,
+   "month_revenue": 1865000,
+   "month_cost": 1321000,
+   "month_profit": 544000,
+   "gross_margin": 29.2,
+   "month_orders": 918000,
+   "daily_orders_per_cabinet": 7.7,
+   "arpu": 59.8,
+   "ltv": 1860,
+   "cac": 86,
+   "breakeven_ratio": 68.5,
+   "advance_balance": 2450000,
+   "refund_rate": 1.8,
+   "bad_debt_rate": 0.6
+  },
+  "revenue_trend": [
+   {
+    "month": "2025-10",
+    "revenue": 1420000,
+    "cost": 1080000
+   },
+   {
+    "month": "2025-11",
+    "revenue": 1458000,
+    "cost": 1105000
+   },
+   {
+    "month": "2025-12",
+    "revenue": 1512000,
+    "cost": 1130000
+   },
+   {
+    "month": "2026-01",
+    "revenue": 1480000,
+    "cost": 1150000
+   },
+   {
+    "month": "2026-02",
+    "revenue": 1395000,
+    "cost": 1095000
+   },
+   {
+    "month": "2026-03",
+    "revenue": 1560000,
+    "cost": 1180000
+   },
+   {
+    "month": "2026-04",
+    "revenue": 1625000,
+    "cost": 1210000
+   },
+   {
+    "month": "2026-05",
+    "revenue": 1688000,
+    "cost": 1245000
+   },
+   {
+    "month": "2026-06",
+    "revenue": 1710000,
+    "cost": 1265000
+   },
+   {
+    "month": "2026-07",
+    "revenue": 1768000,
+    "cost": 1290000
+   },
+   {
+    "month": "2026-08",
+    "revenue": 1820000,
+    "cost": 1308000
+   },
+   {
+    "month": "2026-09",
+    "revenue": 1865000,
+    "cost": 1321000
+   }
+  ],
+  "order_trend": [
+   {
+    "month": "2025-10",
+    "orders": 706000
+   },
+   {
+    "month": "2025-11",
+    "orders": 721000
+   },
+   {
+    "month": "2025-12",
+    "orders": 749000
+   },
+   {
+    "month": "2026-01",
+    "orders": 733000
+   },
+   {
+    "month": "2026-02",
+    "orders": 688000
+   },
+   {
+    "month": "2026-03",
+    "orders": 772000
+   },
+   {
+    "month": "2026-04",
+    "orders": 805000
+   },
+   {
+    "month": "2026-05",
+    "orders": 836000
+   },
+   {
+    "month": "2026-06",
+    "orders": 849000
+   },
+   {
+    "month": "2026-07",
+    "orders": 873000
+   },
+   {
+    "month": "2026-08",
+    "orders": 896000
+   },
+   {
+    "month": "2026-09",
+    "orders": 918000
+   }
+  ],
+  "city_distribution": [
+   {
+    "name": "深圳",
+    "value": 2379
+   },
+   {
+    "name": "杭州",
+    "value": 1502
+   },
+   {
+    "name": "阳朔",
+    "value": 751
+   },
+   {
+    "name": "广州",
+    "value": 1002
+   },
+   {
+    "name": "东莞",
+    "value": 626
+   }
+  ],
+  "device_type_ratio": [
+   {
+    "name": "换电柜-水消防",
+    "value": 4100
+   },
+   {
+    "name": "换电柜-气溶胶",
+    "value": 2160
+   },
+   {
+    "name": "电池-4824",
+    "value": 24800
+   },
+   {
+    "name": "电池-4814",
+    "value": 12657
+   },
+   {
+    "name": "电池-钠电",
+    "value": 43
+   }
+  ],
+  "user_city_ratio": [
+   {
+    "name": "深圳",
+    "value": 18468
+   },
+   {
+    "name": "杭州",
+    "value": 11664
+   },
+   {
+    "name": "阳朔",
+    "value": 5832
+   },
+   {
+    "name": "广州",
+    "value": 7776
+   },
+   {
+    "name": "东莞",
+    "value": 4860
+   }
+  ]
+ },
+ "assets": {
+  "device_type_ratio": [
+   {
+    "name": "换电柜-水消防",
+    "value": 4100
+   },
+   {
+    "name": "换电柜-气溶胶",
+    "value": 2160
+   },
+   {
+    "name": "电池-4824",
+    "value": 24800
+   },
+   {
+    "name": "电池-4814",
+    "value": 12657
+   },
+   {
+    "name": "电池-钠电",
+    "value": 43
+   }
+  ],
+  "cabinet_slot_ratio": [
+   {
+    "name": "12口柜",
+    "value": 9
+   },
+   {
+    "name": "6口柜",
+    "value": 2850
+   },
+   {
+    "name": "4口柜",
+    "value": 2210
+   },
+   {
+    "name": "3口柜",
+    "value": 1191
+   }
+  ],
+  "city_devices": [
+   {
+    "name": "深圳",
+    "value": 2379
+   },
+   {
+    "name": "杭州",
+    "value": 1502
+   },
+   {
+    "name": "阳朔",
+    "value": 751
+   },
+   {
+    "name": "广州",
+    "value": 1002
+   },
+   {
+    "name": "东莞",
+    "value": 626
+   }
+  ],
+  "delivery_funnel": [
+   {
+    "stage": "已采购",
+    "value": 6800
+   },
+   {
+    "stage": "已交付",
+    "value": 6510
+   },
+   {
+    "stage": "已安装",
+    "value": 6340
+   },
+   {
+    "stage": "已上线",
+    "value": 6110
+   },
+   {
+    "stage": "在线运营",
+    "value": 5980
+   }
+  ],
+  "online_rate_trend": [
+   {
+    "month": "2025-10",
+    "online_rate": 96.0,
+    "online_cabinets": 5759
+   },
+   {
+    "month": "2025-11",
+    "online_rate": 96.0,
+    "online_cabinets": 5784
+   },
+   {
+    "month": "2025-12",
+    "online_rate": 97.0,
+    "online_cabinets": 5809
+   },
+   {
+    "month": "2026-01",
+    "online_rate": 96.7,
+    "online_cabinets": 5834
+   },
+   {
+    "month": "2026-02",
+    "online_rate": 93.9,
+    "online_cabinets": 5859
+   },
+   {
+    "month": "2026-03",
+    "online_rate": 95.4,
+    "online_cabinets": 5884
+   },
+   {
+    "month": "2026-04",
+    "online_rate": 96.7,
+    "online_cabinets": 5909
+   },
+   {
+    "month": "2026-05",
+    "online_rate": 95.7,
+    "online_cabinets": 5934
+   },
+   {
+    "month": "2026-06",
+    "online_rate": 95.9,
+    "online_cabinets": 5959
+   },
+   {
+    "month": "2026-07",
+    "online_rate": 95.7,
+    "online_cabinets": 5984
+   },
+   {
+    "month": "2026-08",
+    "online_rate": 96.2,
+    "online_cabinets": 6009
+   },
+   {
+    "month": "2026-09",
+    "online_rate": 95.8,
+    "online_cabinets": 6034
+   }
+  ],
+  "age_structure": [
+   {
+    "name": "1年以内",
+    "value": 2310
+   },
+   {
+    "name": "1-2年",
+    "value": 1960
+   },
+   {
+    "name": "2-3年",
+    "value": 1320
+   },
+   {
+    "name": "3年以上",
+    "value": 670
+   }
+  ],
+  "soh_distribution": [
+   {
+    "name": "SOH≥90%",
+    "value": 24100
+   },
+   {
+    "name": "SOH 80-90%",
+    "value": 8950
+   },
+   {
+    "name": "SOH 70-80%",
+    "value": 3300
+   },
+   {
+    "name": "SOH<70%",
+    "value": 1150
+   }
+  ],
+  "cycle_distribution": [
+   {
+    "name": "≤300次",
+    "value": 14800
+   },
+   {
+    "name": "300-600次",
+    "value": 12100
+   },
+   {
+    "name": "600-900次",
+    "value": 7600
+   },
+   {
+    "name": ">900次",
+    "value": 3000
+   }
+  ],
+  "battery_ratio": {
+   "battery_per_cabinet": 6.0,
+   "warehouse_cabinets": 2147,
+   "warehouse_ratio": 34.300000000000004,
+   "avg_age_years": 1.4,
+   "design_life_years": 5,
+   "avg_battery_life_years": 2.0
+  },
+  "payback_period": [
+   {
+    "city": "深圳",
+    "value": 16.2
+   },
+   {
+    "city": "杭州",
+    "value": 18.5
+   },
+   {
+    "city": "广州",
+    "value": 19.8
+   },
+   {
+    "city": "东莞",
+    "value": 21.3
+   },
+   {
+    "city": "阳朔",
+    "value": 24.6
+   }
+  ],
+  "brand_ratio": [
+   {
+    "name": "品牌A",
+    "value": 42
+   },
+   {
+    "name": "品牌B",
+    "value": 31
+   },
+   {
+    "name": "品牌C",
+    "value": 18
+   },
+   {
+    "name": "品牌D",
+    "value": 9
+   }
+  ],
+  "purchase_price_trend": [
+   {
+    "month": "2025-03",
+    "cabinet": 24800,
+    "battery": 1380
+   },
+   {
+    "month": "2025-06",
+    "cabinet": 24100,
+    "battery": 1340
+   },
+   {
+    "month": "2025-09",
+    "cabinet": 23500,
+    "battery": 1300
+   },
+   {
+    "month": "2025-12",
+    "cabinet": 22900,
+    "battery": 1265
+   },
+   {
+    "month": "2026-03",
+    "cabinet": 22400,
+    "battery": 1230
+   },
+   {
+    "month": "2026-06",
+    "cabinet": 21900,
+    "battery": 1200
+   },
+   {
+    "month": "2026-09",
+    "cabinet": 21500,
+    "battery": 1175
+   }
+  ]
+ },
+ "users": {
+  "user_trend": [
+   {
+    "month": "2025-10",
+    "total": 37780
+   },
+   {
+    "month": "2025-11",
+    "total": 39650
+   },
+   {
+    "month": "2025-12",
+    "total": 41610
+   },
+   {
+    "month": "2026-01",
+    "total": 43660
+   },
+   {
+    "month": "2026-02",
+    "total": 45800
+   },
+   {
+    "month": "2026-03",
+    "total": 48030
+   },
+   {
+    "month": "2026-04",
+    "total": 50350
+   },
+   {
+    "month": "2026-05",
+    "total": 52760
+   },
+   {
+    "month": "2026-06",
+    "total": 55260
+   },
+   {
+    "month": "2026-07",
+    "total": 57850
+   },
+   {
+    "month": "2026-08",
+    "total": 60530
+   },
+   {
+    "month": "2026-09",
+    "total": 63300
+   }
+  ],
+  "new_user_trend": [
+   {
+    "month": "2025-10",
+    "new": 1780,
+    "churn": 540
+   },
+   {
+    "month": "2025-11",
+    "new": 1870,
+    "churn": 570
+   },
+   {
+    "month": "2025-12",
+    "new": 1960,
+    "churn": 600
+   },
+   {
+    "month": "2026-01",
+    "new": 2050,
+    "churn": 630
+   },
+   {
+    "month": "2026-02",
+    "new": 2140,
+    "churn": 660
+   },
+   {
+    "month": "2026-03",
+    "new": 2230,
+    "churn": 690
+   },
+   {
+    "month": "2026-04",
+    "new": 2320,
+    "churn": 720
+   },
+   {
+    "month": "2026-05",
+    "new": 2410,
+    "churn": 750
+   },
+   {
+    "month": "2026-06",
+    "new": 2500,
+    "churn": 780
+   },
+   {
+    "month": "2026-07",
+    "new": 2590,
+    "churn": 810
+   },
+   {
+    "month": "2026-08",
+    "new": 2680,
+    "churn": 840
+   },
+   {
+    "month": "2026-09",
+    "new": 2770,
+    "churn": 870
+   }
+  ],
+  "package_structure": [
+   {
+    "name": "月租套餐",
+    "value": 14200
+   },
+   {
+    "name": "季租套餐",
+    "value": 9800
+   },
+   {
+    "name": "半年套餐",
+    "value": 8100
+   },
+   {
+    "name": "1年套餐",
+    "value": 12100
+   },
+   {
+    "name": "3年及以上",
+    "value": 4400
+   }
+  ],
+  "package_revenue": [
+   {
+    "name": "月租套餐",
+    "value": 26.5
+   },
+   {
+    "name": "季租套餐",
+    "value": 23.8
+   },
+   {
+    "name": "半年套餐",
+    "value": 21.2
+   },
+   {
+    "name": "1年套餐",
+    "value": 24.1
+   },
+   {
+    "name": "3年及以上",
+    "value": 4.4
+   }
+  ],
+  "package_detail": [
+   {
+    "name": "月租套餐",
+    "users": 14200,
+    "price": 99,
+    "revenue_ratio": 26.5,
+    "renew_rate": 62.0,
+    "churn_rate": 5.8,
+    "monthly_exchanges": 28,
+    "designed_exchanges": 30
+   },
+   {
+    "name": "季租套餐",
+    "users": 9800,
+    "price": 279,
+    "revenue_ratio": 23.8,
+    "renew_rate": 71.5,
+    "churn_rate": 3.6,
+    "monthly_exchanges": 31,
+    "designed_exchanges": 30
+   },
+   {
+    "name": "半年套餐",
+    "users": 8100,
+    "price": 528,
+    "revenue_ratio": 21.2,
+    "renew_rate": 78.2,
+    "churn_rate": 2.2,
+    "monthly_exchanges": 33,
+    "designed_exchanges": 32
+   },
+   {
+    "name": "1年套餐",
+    "users": 12100,
+    "price": 968,
+    "revenue_ratio": 24.1,
+    "renew_rate": 83.6,
+    "churn_rate": 1.1,
+    "monthly_exchanges": 34,
+    "designed_exchanges": 32
+   },
+   {
+    "name": "3年及以上",
+    "users": 4400,
+    "price": 2680,
+    "revenue_ratio": 4.4,
+    "renew_rate": 91.8,
+    "churn_rate": 0.3,
+    "monthly_exchanges": 36,
+    "designed_exchanges": 35
+   }
+  ],
+  "kpis": {
+   "total_users": 48600,
+   "active_users": 31200,
+   "month_new": 2140,
+   "paid_conversion": 68.2,
+   "month_active_rate": 64.2,
+   "renew_rate": 74.8,
+   "churn_rate": 3.2,
+   "ltv": 1860,
+   "cac": 86,
+   "cac_ltv": 0.046,
+   "long_term_ratio": 9.1,
+   "avg_monthly_exchanges": 31.5
+  },
+  "lifecycle_funnel": [
+   {
+    "stage": "注册用户",
+    "value": 71300
+   },
+   {
+    "stage": "已激活套餐",
+    "value": 48600
+   },
+   {
+    "stage": "完成首换",
+    "value": 42100
+   },
+   {
+    "stage": "月度活跃",
+    "value": 31200
+   },
+   {
+    "stage": "近90天续费",
+    "value": 23400
+   }
+  ],
+  "usage_intensity": [
+   {
+    "name": "月租套餐",
+    "users": 14200,
+    "price": 99,
+    "revenue_ratio": 26.5,
+    "renew_rate": 62.0,
+    "churn_rate": 5.8,
+    "monthly_exchanges": 28,
+    "designed_exchanges": 30
+   },
+   {
+    "name": "季租套餐",
+    "users": 9800,
+    "price": 279,
+    "revenue_ratio": 23.8,
+    "renew_rate": 71.5,
+    "churn_rate": 3.6,
+    "monthly_exchanges": 31,
+    "designed_exchanges": 30
+   },
+   {
+    "name": "半年套餐",
+    "users": 8100,
+    "price": 528,
+    "revenue_ratio": 21.2,
+    "renew_rate": 78.2,
+    "churn_rate": 2.2,
+    "monthly_exchanges": 33,
+    "designed_exchanges": 32
+   },
+   {
+    "name": "1年套餐",
+    "users": 12100,
+    "price": 968,
+    "revenue_ratio": 24.1,
+    "renew_rate": 83.6,
+    "churn_rate": 1.1,
+    "monthly_exchanges": 34,
+    "designed_exchanges": 32
+   },
+   {
+    "name": "3年及以上",
+    "users": 4400,
+    "price": 2680,
+    "revenue_ratio": 4.4,
+    "renew_rate": 91.8,
+    "churn_rate": 0.3,
+    "monthly_exchanges": 36,
+    "designed_exchanges": 35
+   }
+  ],
+  "frequency_tier": [
+   {
+    "name": "高频(>4次/日)",
+    "value": 11.4
+   },
+   {
+    "name": "中频(2-4次/日)",
+    "value": 52.8
+   },
+   {
+    "name": "低频(<2次/日)",
+    "value": 35.8
+   }
+  ],
+  "usage_decay_ratio": 6.8,
+  "first_exchange_hours": [
+   {
+    "name": "<1h",
+    "value": 18
+   },
+   {
+    "name": "1-6h",
+    "value": 27
+   },
+   {
+    "name": "6-24h",
+    "value": 31
+   },
+   {
+    "name": "1-3天",
+    "value": 16
+   },
+   {
+    "name": ">3天",
+    "value": 8
+   }
+  ]
+ },
+ "operations": {
+  "kpis": {
+   "month_orders": 918000,
+   "daily_orders": 30600,
+   "daily_orders_per_cabinet": 5.1,
+   "cabinet_fault_rate": 0.42,
+   "battery_fault_rate": 1.15,
+   "downtime_rate": 1.6,
+   "mttr_hours": 1.8,
+   "exchange_fail_rate": 2.1,
+   "avg_wait_min": 1.5,
+   "long_offline_ratio": 2.4,
+   "low_efficiency_ratio": 12.6,
+   "zombie_ratio": 4.2
+  },
+  "order_month_trend": [
+   {
+    "month": "2025-10",
+    "orders": 706000
+   },
+   {
+    "month": "2025-11",
+    "orders": 721000
+   },
+   {
+    "month": "2025-12",
+    "orders": 749000
+   },
+   {
+    "month": "2026-01",
+    "orders": 733000
+   },
+   {
+    "month": "2026-02",
+    "orders": 688000
+   },
+   {
+    "month": "2026-03",
+    "orders": 772000
+   },
+   {
+    "month": "2026-04",
+    "orders": 805000
+   },
+   {
+    "month": "2026-05",
+    "orders": 836000
+   },
+   {
+    "month": "2026-06",
+    "orders": 849000
+   },
+   {
+    "month": "2026-07",
+    "orders": 873000
+   },
+   {
+    "month": "2026-08",
+    "orders": 896000
+   },
+   {
+    "month": "2026-09",
+    "orders": 918000
+   }
+  ],
+  "daily_order_trend": [
+   {
+    "date": 1,
+    "orders": 29142
+   },
+   {
+    "date": 2,
+    "orders": 29473
+   },
+   {
+    "date": 3,
+    "orders": 29932
+   },
+   {
+    "date": 4,
+    "orders": 30621
+   },
+   {
+    "date": 5,
+    "orders": 30941
+   },
+   {
+    "date": 6,
+    "orders": 30747
+   },
+   {
+    "date": 7,
+    "orders": 30491
+   },
+   {
+    "date": 8,
+    "orders": 30094
+   },
+   {
+    "date": 9,
+    "orders": 29417
+   },
+   {
+    "date": 10,
+    "orders": 29430
+   },
+   {
+    "date": 11,
+    "orders": 29364
+   },
+   {
+    "date": 12,
+    "orders": 28165
+   },
+   {
+    "date": 13,
+    "orders": 28104
+   },
+   {
+    "date": 14,
+    "orders": 27905
+   },
+   {
+    "date": 15,
+    "orders": 27759
+   },
+   {
+    "date": 16,
+    "orders": 27891
+   },
+   {
+    "date": 17,
+    "orders": 27391
+   },
+   {
+    "date": 18,
+    "orders": 26982
+   },
+   {
+    "date": 19,
+    "orders": 27283
+   },
+   {
+    "date": 20,
+    "orders": 27596
+   },
+   {
+    "date": 21,
+    "orders": 27982
+   },
+   {
+    "date": 22,
+    "orders": 28793
+   },
+   {
+    "date": 23,
+    "orders": 29992
+   },
+   {
+    "date": 24,
+    "orders": 29580
+   },
+   {
+    "date": 25,
+    "orders": 30695
+   },
+   {
+    "date": 26,
+    "orders": 31055
+   },
+   {
+    "date": 27,
+    "orders": 30520
+   },
+   {
+    "date": 28,
+    "orders": 30687
+   },
+   {
+    "date": 29,
+    "orders": 30695
+   },
+   {
+    "date": 30,
+    "orders": 30340
+   }
+  ],
+  "per_cabinet_dist": [
+   {
+    "name": "<2单",
+    "value": 14
+   },
+   {
+    "name": "2-4单",
+    "value": 32
+   },
+   {
+    "name": "4-6单",
+    "value": 28
+   },
+   {
+    "name": "6-8单",
+    "value": 16
+   },
+   {
+    "name": ">8单",
+    "value": 10
+   }
+  ],
+  "hourly_distribution": [
+   {
+    "hour": 0,
+    "ratio": 2.8
+   },
+   {
+    "hour": 1,
+    "ratio": 2.8
+   },
+   {
+    "hour": 2,
+    "ratio": 2.9
+   },
+   {
+    "hour": 3,
+    "ratio": 3.0
+   },
+   {
+    "hour": 4,
+    "ratio": 3.4
+   },
+   {
+    "hour": 5,
+    "ratio": 4.1
+   },
+   {
+    "hour": 6,
+    "ratio": 8.0
+   },
+   {
+    "hour": 7,
+    "ratio": 9.1
+   },
+   {
+    "hour": 8,
+    "ratio": 9.7
+   },
+   {
+    "hour": 9,
+    "ratio": 9.4
+   },
+   {
+    "hour": 10,
+    "ratio": 8.4
+   },
+   {
+    "hour": 11,
+    "ratio": 7.3
+   },
+   {
+    "hour": 12,
+    "ratio": 6.5
+   },
+   {
+    "hour": 13,
+    "ratio": 6.1
+   },
+   {
+    "hour": 14,
+    "ratio": 6.3
+   },
+   {
+    "hour": 15,
+    "ratio": 6.9
+   },
+   {
+    "hour": 16,
+    "ratio": 7.8
+   },
+   {
+    "hour": 17,
+    "ratio": 8.7
+   },
+   {
+    "hour": 18,
+    "ratio": 9.2
+   },
+   {
+    "hour": 19,
+    "ratio": 9.2
+   },
+   {
+    "hour": 20,
+    "ratio": 8.7
+   },
+   {
+    "hour": 21,
+    "ratio": 7.8
+   },
+   {
+    "hour": 22,
+    "ratio": 6.9
+   },
+   {
+    "hour": 23,
+    "ratio": 6.2
+   }
+  ],
+  "exchange_cycle": [
+   {
+    "name": "<1天",
+    "value": 22
+   },
+   {
+    "name": "1-2天",
+    "value": 38
+   },
+   {
+    "name": "2-3天",
+    "value": 24
+   },
+   {
+    "name": "3-5天",
+    "value": 12
+   },
+   {
+    "name": ">5天",
+    "value": 4
+   }
+  ],
+  "fault_types": [
+   {
+    "name": "柜门故障",
+    "value": 22
+   },
+   {
+    "name": "充电模块",
+    "value": 18
+   },
+   {
+    "name": "通信异常",
+    "value": 15
+   },
+   {
+    "name": "消防误报",
+    "value": 12
+   },
+   {
+    "name": "屏幕故障",
+    "value": 9
+   },
+   {
+    "name": "供电异常",
+    "value": 8
+   },
+   {
+    "name": "BMS故障",
+    "value": 10
+   },
+   {
+    "name": "其他",
+    "value": 6
+   }
+  ],
+  "online_rate_month": [
+   {
+    "month": "2026-04",
+    "value": 96.8
+   },
+   {
+    "month": "2026-05",
+    "value": 97.1
+   },
+   {
+    "month": "2026-06",
+    "value": 96.5
+   },
+   {
+    "month": "2026-07",
+    "value": 96.2
+   },
+   {
+    "month": "2026-08",
+    "value": 96.6
+   },
+   {
+    "month": "2026-09",
+    "value": 96.4
+   }
+  ],
+  "peak_fail_rate": 3.4
+ },
+ "sites": {
+  "scene_distribution": [
+   {
+    "name": "社区/物业",
+    "value": 2050
+   },
+   {
+    "name": "车行门店",
+    "value": 1420
+   },
+   {
+    "name": "园区",
+    "value": 860
+   },
+   {
+    "name": "学校周边",
+    "value": 690
+   },
+   {
+    "name": "商场周边",
+    "value": 540
+   },
+   {
+    "name": "写字楼",
+    "value": 380
+   },
+   {
+    "name": "交通枢纽",
+    "value": 210
+   },
+   {
+    "name": "其他",
+    "value": 110
+   }
+  ],
+  "scene_detail": [
+   {
+    "name": "社区/物业",
+    "devices": 2050,
+    "daily_orders": 5.8,
+    "revenue_ratio": 27.4,
+    "breakeven": 82
+   },
+   {
+    "name": "车行门店",
+    "devices": 1420,
+    "daily_orders": 6.2,
+    "revenue_ratio": 24.1,
+    "breakeven": 78
+   },
+   {
+    "name": "园区",
+    "devices": 860,
+    "daily_orders": 4.6,
+    "revenue_ratio": 13.8,
+    "breakeven": 71
+   },
+   {
+    "name": "学校周边",
+    "devices": 690,
+    "daily_orders": 4.1,
+    "revenue_ratio": 10.2,
+    "breakeven": 66
+   },
+   {
+    "name": "商场周边",
+    "devices": 540,
+    "daily_orders": 5.0,
+    "revenue_ratio": 9.6,
+    "breakeven": 73
+   },
+   {
+    "name": "写字楼",
+    "devices": 380,
+    "daily_orders": 3.8,
+    "revenue_ratio": 5.8,
+    "breakeven": 58
+   },
+   {
+    "name": "交通枢纽",
+    "devices": 210,
+    "daily_orders": 6.8,
+    "revenue_ratio": 4.6,
+    "breakeven": 88
+   },
+   {
+    "name": "其他",
+    "devices": 110,
+    "daily_orders": 3.2,
+    "revenue_ratio": 4.5,
+    "breakeven": 52
+   }
+  ],
+  "city_sites": [
+   {
+    "city": "深圳",
+    "sites": 812,
+    "devices": 2380,
+    "avg_devices_per_site": 2.9
+   },
+   {
+    "city": "杭州",
+    "sites": 534,
+    "devices": 1502,
+    "avg_devices_per_site": 2.8
+   },
+   {
+    "city": "广州",
+    "sites": 386,
+    "devices": 1002,
+    "avg_devices_per_site": 2.6
+   },
+   {
+    "city": "东莞",
+    "sites": 247,
+    "devices": 626,
+    "avg_devices_per_site": 2.5
+   },
+   {
+    "city": "阳朔",
+    "sites": 188,
+    "devices": 750,
+    "avg_devices_per_site": 4.0
+   }
+  ],
+  "cooperation_terms": [
+   {
+    "name": "1年",
+    "value": 46
+   },
+   {
+    "name": "2年",
+    "value": 34
+   },
+   {
+    "name": "3年",
+    "value": 15
+   },
+   {
+    "name": "未签约",
+    "value": 5
+   }
+  ],
+  "expiry_schedule": [
+   {
+    "quarter": "2026Q4",
+    "value": 12
+   },
+   {
+    "quarter": "2027Q1",
+    "value": 16
+   },
+   {
+    "quarter": "2027Q2",
+    "value": 22
+   },
+   {
+    "quarter": "2027Q3",
+    "value": 18
+   },
+   {
+    "quarter": "2027Q4",
+    "value": 24
+   },
+   {
+    "quarter": "2028Q1",
+    "value": 8
+   }
+  ],
+  "share_models": [
+   {
+    "name": "按单分成15-30%",
+    "value": 58
+   },
+   {
+    "name": "年场租+电费",
+    "value": 22
+   },
+   {
+    "name": "电费+分成",
+    "value": 13
+   },
+   {
+    "name": "免费场地(街道/政府)",
+    "value": 7
+   }
+  ],
+  "site_tiers": [
+   {
+    "name": "高价值点位",
+    "ratio": 22,
+    "month_revenue": 6800,
+    "gross_margin": 52
+   },
+   {
+    "name": "普通点位",
+    "ratio": 51,
+    "month_revenue": 4100,
+    "gross_margin": 38
+   },
+   {
+    "name": "低效点位",
+    "ratio": 27,
+    "month_revenue": 1800,
+    "gross_margin": 12
+   }
+  ],
+  "avg_rent_ratio": 18.5,
+  "free_site_ratio": 7.0,
+  "avg_remaining_term": 1.6
+ },
+ "finance": {
+  "monthly_pnl": [
+   {
+    "month": "2025-10",
+    "revenue": 1420000,
+    "cost": 1080000,
+    "profit": 340000,
+    "gross_margin": 23.9
+   },
+   {
+    "month": "2025-11",
+    "revenue": 1459760,
+    "cost": 1101600,
+    "profit": 358160,
+    "gross_margin": 24.5
+   },
+   {
+    "month": "2025-12",
+    "revenue": 1499520,
+    "cost": 1123200,
+    "profit": 376320,
+    "gross_margin": 25.1
+   },
+   {
+    "month": "2026-01",
+    "revenue": 1539280,
+    "cost": 1144800,
+    "profit": 394480,
+    "gross_margin": 25.6
+   },
+   {
+    "month": "2026-02",
+    "revenue": 1579040,
+    "cost": 1166400,
+    "profit": 412640,
+    "gross_margin": 26.1
+   },
+   {
+    "month": "2026-03",
+    "revenue": 1618800,
+    "cost": 1188000,
+    "profit": 430800,
+    "gross_margin": 26.6
+   },
+   {
+    "month": "2026-04",
+    "revenue": 1658560,
+    "cost": 1209600,
+    "profit": 448960,
+    "gross_margin": 27.1
+   },
+   {
+    "month": "2026-05",
+    "revenue": 1698320,
+    "cost": 1231200,
+    "profit": 467120,
+    "gross_margin": 27.5
+   },
+   {
+    "month": "2026-06",
+    "revenue": 1738080,
+    "cost": 1252800,
+    "profit": 485280,
+    "gross_margin": 27.9
+   },
+   {
+    "month": "2026-07",
+    "revenue": 1777840,
+    "cost": 1274400,
+    "profit": 503440,
+    "gross_margin": 28.3
+   },
+   {
+    "month": "2026-08",
+    "revenue": 1817600,
+    "cost": 1296000,
+    "profit": 521600,
+    "gross_margin": 28.7
+   },
+   {
+    "month": "2026-09",
+    "revenue": 1857360,
+    "cost": 1317600,
+    "profit": 539760,
+    "gross_margin": 29.1
+   }
+  ],
+  "revenue_mix": [
+   {
+    "name": "套餐收入",
+    "value": 82.4
+   },
+   {
+    "name": "单次换电收入",
+    "value": 12.1
+   },
+   {
+    "name": "电池回收残值",
+    "value": 3.2
+   },
+   {
+    "name": "其他",
+    "value": 2.3
+   }
+  ],
+  "cost_structure": [
+   {
+    "name": "电费",
+    "value": 22.4
+   },
+   {
+    "name": "场地分成/场租",
+    "value": 14.8
+   },
+   {
+    "name": "设备折旧",
+    "value": 18.6
+   },
+   {
+    "name": "运维人工",
+    "value": 12.2
+   },
+   {
+    "name": "推广获客",
+    "value": 8.4
+   },
+   {
+    "name": "平台与软件",
+    "value": 6.8
+   },
+   {
+    "name": "销售激励",
+    "value": 4.9
+   },
+   {
+    "name": "保险与合规",
+    "value": 3.1
+   },
+   {
+    "name": "其他",
+    "value": 8.8
+   }
+  ],
+  "quality_kpis": {
+   "refund_rate": 1.8,
+   "bad_debt_rate": 0.6,
+   "advance_balance": 2450000,
+   "advance_revenue_ratio": 1.31,
+   "early_churn_long_term": 1.4,
+   "battery_recycle_cost": 200,
+   "battery_recycle_rate": 78.0
+  },
+  "breakeven_by_city": [
+   {
+    "city": "深圳",
+    "ratio": 82
+   },
+   {
+    "city": "杭州",
+    "ratio": 74
+   },
+   {
+    "city": "广州",
+    "ratio": 68
+   },
+   {
+    "city": "东莞",
+    "ratio": 56
+   },
+   {
+    "city": "阳朔",
+    "ratio": 45
+   }
+  ],
+  "cac_ltv": {
+   "cac": 86,
+   "ltv": 1860,
+   "ratio": 0.046
+  },
+  "per_cabinet": {
+   "month_revenue": 2980,
+   "day_revenue": 99.3,
+   "month_electric_cost": 668,
+   "electric_ratio": 22.4,
+   "electric_per_exchange": 0.95,
+   "valley_saving": 12.6
+  }
+ },
+ "digital": {
+  "capability_scores": [
+   {
+    "name": "设备数据覆盖率",
+    "value": 97.5
+   },
+   {
+    "name": "订单数据完整率",
+    "value": 99.2
+   },
+   {
+    "name": "告警准确率",
+    "value": 91.8
+   },
+   {
+    "name": "工单闭环率",
+    "value": 96.4
+   },
+   {
+    "name": "远程功能覆盖率",
+    "value": 88.6
+   },
+   {
+    "name": "收益账实一致性",
+    "value": 99.8
+   }
+  ],
+  "iot_kpis": {
+   "device_online_rate": 96.4,
+   "comm_fail_rate": 0.85,
+   "daily_data_rows": 1820000,
+   "single_conn_cost": 0.12,
+   "alarm_to_workorder_min": 8
+  },
+  "om_kpis": {
+   "cabinets_per_staff": 126,
+   "self_operate_ratio": 82.0,
+   "avg_response_hours": 0.8,
+   "mttr_hours": 1.8,
+   "first_fix_rate": 91.5,
+   "workorder_close_rate": 96.4,
+   "inspection_coverage": 94.2,
+   "spare_turnover_days": 18,
+   "backup_sites": 46,
+   "backup_ratio": 5.1
+  },
+  "om_mode": [
+   {
+    "name": "自营运维",
+    "value": 82
+   },
+   {
+    "name": "外包运维",
+    "value": 18
+   }
+  ],
+  "alarm_to_workorder": [
+   {
+    "month": "2026-04",
+    "value": 11
+   },
+   {
+    "month": "2026-05",
+    "value": 10
+   },
+   {
+    "month": "2026-06",
+    "value": 9
+   },
+   {
+    "month": "2026-07",
+    "value": 9
+   },
+   {
+    "month": "2026-08",
+    "value": 8
+   },
+   {
+    "month": "2026-09",
+    "value": 8
+   }
+  ]
+ },
+ "industry": {
+  "market_size": [
+   {
+    "year": "2020",
+    "value": 62
+   },
+   {
+    "year": "2021",
+    "value": 95
+   },
+   {
+    "year": "2022",
+    "value": 142
+   },
+   {
+    "year": "2023",
+    "value": 205
+   },
+   {
+    "year": "2024",
+    "value": 285
+   },
+   {
+    "year": "2025",
+    "value": 378
+   },
+   {
+    "year": "2026E",
+    "value": 480
+   }
+  ],
+  "penetration": [
+   {
+    "year": "2022",
+    "value": 3.2
+   },
+   {
+    "year": "2023",
+    "value": 5.1
+   },
+   {
+    "year": "2024",
+    "value": 7.8
+   },
+   {
+    "year": "2025",
+    "value": 10.5
+   },
+   {
+    "year": "2026E",
+    "value": 13.5
+   }
+  ],
+  "policy_milestones": [
+   {
+    "time": "2019-04",
+    "event": "电动自行车新国标实施，明确整车质量≤55kg，倒逼锂电轻量化"
+   },
+   {
+    "time": "2021-08",
+    "event": "应急管理部发布《高层民用建筑消防安全管理规定》，禁止电动自行车进楼入户充电"
+   },
+   {
+    "time": "2022-06",
+    "event": "多城市出台充电设施专项规划，鼓励集中充换电设施建设"
+   },
+   {
+    "time": "2023-07",
+    "event": "工信部推进电动自行车用锂离子蓄电池安全技术规范"
+   },
+   {
+    "time": "2024-05",
+    "event": "多项充换电安全强制国标征求意见，行业进入合规加速期"
+   },
+   {
+    "time": "2025-11",
+    "event": "新电池安全强制国标全面实施，换电柜消防合规成为行业准入门槛"
+   }
+  ],
+  "competition": [
+   {
+    "name": "头部换电企业A",
+    "share": 18.5,
+    "cities": 320,
+    "cabinets": 38000
+   },
+   {
+    "name": "头部换电企业B",
+    "share": 14.2,
+    "cities": 260,
+    "cabinets": 30000
+   },
+   {
+    "name": "本地运营商(本项目)",
+    "share": 3.6,
+    "cities": 5,
+    "cabinets": 6260
+   },
+   {
+    "name": "其他运营商",
+    "share": 63.7,
+    "cities": 180,
+    "cabinets": 58000
+   }
+  ],
+  "tech_route": [
+   {
+    "name": "磷酸铁锂",
+    "value": 76
+   },
+   {
+    "name": "三元锂",
+    "value": 18
+   },
+   {
+    "name": "钠电(试点)",
+    "value": 3
+   },
+   {
+    "name": "其他",
+    "value": 3
+   }
+  ],
+  "industry_insights": [
+   "行业驱动：新国标+消防禁令+外卖骑手刚需，换电渗透率2026年预计达13.5%",
+   "商业模式：由B端骑手市场向C端居民市场渗透，'租期+电量包'模式成为主流",
+   "技术演进：钠电池开始试点，有望降低冬季低温衰减与成本",
+   "合规门槛：2025年电池安全强制国标实施后，中小运营商加速出清，利好头部合规企业"
+  ]
+ },
+ "meta": {
+  "snapshot_time": "2026-09-16 22:11:42",
+  "source": "mock-demo",
+  "db_connected": false,
+  "db_host": "",
+  "note": "演示数据，用于离线预览看板效果；连接数据库后运行 collect.py 覆盖"
+ }
+}

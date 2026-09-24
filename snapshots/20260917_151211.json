@@ -1,0 +1,6898 @@
+{
+ "overview": {
+  "kpis": {
+   "total_cabinets": 7479,
+   "cabinets_online": 6052,
+   "online_rate": 80.9,
+   "total_batteries": 75281,
+   "battery_per_cabinet": 10.1,
+   "warehouse_ratio": null,
+   "total_users": 348186,
+   "active_users": 539,
+   "month_new_users": 3456,
+   "month_churn_rate": null,
+   "month_revenue": 42970.8,
+   "month_cost": null,
+   "month_profit": null,
+   "gross_margin": null,
+   "month_orders": 0,
+   "month_payments": 1600,
+   "daily_orders_per_cabinet": null,
+   "arpu": 79.7,
+   "ltv": null,
+   "cac": null,
+   "breakeven_ratio": null,
+   "advance_balance": null,
+   "refund_rate": null,
+   "bad_debt_rate": null,
+   "vehicle_mileage": 0,
+   "vehicle_mileage_month": 0,
+   "vehicle_count": 0,
+   "ride_records": 0
+  },
+  "revenue_trend": [
+   {
+    "month": "2025-10",
+    "revenue": 105544.5,
+    "cost": null
+   },
+   {
+    "month": "2025-11",
+    "revenue": 96268.6,
+    "cost": null
+   },
+   {
+    "month": "2025-12",
+    "revenue": 83181.9,
+    "cost": null
+   },
+   {
+    "month": "2026-01",
+    "revenue": 77375.6,
+    "cost": null
+   },
+   {
+    "month": "2026-02",
+    "revenue": 56746.1,
+    "cost": null
+   },
+   {
+    "month": "2026-03",
+    "revenue": 71546.0,
+    "cost": null
+   },
+   {
+    "month": "2026-04",
+    "revenue": 73184.8,
+    "cost": null
+   },
+   {
+    "month": "2026-05",
+    "revenue": 65171.7,
+    "cost": null
+   },
+   {
+    "month": "2026-06",
+    "revenue": 60378.8,
+    "cost": null
+   },
+   {
+    "month": "2026-07",
+    "revenue": 73201.1,
+    "cost": null
+   },
+   {
+    "month": "2026-08",
+    "revenue": 77764.0,
+    "cost": null
+   },
+   {
+    "month": "2026-09",
+    "revenue": 42970.8,
+    "cost": null
+   }
+  ],
+  "order_trend": [
+   {
+    "month": "2022-09",
+    "orders": 46700
+   },
+   {
+    "month": "2022-10",
+    "orders": 55276
+   },
+   {
+    "month": "2022-11",
+    "orders": 57281
+   },
+   {
+    "month": "2022-12",
+    "orders": 59894
+   },
+   {
+    "month": "2023-01",
+    "orders": 37569
+   },
+   {
+    "month": "2023-02",
+    "orders": 61765
+   },
+   {
+    "month": "2023-03",
+    "orders": 87085
+   },
+   {
+    "month": "2023-04",
+    "orders": 106333
+   },
+   {
+    "month": "2023-05",
+    "orders": 133606
+   },
+   {
+    "month": "2023-06",
+    "orders": 164054
+   },
+   {
+    "month": "2023-07",
+    "orders": 223676
+   },
+   {
+    "month": "2023-08",
+    "orders": 84066
+   }
+  ],
+  "city_distribution": [
+   {
+    "name": "深圳市",
+    "value": 5148
+   },
+   {
+    "name": "杭州市",
+    "value": 1774
+   },
+   {
+    "name": "桂林市",
+    "value": 180
+   },
+   {
+    "name": "苏州市",
+    "value": 126
+   },
+   {
+    "name": "南宁市",
+    "value": 94
+   },
+   {
+    "name": "天津城区",
+    "value": 48
+   },
+   {
+    "name": "南通市",
+    "value": 43
+   },
+   {
+    "name": "金华市",
+    "value": 16
+   },
+   {
+    "name": "太原市",
+    "value": 14
+   },
+   {
+    "name": "宁波市",
+    "value": 11
+   },
+   {
+    "name": "洛阳市",
+    "value": 6
+   },
+   {
+    "name": "济南市",
+    "value": 4
+   },
+   {
+    "name": "广州市",
+    "value": 3
+   },
+   {
+    "name": "福州市",
+    "value": 2
+   },
+   {
+    "name": "肇庆市",
+    "value": 2
+   },
+   {
+    "name": "北京城区",
+    "value": 1
+   },
+   {
+    "name": "惠州市",
+    "value": 1
+   },
+   {
+    "name": "泉州市",
+    "value": 1
+   },
+   {
+    "name": "重庆城区",
+    "value": 1
+   },
+   {
+    "name": "襄阳市",
+    "value": 1
+   }
+  ],
+  "device_type_ratio": [
+   {
+    "name": "换电柜",
+    "value": 7479
+   },
+   {
+    "name": "电池",
+    "value": 75281
+   }
+  ],
+  "user_city_ratio": [
+   {
+    "name": "未知",
+    "value": 215363
+   },
+   {
+    "name": "深圳市",
+    "value": 59610
+   },
+   {
+    "name": "杭州市",
+    "value": 54436
+   },
+   {
+    "name": "桂林市",
+    "value": 5490
+   },
+   {
+    "name": "天津市",
+    "value": 2290
+   },
+   {
+    "name": "宁波市",
+    "value": 1286
+   },
+   {
+    "name": "天津城区",
+    "value": 1118
+   },
+   {
+    "name": "贵阳市",
+    "value": 798
+   },
+   {
+    "name": "成都市",
+    "value": 794
+   },
+   {
+    "name": "南宁市",
+    "value": 608
+   },
+   {
+    "name": "广州市",
+    "value": 492
+   },
+   {
+    "name": "苏州市",
+    "value": 441
+   },
+   {
+    "name": "东莞市",
+    "value": 428
+   },
+   {
+    "name": "长沙市",
+    "value": 400
+   },
+   {
+    "name": "金华市",
+    "value": 234
+   },
+   {
+    "name": "重庆市",
+    "value": 225
+   },
+   {
+    "name": "遵义市",
+    "value": 194
+   },
+   {
+    "name": "上海市",
+    "value": 194
+   },
+   {
+    "name": "嘉兴市",
+    "value": 176
+   },
+   {
+    "name": "衡阳市",
+    "value": 167
+   }
+  ],
+  "vehicle_mileage": {
+   "total_km": 0,
+   "month_km": 0,
+   "ride_records": 0,
+   "ride_bikes": 0,
+   "ride_month_records": 0,
+   "order_mileage_month": 0,
+   "source_note": "zc_bike_ride_log.distance(米)；当前库中无骑行数据时显示 0"
+  }
+ },
+ "assets": {
+  "kpis": {
+   "total_batteries": 75281,
+   "avg_cycles": 173.0,
+   "low_soh_ratio": 0.4
+  },
+  "soh_dist": [
+   {
+    "name": "<70",
+    "value": 62
+   },
+   {
+    "name": "80-89",
+    "value": 75
+   },
+   {
+    "name": "90-94",
+    "value": 609
+   },
+   {
+    "name": ">=95",
+    "value": 15166
+   }
+  ],
+  "cycle_dist": [
+   {
+    "name": "<100",
+    "value": 7807
+   },
+   {
+    "name": "100-199",
+    "value": 3937
+   },
+   {
+    "name": "200-299",
+    "value": 3473
+   },
+   {
+    "name": "300-399",
+    "value": 4697
+   },
+   {
+    "name": "400-499",
+    "value": 81
+   },
+   {
+    "name": ">=500",
+    "value": 5
+   }
+  ]
+ },
+ "users": {
+  "kpis": {
+   "total_users": 348186,
+   "month_new_users": 3456,
+   "active_agreements": 21644
+  },
+  "gender_ratio": [
+   {
+    "name": "未知",
+    "value": 338185
+   },
+   {
+    "name": "男",
+    "value": 8017
+   },
+   {
+    "name": "女",
+    "value": 1984
+   }
+  ],
+  "user_city": [
+   {
+    "name": "未知",
+    "value": 215363
+   },
+   {
+    "name": "深圳市",
+    "value": 59610
+   },
+   {
+    "name": "杭州市",
+    "value": 54436
+   },
+   {
+    "name": "桂林市",
+    "value": 5490
+   },
+   {
+    "name": "天津市",
+    "value": 2290
+   },
+   {
+    "name": "宁波市",
+    "value": 1286
+   },
+   {
+    "name": "天津城区",
+    "value": 1118
+   },
+   {
+    "name": "贵阳市",
+    "value": 798
+   },
+   {
+    "name": "成都市",
+    "value": 794
+   },
+   {
+    "name": "南宁市",
+    "value": 608
+   },
+   {
+    "name": "广州市",
+    "value": 492
+   },
+   {
+    "name": "苏州市",
+    "value": 441
+   },
+   {
+    "name": "东莞市",
+    "value": 428
+   },
+   {
+    "name": "长沙市",
+    "value": 400
+   },
+   {
+    "name": "金华市",
+    "value": 234
+   },
+   {
+    "name": "重庆市",
+    "value": 225
+   },
+   {
+    "name": "遵义市",
+    "value": 194
+   },
+   {
+    "name": "上海市",
+    "value": 194
+   },
+   {
+    "name": "嘉兴市",
+    "value": 176
+   },
+   {
+    "name": "衡阳市",
+    "value": 167
+   }
+  ]
+ },
+ "operations": {
+  "kpis": {
+   "month_orders": 0,
+   "total_orders": 1307910,
+   "daily_orders_per_cabinet": null,
+   "fail_ratio": null,
+   "total_fail_ratio": 4.1,
+   "month_use_power": 0,
+   "month_expend_power": 0
+  },
+  "order_status": [
+   {
+    "name": "成功",
+    "value": 1307910
+   },
+   {
+    "name": "失败",
+    "value": 55854
+   }
+  ]
+ },
+ "sites": {
+  "kpis": {
+   "total_sites": 11140,
+   "sites_online": 9118,
+   "site_online_rate": 81.8,
+   "total_cabinets": 7479
+  },
+  "site_type": [
+   {
+    "name": "type-2",
+    "value": 2
+   },
+   {
+    "name": "type-4",
+    "value": 471
+   },
+   {
+    "name": "type-4",
+    "value": 38
+   },
+   {
+    "name": "type-7",
+    "value": 9
+   },
+   {
+    "name": "type-5",
+    "value": 2586
+   },
+   {
+    "name": "type-1",
+    "value": 6052
+   },
+   {
+    "name": "type-5",
+    "value": 548
+   },
+   {
+    "name": "type-1",
+    "value": 1427
+   },
+   {
+    "name": "type-7",
+    "value": 7
+   }
+  ],
+  "city_dist": [
+   {
+    "name": "深圳市",
+    "value": 5148
+   },
+   {
+    "name": "杭州市",
+    "value": 1774
+   },
+   {
+    "name": "桂林市",
+    "value": 180
+   },
+   {
+    "name": "苏州市",
+    "value": 126
+   },
+   {
+    "name": "南宁市",
+    "value": 94
+   },
+   {
+    "name": "天津城区",
+    "value": 48
+   },
+   {
+    "name": "南通市",
+    "value": 43
+   },
+   {
+    "name": "金华市",
+    "value": 16
+   },
+   {
+    "name": "太原市",
+    "value": 14
+   },
+   {
+    "name": "宁波市",
+    "value": 11
+   },
+   {
+    "name": "洛阳市",
+    "value": 6
+   },
+   {
+    "name": "济南市",
+    "value": 4
+   },
+   {
+    "name": "广州市",
+    "value": 3
+   },
+   {
+    "name": "肇庆市",
+    "value": 2
+   },
+   {
+    "name": "福州市",
+    "value": 2
+   },
+   {
+    "name": "南昌市",
+    "value": 1
+   },
+   {
+    "name": "重庆城区",
+    "value": 1
+   },
+   {
+    "name": "北京城区",
+    "value": 1
+   },
+   {
+    "name": "泉州市",
+    "value": 1
+   },
+   {
+    "name": "惠州市",
+    "value": 1
+   }
+  ]
+ },
+ "finance": {
+  "kpis": {
+   "month_revenue": 42970.8,
+   "total_revenue": 9699311.0
+  },
+  "revenue_mix": [
+   {
+    "name": "exchangeServiceOrder",
+    "value": 5219778.4
+   },
+   {
+    "name": "CouponConvertCodeOrder",
+    "value": 2536397.0
+   },
+   {
+    "name": "exchangeDepositOrder",
+    "value": 759384.3
+   },
+   {
+    "name": "rentViolatedOrder",
+    "value": 550851.3
+   },
+   {
+    "name": "contractSchemeOrder",
+    "value": 476094.4
+   },
+   {
+    "name": "exchangeOrder",
+    "value": 144598.9
+   },
+   {
+    "name": "goodsBook",
+    "value": 10316.1
+   },
+   {
+    "name": "materielGoods",
+    "value": 1823.2
+   },
+   {
+    "name": "EarningBalanceTopUPOrder",
+    "value": 67.3
+   },
+   {
+    "name": "exchangePackage",
+    "value": 0.0
+   }
+  ],
+  "revenue_kpis": {
+   "month_revenue": 42970.8,
+   "arpu": 79.7,
+   "pay_conv_ratio": null,
+   "month_active_ratio": 0.2,
+   "renew_ratio": null,
+   "churn_ratio": null,
+   "advance_balance": null,
+   "refund_rate": null,
+   "bad_debt_rate": null,
+   "new_discount": null,
+   "renew_price_gap": null,
+   "long_term_ratio_3y": null,
+   "net_new_users": null,
+   "ltv": null
+  },
+  "expense_kpis": {
+   "month_cost": null,
+   "cost_income_ratio": null,
+   "electric_ratio": null,
+   "share_ratio": null,
+   "opex_ratio": null,
+   "cac": null,
+   "cac_ltv": null,
+   "mttr_hours": null,
+   "month_capex_dep": null,
+   "software_ratio": null
+  }
+ },
+ "digital": {
+  "capability_scores": [
+   {
+    "name": "设备数据覆盖率",
+    "value": 45.9
+   },
+   {
+    "name": "柜体在线率",
+    "value": 80.9
+   },
+   {
+    "name": "电池在线率",
+    "value": 45.9
+   }
+  ],
+  "iot_kpis": {
+   "device_online_rate": 45.9,
+   "comm_fail_rate": null,
+   "daily_data_rows": 75281,
+   "alarm_to_workorder_min": null
+  },
+  "om_kpis": {
+   "cabinets_per_staff": null,
+   "self_operate_ratio": null,
+   "avg_response_hours": null,
+   "mttr_hours": null,
+   "first_fix_rate": null,
+   "workorder_close_rate": null,
+   "inspection_coverage": null,
+   "spare_turnover_days": null,
+   "backup_sites": null,
+   "backup_ratio": null
+  },
+  "om_mode": [],
+  "alarm_to_workorder": []
+ },
+ "iot": {
+  "platform_overview": {
+   "total_stations": 7479,
+   "online_stations": 6052,
+   "offline_stations": 1427,
+   "station_online_rate": 80.9,
+   "total_devices": 75281,
+   "devices_online": 34576,
+   "devices_offline": 40705,
+   "today_alarms": 0,
+   "pending_alarms": 0,
+   "today_workorders": 0,
+   "battery_monitored": 48370,
+   "battery_in_cabinet": null,
+   "battery_out_cabinet": null,
+   "province_dist": [
+    {
+     "name": "广东省",
+     "value": 5154
+    },
+    {
+     "name": "浙江省",
+     "value": 1801
+    },
+    {
+     "name": "广西壮族自治区",
+     "value": 274
+    },
+    {
+     "name": "江苏省",
+     "value": 170
+    },
+    {
+     "name": "天津市",
+     "value": 48
+    },
+    {
+     "name": "山西省",
+     "value": 14
+    },
+    {
+     "name": "河南省",
+     "value": 6
+    },
+    {
+     "name": "山东省",
+     "value": 4
+    },
+    {
+     "name": "福建省",
+     "value": 3
+    },
+    {
+     "name": "重庆市",
+     "value": 1
+    }
+   ],
+   "cell_status": [
+    {
+     "name": "正常",
+     "value": 45.9
+    },
+    {
+     "name": "离线",
+     "value": 54.1
+    }
+   ],
+   "voltage_dist": [],
+   "soc_dist": [],
+   "alarm_trend": []
+  },
+  "battery_params": [
+   {
+    "sn": "DU****05dd",
+    "model": "其他",
+    "status": "在线",
+    "soc": "31",
+    "voltage": "--",
+    "temperature": "--",
+    "cycles": "41",
+    "soh": "--",
+    "cabinet_no": "--",
+    "comm": "正常"
+   },
+   {
+    "sn": "BA****ba04",
+    "model": "其他",
+    "status": "在线",
+    "soc": "0",
+    "voltage": "--",
+    "temperature": "--",
+    "cycles": "35",
+    "soh": "--",
+    "cabinet_no": "--",
+    "comm": "离线"
+   },
+   {
+    "sn": "PB****944f",
+    "model": "其他",
+    "status": "在线",
+    "soc": "81",
+    "voltage": "--",
+    "temperature": "--",
+    "cycles": "184",
+    "soh": "--",
+    "cabinet_no": "--",
+    "comm": "充电中"
+   },
+   {
+    "sn": "DU****6c77",
+    "model": "其他",
+    "status": "在线",
+    "soc": "31",
+    "voltage": "--",
+    "temperature": "--",
+    "cycles": "39",
+    "soh": "--",
+    "cabinet_no": "--",
+    "comm": "正常"
+   },
+   {
+    "sn": "PB****cc44",
+    "model": "其他",
+    "status": "在线",
+    "soc": "89",
+    "voltage": "--",
+    "temperature": "--",
+    "cycles": "173",
+    "soh": "--",
+    "cabinet_no": "--",
+    "comm": "充电中"
+   },
+   {
+    "sn": "DU****e70a",
+    "model": "其他",
+    "status": "在线",
+    "soc": "99",
+    "voltage": "--",
+    "temperature": "--",
+    "cycles": "69",
+    "soh": "--",
+    "cabinet_no": "--",
+    "comm": "正常"
+   },
+   {
+    "sn": "PB****481e",
+    "model": "4824",
+    "status": "在线",
+    "soc": "62",
+    "voltage": "--",
+    "temperature": "--",
+    "cycles": "320",
+    "soh": "--",
+    "cabinet_no": "--",
+    "comm": "充电中"
+   },
+   {
+    "sn": "PB****e59b",
+    "model": "其他",
+    "status": "在线",
+    "soc": "89",
+    "voltage": "--",
+    "temperature": "--",
+    "cycles": "144",
+    "soh": "--",
+    "cabinet_no": "--",
+    "comm": "充电中"
+   },
+   {
+    "sn": "PB****2e0f",
+    "model": "4814",
+    "status": "在线",
+    "soc": "100",
+    "voltage": "--",
+    "temperature": "--",
+    "cycles": "331",
+    "soh": "--",
+    "cabinet_no": "--",
+    "comm": "充电中"
+   },
+   {
+    "sn": "DU****0a59",
+    "model": "其他",
+    "status": "在线",
+    "soc": "71",
+    "voltage": "--",
+    "temperature": "--",
+    "cycles": "94",
+    "soh": "--",
+    "cabinet_no": "--",
+    "comm": "正常"
+   },
+   {
+    "sn": "DU****f96f",
+    "model": "其他",
+    "status": "在线",
+    "soc": "52",
+    "voltage": "--",
+    "temperature": "--",
+    "cycles": "54",
+    "soh": "--",
+    "cabinet_no": "--",
+    "comm": "正常"
+   },
+   {
+    "sn": "BA****5e4a",
+    "model": "其他",
+    "status": "在线",
+    "soc": "100",
+    "voltage": "--",
+    "temperature": "--",
+    "cycles": "33",
+    "soh": "--",
+    "cabinet_no": "--",
+    "comm": "离线"
+   },
+   {
+    "sn": "PB****0947",
+    "model": "其他",
+    "status": "在线",
+    "soc": "6",
+    "voltage": "--",
+    "temperature": "--",
+    "cycles": "335",
+    "soh": "--",
+    "cabinet_no": "--",
+    "comm": "充电中"
+   },
+   {
+    "sn": "PB****4815",
+    "model": "其他",
+    "status": "在线",
+    "soc": "74",
+    "voltage": "--",
+    "temperature": "--",
+    "cycles": "72",
+    "soh": "--",
+    "cabinet_no": "--",
+    "comm": "充电中"
+   },
+   {
+    "sn": "PB****b136",
+    "model": "其他",
+    "status": "在线",
+    "soc": "76",
+    "voltage": "--",
+    "temperature": "--",
+    "cycles": "137",
+    "soh": "--",
+    "cabinet_no": "--",
+    "comm": "充电中"
+   },
+   {
+    "sn": "DU****5ed1",
+    "model": "其他",
+    "status": "在线",
+    "soc": "81",
+    "voltage": "--",
+    "temperature": "--",
+    "cycles": "76",
+    "soh": "--",
+    "cabinet_no": "--",
+    "comm": "正常"
+   },
+   {
+    "sn": "PB****797d",
+    "model": "其他",
+    "status": "在线",
+    "soc": "87",
+    "voltage": "--",
+    "temperature": "--",
+    "cycles": "307",
+    "soh": "--",
+    "cabinet_no": "--",
+    "comm": "充电中"
+   },
+   {
+    "sn": "PB****7ff7",
+    "model": "其他",
+    "status": "在线",
+    "soc": "95",
+    "voltage": "--",
+    "temperature": "--",
+    "cycles": "163",
+    "soh": "--",
+    "cabinet_no": "--",
+    "comm": "充电中"
+   },
+   {
+    "sn": "PB****cc4d",
+    "model": "其他",
+    "status": "在线",
+    "soc": "58",
+    "voltage": "--",
+    "temperature": "--",
+    "cycles": "346",
+    "soh": "--",
+    "cabinet_no": "--",
+    "comm": "充电中"
+   },
+   {
+    "sn": "PB****86a2",
+    "model": "其他",
+    "status": "在线",
+    "soc": "100",
+    "voltage": "--",
+    "temperature": "--",
+    "cycles": "270",
+    "soh": "--",
+    "cabinet_no": "--",
+    "comm": "充电中"
+   },
+   {
+    "sn": "PB****f41f",
+    "model": "其他",
+    "status": "在线",
+    "soc": "25",
+    "voltage": "--",
+    "temperature": "--",
+    "cycles": "169",
+    "soh": "--",
+    "cabinet_no": "--",
+    "comm": "充电中"
+   },
+   {
+    "sn": "PB****2488",
+    "model": "4814",
+    "status": "在线",
+    "soc": "40",
+    "voltage": "--",
+    "temperature": "--",
+    "cycles": "345",
+    "soh": "--",
+    "cabinet_no": "--",
+    "comm": "充电中"
+   },
+   {
+    "sn": "BA****ae47",
+    "model": "其他",
+    "status": "在线",
+    "soc": "79",
+    "voltage": "--",
+    "temperature": "--",
+    "cycles": "15",
+    "soh": "--",
+    "cabinet_no": "--",
+    "comm": "离线"
+   },
+   {
+    "sn": "PB****deb7",
+    "model": "其他",
+    "status": "在线",
+    "soc": "69",
+    "voltage": "--",
+    "temperature": "--",
+    "cycles": "145",
+    "soh": "--",
+    "cabinet_no": "--",
+    "comm": "充电中"
+   },
+   {
+    "sn": "DU****963c",
+    "model": "其他",
+    "status": "在线",
+    "soc": "35",
+    "voltage": "--",
+    "temperature": "--",
+    "cycles": "83",
+    "soh": "--",
+    "cabinet_no": "--",
+    "comm": "正常"
+   },
+   {
+    "sn": "PB****4eee",
+    "model": "其他",
+    "status": "在线",
+    "soc": "84",
+    "voltage": "--",
+    "temperature": "--",
+    "cycles": "325",
+    "soh": "--",
+    "cabinet_no": "--",
+    "comm": "充电中"
+   },
+   {
+    "sn": "PB****c6de",
+    "model": "其他",
+    "status": "在线",
+    "soc": "38",
+    "voltage": "--",
+    "temperature": "--",
+    "cycles": "263",
+    "soh": "--",
+    "cabinet_no": "--",
+    "comm": "充电中"
+   },
+   {
+    "sn": "PB****8902",
+    "model": "4824",
+    "status": "在线",
+    "soc": "33",
+    "voltage": "--",
+    "temperature": "--",
+    "cycles": "328",
+    "soh": "--",
+    "cabinet_no": "--",
+    "comm": "充电中"
+   },
+   {
+    "sn": "BA****7fee",
+    "model": "其他",
+    "status": "在线",
+    "soc": "29",
+    "voltage": "--",
+    "temperature": "--",
+    "cycles": "16",
+    "soh": "--",
+    "cabinet_no": "--",
+    "comm": "离线"
+   },
+   {
+    "sn": "BA****be7d",
+    "model": "其他",
+    "status": "在线",
+    "soc": "91",
+    "voltage": "--",
+    "temperature": "--",
+    "cycles": "47",
+    "soh": "--",
+    "cabinet_no": "--",
+    "comm": "离线"
+   }
+  ],
+  "battery_detail": {
+   "fields": [
+    "SN",
+    "型号",
+    "状态",
+    "SOC",
+    "电压(V)",
+    "温度(℃)",
+    "循环次数",
+    "健康度SOH(%)",
+    "所在柜",
+    "通讯状态"
+   ]
+  },
+  "cell_status": {
+   "total_cells": 48370,
+   "normal": null,
+   "warning": null,
+   "fault": null,
+   "cell_list": []
+  },
+  "battery_manage": {
+   "adr_status": [],
+   "comm_status": [
+    {
+     "name": "在线",
+     "value": 45.9
+    },
+    {
+     "name": "离线",
+     "value": 54.1
+    }
+   ],
+   "voltage_ok": null,
+   "soc_ok": null,
+   "temp_ok": null
+  },
+  "alarm_list": []
+ },
+ "maps": {
+  "device": [
+   {
+    "name": "深圳市",
+    "lng": 113.960763,
+    "lat": 22.647931,
+    "cabinets": 5148,
+    "batteries": 41184,
+    "online_rate": 97,
+    "users": 59610,
+    "vehicles": 0,
+    "density": 37.3,
+    "sites": 1599,
+    "avg_cabinet": 3.2,
+    "revenue": 0,
+    "daily_exchanges": 0
+   },
+   {
+    "name": "杭州市",
+    "lng": 120.166332,
+    "lat": 30.27934,
+    "cabinets": 1774,
+    "batteries": 14192,
+    "online_rate": 98,
+    "users": 54436,
+    "vehicles": 0,
+    "density": 48.9,
+    "sites": 1114,
+    "avg_cabinet": 1.6,
+    "revenue": 0,
+    "daily_exchanges": 0
+   },
+   {
+    "name": "桂林市",
+    "lng": 110.474645,
+    "lat": 24.809817,
+    "cabinets": 180,
+    "batteries": 1440,
+    "online_rate": 94,
+    "users": 5490,
+    "vehicles": 0,
+    "density": 83.2,
+    "sites": 66,
+    "avg_cabinet": 2.7,
+    "revenue": 0,
+    "daily_exchanges": 0
+   },
+   {
+    "name": "苏州市",
+    "lng": 120.4233,
+    "lat": 31.335698,
+    "cabinets": 126,
+    "batteries": 1008,
+    "online_rate": 95,
+    "users": 441,
+    "vehicles": 0,
+    "density": 63.0,
+    "sites": 7,
+    "avg_cabinet": 18.0,
+    "revenue": 0,
+    "daily_exchanges": 0
+   },
+   {
+    "name": "南宁市",
+    "lng": 108.395299,
+    "lat": 22.83123,
+    "cabinets": 94,
+    "batteries": 752,
+    "online_rate": 98,
+    "users": 608,
+    "vehicles": 0,
+    "density": 304.0,
+    "sites": 2,
+    "avg_cabinet": 47.0,
+    "revenue": 0,
+    "daily_exchanges": 0
+   },
+   {
+    "name": "天津城区",
+    "lng": 117.35543,
+    "lat": 39.197563,
+    "cabinets": 48,
+    "batteries": 384,
+    "online_rate": 97,
+    "users": 1118,
+    "vehicles": 0,
+    "density": 7.7,
+    "sites": 145,
+    "avg_cabinet": 0.3,
+    "revenue": 0,
+    "daily_exchanges": 0
+   },
+   {
+    "name": "南通市",
+    "lng": 120.874058,
+    "lat": 32.016496,
+    "cabinets": 43,
+    "batteries": 344,
+    "online_rate": 97,
+    "users": 104,
+    "vehicles": 0,
+    "density": 26.0,
+    "sites": 4,
+    "avg_cabinet": 10.8,
+    "revenue": 0,
+    "daily_exchanges": 0
+   },
+   {
+    "name": "金华市",
+    "lng": 119.641545,
+    "lat": 29.076081,
+    "cabinets": 16,
+    "batteries": 128,
+    "online_rate": 95,
+    "users": 234,
+    "vehicles": 0,
+    "density": 19.5,
+    "sites": 12,
+    "avg_cabinet": 1.3,
+    "revenue": 0,
+    "daily_exchanges": 0
+   },
+   {
+    "name": "太原市",
+    "lng": 112.266089,
+    "lat": 37.752615,
+    "cabinets": 14,
+    "batteries": 112,
+    "online_rate": 98,
+    "users": 25,
+    "vehicles": 0,
+    "density": 25.0,
+    "sites": 0,
+    "avg_cabinet": 14.0,
+    "revenue": 0,
+    "daily_exchanges": 0
+   },
+   {
+    "name": "宁波市",
+    "lng": 121.470297,
+    "lat": 29.755091,
+    "cabinets": 11,
+    "batteries": 88,
+    "online_rate": 95,
+    "users": 1286,
+    "vehicles": 0,
+    "density": 9.3,
+    "sites": 138,
+    "avg_cabinet": 0.1,
+    "revenue": 0,
+    "daily_exchanges": 0
+   },
+   {
+    "name": "洛阳市",
+    "lng": 114.930905,
+    "lat": 23.937221,
+    "cabinets": 6,
+    "batteries": 48,
+    "online_rate": 95,
+    "users": 24,
+    "vehicles": 0,
+    "density": 24.0,
+    "sites": 0,
+    "avg_cabinet": 6.0,
+    "revenue": 0,
+    "daily_exchanges": 0
+   },
+   {
+    "name": "济南市",
+    "lng": 117.029873,
+    "lat": 36.641484,
+    "cabinets": 4,
+    "batteries": 32,
+    "online_rate": 98,
+    "users": 87,
+    "vehicles": 0,
+    "density": 21.8,
+    "sites": 4,
+    "avg_cabinet": 1.0,
+    "revenue": 0,
+    "daily_exchanges": 0
+   },
+   {
+    "name": "广州市",
+    "lng": 113.36015,
+    "lat": 23.099391,
+    "cabinets": 3,
+    "batteries": 24,
+    "online_rate": 97,
+    "users": 492,
+    "vehicles": 0,
+    "density": 61.5,
+    "sites": 8,
+    "avg_cabinet": 0.4,
+    "revenue": 0,
+    "daily_exchanges": 0
+   },
+   {
+    "name": "福州市",
+    "lng": 119.724044,
+    "lat": 28.230758,
+    "cabinets": 2,
+    "batteries": 16,
+    "online_rate": 96,
+    "users": 78,
+    "vehicles": 0,
+    "density": 6.5,
+    "sites": 12,
+    "avg_cabinet": 0.2,
+    "revenue": 0,
+    "daily_exchanges": 0
+   },
+   {
+    "name": "肇庆市",
+    "lng": 113.98091,
+    "lat": 22.567659,
+    "cabinets": 2,
+    "batteries": 16,
+    "online_rate": 96,
+    "users": 12,
+    "vehicles": 0,
+    "density": 12.0,
+    "sites": 0,
+    "avg_cabinet": 2.0,
+    "revenue": 0,
+    "daily_exchanges": 0
+   },
+   {
+    "name": "泉州市",
+    "lng": 118.194856,
+    "lat": 25.063243,
+    "cabinets": 1,
+    "batteries": 8,
+    "online_rate": 95,
+    "users": 45,
+    "vehicles": 0,
+    "density": 45.0,
+    "sites": 1,
+    "avg_cabinet": 1.0,
+    "revenue": 0,
+    "daily_exchanges": 0
+   }
+  ],
+  "user_vehicle": [
+   {
+    "name": "深圳市",
+    "lng": 113.960763,
+    "lat": 22.647931,
+    "cabinets": 0,
+    "batteries": 0,
+    "online_rate": null,
+    "users": 59610,
+    "vehicles": 0,
+    "density": 37.3,
+    "sites": 1599,
+    "avg_cabinet": 0,
+    "revenue": 0,
+    "daily_exchanges": 0
+   },
+   {
+    "name": "杭州市",
+    "lng": 120.166332,
+    "lat": 30.27934,
+    "cabinets": 0,
+    "batteries": 0,
+    "online_rate": null,
+    "users": 54436,
+    "vehicles": 0,
+    "density": 48.9,
+    "sites": 1114,
+    "avg_cabinet": 0,
+    "revenue": 0,
+    "daily_exchanges": 0
+   },
+   {
+    "name": "桂林市",
+    "lng": 110.474645,
+    "lat": 24.809817,
+    "cabinets": 0,
+    "batteries": 0,
+    "online_rate": null,
+    "users": 5490,
+    "vehicles": 0,
+    "density": 83.2,
+    "sites": 66,
+    "avg_cabinet": 0,
+    "revenue": 0,
+    "daily_exchanges": 0
+   },
+   {
+    "name": "苏州市",
+    "lng": 120.4233,
+    "lat": 31.335698,
+    "cabinets": 0,
+    "batteries": 0,
+    "online_rate": null,
+    "users": 441,
+    "vehicles": 0,
+    "density": 63.0,
+    "sites": 7,
+    "avg_cabinet": 0,
+    "revenue": 0,
+    "daily_exchanges": 0
+   },
+   {
+    "name": "南宁市",
+    "lng": 108.395299,
+    "lat": 22.83123,
+    "cabinets": 0,
+    "batteries": 0,
+    "online_rate": null,
+    "users": 608,
+    "vehicles": 0,
+    "density": 304.0,
+    "sites": 2,
+    "avg_cabinet": 0,
+    "revenue": 0,
+    "daily_exchanges": 0
+   },
+   {
+    "name": "天津城区",
+    "lng": 117.35543,
+    "lat": 39.197563,
+    "cabinets": 0,
+    "batteries": 0,
+    "online_rate": null,
+    "users": 1118,
+    "vehicles": 0,
+    "density": 7.7,
+    "sites": 145,
+    "avg_cabinet": 0,
+    "revenue": 0,
+    "daily_exchanges": 0
+   },
+   {
+    "name": "南通市",
+    "lng": 120.874058,
+    "lat": 32.016496,
+    "cabinets": 0,
+    "batteries": 0,
+    "online_rate": null,
+    "users": 104,
+    "vehicles": 0,
+    "density": 26.0,
+    "sites": 4,
+    "avg_cabinet": 0,
+    "revenue": 0,
+    "daily_exchanges": 0
+   },
+   {
+    "name": "金华市",
+    "lng": 119.641545,
+    "lat": 29.076081,
+    "cabinets": 0,
+    "batteries": 0,
+    "online_rate": null,
+    "users": 234,
+    "vehicles": 0,
+    "density": 19.5,
+    "sites": 12,
+    "avg_cabinet": 0,
+    "revenue": 0,
+    "daily_exchanges": 0
+   },
+   {
+    "name": "太原市",
+    "lng": 112.266089,
+    "lat": 37.752615,
+    "cabinets": 0,
+    "batteries": 0,
+    "online_rate": null,
+    "users": 25,
+    "vehicles": 0,
+    "density": 25.0,
+    "sites": 0,
+    "avg_cabinet": 0,
+    "revenue": 0,
+    "daily_exchanges": 0
+   },
+   {
+    "name": "宁波市",
+    "lng": 121.470297,
+    "lat": 29.755091,
+    "cabinets": 0,
+    "batteries": 0,
+    "online_rate": null,
+    "users": 1286,
+    "vehicles": 0,
+    "density": 9.3,
+    "sites": 138,
+    "avg_cabinet": 0,
+    "revenue": 0,
+    "daily_exchanges": 0
+   },
+   {
+    "name": "洛阳市",
+    "lng": 114.930905,
+    "lat": 23.937221,
+    "cabinets": 0,
+    "batteries": 0,
+    "online_rate": null,
+    "users": 24,
+    "vehicles": 0,
+    "density": 24.0,
+    "sites": 0,
+    "avg_cabinet": 0,
+    "revenue": 0,
+    "daily_exchanges": 0
+   },
+   {
+    "name": "济南市",
+    "lng": 117.029873,
+    "lat": 36.641484,
+    "cabinets": 0,
+    "batteries": 0,
+    "online_rate": null,
+    "users": 87,
+    "vehicles": 0,
+    "density": 21.8,
+    "sites": 4,
+    "avg_cabinet": 0,
+    "revenue": 0,
+    "daily_exchanges": 0
+   },
+   {
+    "name": "广州市",
+    "lng": 113.36015,
+    "lat": 23.099391,
+    "cabinets": 0,
+    "batteries": 0,
+    "online_rate": null,
+    "users": 492,
+    "vehicles": 0,
+    "density": 61.5,
+    "sites": 8,
+    "avg_cabinet": 0,
+    "revenue": 0,
+    "daily_exchanges": 0
+   },
+   {
+    "name": "福州市",
+    "lng": 119.724044,
+    "lat": 28.230758,
+    "cabinets": 0,
+    "batteries": 0,
+    "online_rate": null,
+    "users": 78,
+    "vehicles": 0,
+    "density": 6.5,
+    "sites": 12,
+    "avg_cabinet": 0,
+    "revenue": 0,
+    "daily_exchanges": 0
+   },
+   {
+    "name": "肇庆市",
+    "lng": 113.98091,
+    "lat": 22.567659,
+    "cabinets": 0,
+    "batteries": 0,
+    "online_rate": null,
+    "users": 12,
+    "vehicles": 0,
+    "density": 12.0,
+    "sites": 0,
+    "avg_cabinet": 0,
+    "revenue": 0,
+    "daily_exchanges": 0
+   },
+   {
+    "name": "泉州市",
+    "lng": 118.194856,
+    "lat": 25.063243,
+    "cabinets": 0,
+    "batteries": 0,
+    "online_rate": null,
+    "users": 45,
+    "vehicles": 0,
+    "density": 45.0,
+    "sites": 1,
+    "avg_cabinet": 0,
+    "revenue": 0,
+    "daily_exchanges": 0
+   }
+  ],
+  "site": [
+   {
+    "name": "深圳市",
+    "lng": 113.960763,
+    "lat": 22.647931,
+    "cabinets": 5148,
+    "batteries": 0,
+    "online_rate": null,
+    "users": 0,
+    "vehicles": 0,
+    "density": 0,
+    "sites": 1599,
+    "avg_cabinet": 3.2,
+    "revenue": 0,
+    "daily_exchanges": 0
+   },
+   {
+    "name": "杭州市",
+    "lng": 120.166332,
+    "lat": 30.27934,
+    "cabinets": 1774,
+    "batteries": 0,
+    "online_rate": null,
+    "users": 0,
+    "vehicles": 0,
+    "density": 0,
+    "sites": 1114,
+    "avg_cabinet": 1.6,
+    "revenue": 0,
+    "daily_exchanges": 0
+   },
+   {
+    "name": "桂林市",
+    "lng": 110.474645,
+    "lat": 24.809817,
+    "cabinets": 180,
+    "batteries": 0,
+    "online_rate": null,
+    "users": 0,
+    "vehicles": 0,
+    "density": 0,
+    "sites": 66,
+    "avg_cabinet": 2.7,
+    "revenue": 0,
+    "daily_exchanges": 0
+   },
+   {
+    "name": "苏州市",
+    "lng": 120.4233,
+    "lat": 31.335698,
+    "cabinets": 126,
+    "batteries": 0,
+    "online_rate": null,
+    "users": 0,
+    "vehicles": 0,
+    "density": 0,
+    "sites": 7,
+    "avg_cabinet": 18.0,
+    "revenue": 0,
+    "daily_exchanges": 0
+   },
+   {
+    "name": "南宁市",
+    "lng": 108.395299,
+    "lat": 22.83123,
+    "cabinets": 94,
+    "batteries": 0,
+    "online_rate": null,
+    "users": 0,
+    "vehicles": 0,
+    "density": 0,
+    "sites": 2,
+    "avg_cabinet": 47.0,
+    "revenue": 0,
+    "daily_exchanges": 0
+   },
+   {
+    "name": "天津城区",
+    "lng": 117.35543,
+    "lat": 39.197563,
+    "cabinets": 48,
+    "batteries": 0,
+    "online_rate": null,
+    "users": 0,
+    "vehicles": 0,
+    "density": 0,
+    "sites": 145,
+    "avg_cabinet": 0.3,
+    "revenue": 0,
+    "daily_exchanges": 0
+   },
+   {
+    "name": "南通市",
+    "lng": 120.874058,
+    "lat": 32.016496,
+    "cabinets": 43,
+    "batteries": 0,
+    "online_rate": null,
+    "users": 0,
+    "vehicles": 0,
+    "density": 0,
+    "sites": 4,
+    "avg_cabinet": 10.8,
+    "revenue": 0,
+    "daily_exchanges": 0
+   },
+   {
+    "name": "金华市",
+    "lng": 119.641545,
+    "lat": 29.076081,
+    "cabinets": 16,
+    "batteries": 0,
+    "online_rate": null,
+    "users": 0,
+    "vehicles": 0,
+    "density": 0,
+    "sites": 12,
+    "avg_cabinet": 1.3,
+    "revenue": 0,
+    "daily_exchanges": 0
+   },
+   {
+    "name": "太原市",
+    "lng": 112.266089,
+    "lat": 37.752615,
+    "cabinets": 14,
+    "batteries": 0,
+    "online_rate": null,
+    "users": 0,
+    "vehicles": 0,
+    "density": 0,
+    "sites": 0,
+    "avg_cabinet": 14.0,
+    "revenue": 0,
+    "daily_exchanges": 0
+   },
+   {
+    "name": "宁波市",
+    "lng": 121.470297,
+    "lat": 29.755091,
+    "cabinets": 11,
+    "batteries": 0,
+    "online_rate": null,
+    "users": 0,
+    "vehicles": 0,
+    "density": 0,
+    "sites": 138,
+    "avg_cabinet": 0.1,
+    "revenue": 0,
+    "daily_exchanges": 0
+   },
+   {
+    "name": "洛阳市",
+    "lng": 114.930905,
+    "lat": 23.937221,
+    "cabinets": 6,
+    "batteries": 0,
+    "online_rate": null,
+    "users": 0,
+    "vehicles": 0,
+    "density": 0,
+    "sites": 0,
+    "avg_cabinet": 6.0,
+    "revenue": 0,
+    "daily_exchanges": 0
+   },
+   {
+    "name": "济南市",
+    "lng": 117.029873,
+    "lat": 36.641484,
+    "cabinets": 4,
+    "batteries": 0,
+    "online_rate": null,
+    "users": 0,
+    "vehicles": 0,
+    "density": 0,
+    "sites": 4,
+    "avg_cabinet": 1.0,
+    "revenue": 0,
+    "daily_exchanges": 0
+   },
+   {
+    "name": "广州市",
+    "lng": 113.36015,
+    "lat": 23.099391,
+    "cabinets": 3,
+    "batteries": 0,
+    "online_rate": null,
+    "users": 0,
+    "vehicles": 0,
+    "density": 0,
+    "sites": 8,
+    "avg_cabinet": 0.4,
+    "revenue": 0,
+    "daily_exchanges": 0
+   },
+   {
+    "name": "福州市",
+    "lng": 119.724044,
+    "lat": 28.230758,
+    "cabinets": 2,
+    "batteries": 0,
+    "online_rate": null,
+    "users": 0,
+    "vehicles": 0,
+    "density": 0,
+    "sites": 12,
+    "avg_cabinet": 0.2,
+    "revenue": 0,
+    "daily_exchanges": 0
+   },
+   {
+    "name": "肇庆市",
+    "lng": 113.98091,
+    "lat": 22.567659,
+    "cabinets": 2,
+    "batteries": 0,
+    "online_rate": null,
+    "users": 0,
+    "vehicles": 0,
+    "density": 0,
+    "sites": 0,
+    "avg_cabinet": 2.0,
+    "revenue": 0,
+    "daily_exchanges": 0
+   },
+   {
+    "name": "泉州市",
+    "lng": 118.194856,
+    "lat": 25.063243,
+    "cabinets": 1,
+    "batteries": 0,
+    "online_rate": null,
+    "users": 0,
+    "vehicles": 0,
+    "density": 0,
+    "sites": 1,
+    "avg_cabinet": 1.0,
+    "revenue": 0,
+    "daily_exchanges": 0
+   }
+  ]
+ },
+ "details": {
+  "bike_rides": [],
+  "orders": [
+   {
+    "id": 112308111370861,
+    "time": "2023-08-11 02:36:41",
+    "city": "杭州市",
+    "site": "如海生活超市-雅居乐店",
+    "type": "换电",
+    "amount": 0.4,
+    "power": 480,
+    "expend_power": 40,
+    "mileage": 0,
+    "status": "success"
+   },
+   {
+    "id": 112308111370860,
+    "time": "2023-08-11 02:23:10",
+    "city": "杭州市",
+    "site": "华美超市-钱塘新语店",
+    "type": "换电",
+    "amount": 0.13,
+    "power": 156,
+    "expend_power": 13,
+    "mileage": 0,
+    "status": "success"
+   },
+   {
+    "id": 112308111370859,
+    "time": "2023-08-11 02:08:52",
+    "city": "深圳市",
+    "site": "台铃电动车-华荣路333号",
+    "type": "换电",
+    "amount": 0.95,
+    "power": 1140,
+    "expend_power": 95,
+    "mileage": 0,
+    "status": "success"
+   },
+   {
+    "id": 112308111370858,
+    "time": "2023-08-11 02:07:02",
+    "city": "杭州市",
+    "site": "房先森-潘水南苑店",
+    "type": "换电",
+    "amount": 0.56,
+    "power": 672,
+    "expend_power": 56,
+    "mileage": 0,
+    "status": "success"
+   },
+   {
+    "id": 112308111370857,
+    "time": "2023-08-11 01:59:46",
+    "city": "杭州市",
+    "site": "绿源-星河路65-4号",
+    "type": "换电",
+    "amount": 0.45,
+    "power": 540,
+    "expend_power": 45,
+    "mileage": 0,
+    "status": "success"
+   },
+   {
+    "id": 112308111370856,
+    "time": "2023-08-11 01:52:39",
+    "city": "杭州市",
+    "site": "爱玛-政法街33号",
+    "type": "换电",
+    "amount": 0.25,
+    "power": 300,
+    "expend_power": 25,
+    "mileage": 0,
+    "status": "success"
+   },
+   {
+    "id": 112308111370855,
+    "time": "2023-08-11 01:26:52",
+    "city": "深圳市",
+    "site": "老罗电动车维修店-白石厦社区",
+    "type": "换电",
+    "amount": 0.68,
+    "power": 544,
+    "expend_power": 68,
+    "mileage": 0,
+    "status": "success"
+   },
+   {
+    "id": 112308111370854,
+    "time": "2023-08-11 01:23:58",
+    "city": "深圳市",
+    "site": "小炜车行",
+    "type": "换电",
+    "amount": 0.89,
+    "power": 1068,
+    "expend_power": 89,
+    "mileage": 0,
+    "status": "success"
+   },
+   {
+    "id": 112308111370853,
+    "time": "2023-08-11 01:23:46",
+    "city": "杭州市",
+    "site": "如海生活超市-雅居乐店",
+    "type": "换电",
+    "amount": 0.22,
+    "power": 780,
+    "expend_power": 65,
+    "mileage": 0,
+    "status": "success"
+   },
+   {
+    "id": 112308111370852,
+    "time": "2023-08-11 01:23:46",
+    "city": "深圳市",
+    "site": "雅迪电动车-三间仔",
+    "type": "换电",
+    "amount": 0.69,
+    "power": 552,
+    "expend_power": 69,
+    "mileage": 0,
+    "status": "success"
+   },
+   {
+    "id": 112308111370851,
+    "time": "2023-08-11 01:23:40",
+    "city": "杭州市",
+    "site": "乐购自选商场-雪海路店",
+    "type": "换电",
+    "amount": 0.14,
+    "power": 168,
+    "expend_power": 14,
+    "mileage": 3148,
+    "status": "success"
+   },
+   {
+    "id": 112308111370850,
+    "time": "2023-08-11 01:23:36",
+    "city": "杭州市",
+    "site": "瓜山未来社区农贸市场-正门换电站",
+    "type": "换电",
+    "amount": 0.89,
+    "power": 1068,
+    "expend_power": 89,
+    "mileage": 0,
+    "status": "success"
+   },
+   {
+    "id": 112308111370849,
+    "time": "2023-08-11 01:23:28",
+    "city": "深圳市",
+    "site": "顺景金箭车行-新沙路",
+    "type": "换电",
+    "amount": 0.97,
+    "power": 776,
+    "expend_power": 97,
+    "mileage": 0,
+    "status": "success"
+   },
+   {
+    "id": 112308111370848,
+    "time": "2023-08-11 01:23:24",
+    "city": "杭州市",
+    "site": "新蕾电动车-文苑风情店",
+    "type": "换电",
+    "amount": 0.7,
+    "power": 840,
+    "expend_power": 70,
+    "mileage": 0,
+    "status": "success"
+   },
+   {
+    "id": 112308111370847,
+    "time": "2023-08-11 01:23:00",
+    "city": "深圳市",
+    "site": "爱玛电动车-华宁路20号",
+    "type": "换电",
+    "amount": 1.0,
+    "power": 1200,
+    "expend_power": 100,
+    "mileage": 0,
+    "status": "success"
+   },
+   {
+    "id": 112308111370846,
+    "time": "2023-08-11 01:22:32",
+    "city": "杭州市",
+    "site": "雅迪-枣园弄91号",
+    "type": "换电",
+    "amount": 0.6,
+    "power": 720,
+    "expend_power": 60,
+    "mileage": 0,
+    "status": "success"
+   },
+   {
+    "id": 112308111370845,
+    "time": "2023-08-11 01:22:06",
+    "city": "杭州市",
+    "site": "嘉嘉购生活超市–大和宿舍店",
+    "type": "换电",
+    "amount": 0.3,
+    "power": 360,
+    "expend_power": 30,
+    "mileage": 0,
+    "status": "success"
+   },
+   {
+    "id": 112308111370844,
+    "time": "2023-08-11 01:21:55",
+    "city": "深圳市",
+    "site": "台铃电动车-沙企社区丰平路",
+    "type": "换电",
+    "amount": 1.0,
+    "power": 800,
+    "expend_power": 100,
+    "mileage": 0,
+    "status": "success"
+   },
+   {
+    "id": 112308111370843,
+    "time": "2023-08-11 01:21:42",
+    "city": "杭州市",
+    "site": "哈啰-凤起路386号店",
+    "type": "换电",
+    "amount": 0.87,
+    "power": 1044,
+    "expend_power": 87,
+    "mileage": 0,
+    "status": "success"
+   },
+   {
+    "id": 112308111370842,
+    "time": "2023-08-11 01:21:25",
+    "city": "杭州市",
+    "site": "新大洲-颜三路店",
+    "type": "换电",
+    "amount": 0.77,
+    "power": 924,
+    "expend_power": 77,
+    "mileage": 0,
+    "status": "success"
+   },
+   {
+    "id": 112308111370841,
+    "time": "2023-08-11 01:20:37",
+    "city": "杭州市",
+    "site": "一凡便利店-秋涛路店",
+    "type": "换电",
+    "amount": 0.2,
+    "power": 888,
+    "expend_power": 74,
+    "mileage": 0,
+    "status": "success"
+   },
+   {
+    "id": 112308111370840,
+    "time": "2023-08-11 01:20:24",
+    "city": "杭州市",
+    "site": "雅迪-枣园弄91号",
+    "type": "换电",
+    "amount": 0.31,
+    "power": 372,
+    "expend_power": 31,
+    "mileage": 0,
+    "status": "success"
+   },
+   {
+    "id": 112308111370839,
+    "time": "2023-08-11 01:19:53",
+    "city": "杭州市",
+    "site": "电动车帆基驿站-南大街35号",
+    "type": "换电",
+    "amount": 0.25,
+    "power": 864,
+    "expend_power": 72,
+    "mileage": 0,
+    "status": "success"
+   },
+   {
+    "id": 112308111370838,
+    "time": "2023-08-11 01:19:31",
+    "city": "杭州市",
+    "site": "刀茅巷农贸市场–北门换电站",
+    "type": "换电",
+    "amount": 0.03,
+    "power": 1200,
+    "expend_power": 100,
+    "mileage": 0,
+    "status": "success"
+   },
+   {
+    "id": 112308111370837,
+    "time": "2023-08-11 01:19:12",
+    "city": "杭州市",
+    "site": "铁岭花园二期-停车场换电站",
+    "type": "换电",
+    "amount": 0.25,
+    "power": 1056,
+    "expend_power": 88,
+    "mileage": 0,
+    "status": "success"
+   },
+   {
+    "id": 112308111370836,
+    "time": "2023-08-11 01:18:40",
+    "city": "杭州市",
+    "site": "银都大厦-德胜路377号",
+    "type": "换电",
+    "amount": 0.47,
+    "power": 564,
+    "expend_power": 47,
+    "mileage": 0,
+    "status": "success"
+   },
+   {
+    "id": 112308111370835,
+    "time": "2023-08-11 01:15:52",
+    "city": "杭州市",
+    "site": "爱玛-政法街33号",
+    "type": "换电",
+    "amount": 0.94,
+    "power": 1128,
+    "expend_power": 94,
+    "mileage": 0,
+    "status": "success"
+   },
+   {
+    "id": 112308111370834,
+    "time": "2023-08-11 01:13:59",
+    "city": "深圳市",
+    "site": "沙井学府花园",
+    "type": "换电",
+    "amount": 1.0,
+    "power": 800,
+    "expend_power": 100,
+    "mileage": 0,
+    "status": "success"
+   },
+   {
+    "id": 112308111370833,
+    "time": "2023-08-11 01:13:37",
+    "city": "杭州市",
+    "site": "爱玛-旺杨街2号",
+    "type": "换电",
+    "amount": 0.0,
+    "power": 0,
+    "expend_power": 0,
+    "mileage": 0,
+    "status": "success"
+   },
+   {
+    "id": 112308111370832,
+    "time": "2023-08-11 01:11:45",
+    "city": "杭州市",
+    "site": "小刀电动车-华景街店",
+    "type": "换电",
+    "amount": 0.71,
+    "power": 852,
+    "expend_power": 71,
+    "mileage": 0,
+    "status": "success"
+   },
+   {
+    "id": 112308111370831,
+    "time": "2023-08-11 01:11:30",
+    "city": "杭州市",
+    "site": "滨兴家园–滨和路2015号",
+    "type": "换电",
+    "amount": 0.76,
+    "power": 912,
+    "expend_power": 76,
+    "mileage": 0,
+    "status": "success"
+   },
+   {
+    "id": 112308111370830,
+    "time": "2023-08-11 01:11:22",
+    "city": "杭州市",
+    "site": "爱玛-旺杨街2号",
+    "type": "换电",
+    "amount": 0.6,
+    "power": 720,
+    "expend_power": 60,
+    "mileage": 13,
+    "status": "success"
+   },
+   {
+    "id": 112308111370829,
+    "time": "2023-08-11 01:11:11",
+    "city": "杭州市",
+    "site": "绿源-钱农东路128号",
+    "type": "换电",
+    "amount": 0.6,
+    "power": 996,
+    "expend_power": 83,
+    "mileage": 0,
+    "status": "success"
+   },
+   {
+    "id": 112308111370828,
+    "time": "2023-08-11 01:11:07",
+    "city": "杭州市",
+    "site": "常宏长二农贸市场-正门换电站",
+    "type": "换电",
+    "amount": 0.68,
+    "power": 816,
+    "expend_power": 68,
+    "mileage": 0,
+    "status": "success"
+   },
+   {
+    "id": 112308111370827,
+    "time": "2023-08-11 01:07:39",
+    "city": "杭州市",
+    "site": "圆娥副食品店-新华村店",
+    "type": "换电",
+    "amount": 0.51,
+    "power": 612,
+    "expend_power": 51,
+    "mileage": 0,
+    "status": "success"
+   },
+   {
+    "id": 112308111370826,
+    "time": "2023-08-11 01:06:16",
+    "city": "杭州市",
+    "site": "东港嘉苑三区底商29号",
+    "type": "换电",
+    "amount": 0.12,
+    "power": 972,
+    "expend_power": 81,
+    "mileage": 0,
+    "status": "success"
+   },
+   {
+    "id": 112308111370825,
+    "time": "2023-08-11 01:06:13",
+    "city": "杭州市",
+    "site": "绿源电动车-杭机路",
+    "type": "换电",
+    "amount": 0.31,
+    "power": 372,
+    "expend_power": 31,
+    "mileage": 0,
+    "status": "success"
+   },
+   {
+    "id": 112308111370824,
+    "time": "2023-08-11 01:05:27",
+    "city": "杭州市",
+    "site": "畈里童公寓-正门换电站",
+    "type": "换电",
+    "amount": 0.89,
+    "power": 1068,
+    "expend_power": 89,
+    "mileage": 0,
+    "status": "success"
+   },
+   {
+    "id": 112308111370823,
+    "time": "2023-08-11 01:05:25",
+    "city": "杭州市",
+    "site": "五堡悦荣湾东区-东门换电站",
+    "type": "换电",
+    "amount": 0.93,
+    "power": 1116,
+    "expend_power": 93,
+    "mileage": 0,
+    "status": "success"
+   },
+   {
+    "id": 112308111370821,
+    "time": "2023-08-11 01:05:08",
+    "city": "杭州市",
+    "site": "美华洗衣–益乐路7号",
+    "type": "换电",
+    "amount": 0.81,
+    "power": 972,
+    "expend_power": 81,
+    "mileage": 0,
+    "status": "success"
+   },
+   {
+    "id": 112308111370820,
+    "time": "2023-08-11 01:04:57",
+    "city": "深圳市",
+    "site": "富通好旺角",
+    "type": "换电",
+    "amount": 0.64,
+    "power": 512,
+    "expend_power": 64,
+    "mileage": 0,
+    "status": "success"
+   },
+   {
+    "id": 112308111370819,
+    "time": "2023-08-11 01:04:44",
+    "city": "杭州市",
+    "site": "城隍牌楼巷-南1门换电站",
+    "type": "换电",
+    "amount": 0.1,
+    "power": 900,
+    "expend_power": 75,
+    "mileage": 0,
+    "status": "success"
+   },
+   {
+    "id": 112308111370818,
+    "time": "2023-08-11 01:04:22",
+    "city": "深圳市",
+    "site": "台铃电动车-五和永香路",
+    "type": "换电",
+    "amount": 0.47,
+    "power": 564,
+    "expend_power": 47,
+    "mileage": 0,
+    "status": "success"
+   },
+   {
+    "id": 112308111370817,
+    "time": "2023-08-11 01:04:06",
+    "city": "杭州市",
+    "site": "邦家公寓-商贸路",
+    "type": "换电",
+    "amount": 0.81,
+    "power": 972,
+    "expend_power": 81,
+    "mileage": 0,
+    "status": "success"
+   },
+   {
+    "id": 112308111370816,
+    "time": "2023-08-11 01:02:56",
+    "city": "杭州市",
+    "site": "爱玛-丰庆路253号",
+    "type": "换电",
+    "amount": 0.94,
+    "power": 1128,
+    "expend_power": 94,
+    "mileage": 0,
+    "status": "success"
+   },
+   {
+    "id": 112308111370814,
+    "time": "2023-08-11 01:02:41",
+    "city": "杭州市",
+    "site": "益家干洗店-新桥路30号",
+    "type": "换电",
+    "amount": 0.62,
+    "power": 744,
+    "expend_power": 62,
+    "mileage": 0,
+    "status": "success"
+   },
+   {
+    "id": 112308111370813,
+    "time": "2023-08-11 01:02:19",
+    "city": "深圳市",
+    "site": "明视眼镜-桥头地铁站",
+    "type": "换电",
+    "amount": 0.87,
+    "power": 696,
+    "expend_power": 87,
+    "mileage": 0,
+    "status": "success"
+   },
+   {
+    "id": 112308111370812,
+    "time": "2023-08-11 01:01:25",
+    "city": "杭州市",
+    "site": "老王便利店-莫邪塘东村店",
+    "type": "换电",
+    "amount": 0.9,
+    "power": 1080,
+    "expend_power": 90,
+    "mileage": 0,
+    "status": "success"
+   },
+   {
+    "id": 112308111370811,
+    "time": "2023-08-11 01:00:41",
+    "city": "杭州市",
+    "site": "世纪嘉园-正门换电站",
+    "type": "换电",
+    "amount": 0.43,
+    "power": 516,
+    "expend_power": 43,
+    "mileage": 0,
+    "status": "success"
+   },
+   {
+    "id": 112308111370810,
+    "time": "2023-08-11 01:00:20",
+    "city": "杭州市",
+    "site": "绿佳-余昌路店",
+    "type": "换电",
+    "amount": 0.62,
+    "power": 744,
+    "expend_power": 62,
+    "mileage": 0,
+    "status": "success"
+   },
+   {
+    "id": 112308111370809,
+    "time": "2023-08-11 01:00:02",
+    "city": "深圳市",
+    "site": "雅迪电动车店-荔园路",
+    "type": "换电",
+    "amount": 0.42,
+    "power": 336,
+    "expend_power": 42,
+    "mileage": 0,
+    "status": "success"
+   },
+   {
+    "id": 112308111370806,
+    "time": "2023-08-11 00:59:15",
+    "city": "深圳市",
+    "site": "金箭电动车-大水坑路",
+    "type": "换电",
+    "amount": 0.0,
+    "power": 0,
+    "expend_power": 0,
+    "mileage": 0,
+    "status": "success"
+   },
+   {
+    "id": 112308111370805,
+    "time": "2023-08-11 00:58:38",
+    "city": "杭州市",
+    "site": "鲶鱼浜社区–20号换电站",
+    "type": "换电",
+    "amount": 0.45,
+    "power": 540,
+    "expend_power": 45,
+    "mileage": 0,
+    "status": "success"
+   },
+   {
+    "id": 112308111370804,
+    "time": "2023-08-11 00:58:34",
+    "city": "杭州市",
+    "site": "骑幻出行-滨江绿香街",
+    "type": "换电",
+    "amount": 0.18,
+    "power": 864,
+    "expend_power": 72,
+    "mileage": 0,
+    "status": "success"
+   },
+   {
+    "id": 112308111370802,
+    "time": "2023-08-11 00:58:25",
+    "city": "深圳市",
+    "site": "民治爱玛换电站",
+    "type": "换电",
+    "amount": 0.68,
+    "power": 816,
+    "expend_power": 68,
+    "mileage": 0,
+    "status": "success"
+   },
+   {
+    "id": 112308111370801,
+    "time": "2023-08-11 00:58:13",
+    "city": "杭州市",
+    "site": "五星钻豹-金沙学府69号",
+    "type": "换电",
+    "amount": 0.21,
+    "power": 252,
+    "expend_power": 21,
+    "mileage": 0,
+    "status": "success"
+   },
+   {
+    "id": 112308111370800,
+    "time": "2023-08-11 00:57:48",
+    "city": "杭州市",
+    "site": "良吉鸿府–金庄路",
+    "type": "换电",
+    "amount": 0.67,
+    "power": 804,
+    "expend_power": 67,
+    "mileage": 0,
+    "status": "success"
+   },
+   {
+    "id": 112308111370799,
+    "time": "2023-08-11 00:57:35",
+    "city": "深圳市",
+    "site": "上寮三区72-74-充电棚",
+    "type": "换电",
+    "amount": 0.94,
+    "power": 752,
+    "expend_power": 94,
+    "mileage": 0,
+    "status": "success"
+   },
+   {
+    "id": 112308111370798,
+    "time": "2023-08-11 00:57:34",
+    "city": "杭州市",
+    "site": "万融城-6幢换电站",
+    "type": "换电",
+    "amount": 0.03,
+    "power": 936,
+    "expend_power": 78,
+    "mileage": 0,
+    "status": "success"
+   },
+   {
+    "id": 112308111370797,
+    "time": "2023-08-11 00:57:18",
+    "city": "杭州市",
+    "site": "衣百分共享洗烘中心-益乐新村北苑店",
+    "type": "换电",
+    "amount": 0.54,
+    "power": 648,
+    "expend_power": 54,
+    "mileage": 0,
+    "status": "success"
+   }
+  ],
+  "users": [
+   {
+    "id": 2609353860,
+    "phone_tail": "7641",
+    "name": "嘟嘟_fjksjjoc",
+    "city": "杭州市",
+    "status": "on",
+    "owner_bike": "--",
+    "activate_date": "2026-09-17"
+   },
+   {
+    "id": 2609353859,
+    "phone_tail": "2131",
+    "name": "嘟嘟_nvyn1pb5",
+    "city": "深圳市",
+    "status": "on",
+    "owner_bike": "--",
+    "activate_date": "2026-09-17"
+   },
+   {
+    "id": 2609353858,
+    "phone_tail": "9927",
+    "name": "嘟嘟_gop4ihcj",
+    "city": "深圳市",
+    "status": "on",
+    "owner_bike": "--",
+    "activate_date": "2026-09-17"
+   },
+   {
+    "id": 2609353857,
+    "phone_tail": "2836",
+    "name": "嘟嘟_be9n4e76",
+    "city": "深圳市",
+    "status": "on",
+    "owner_bike": "--",
+    "activate_date": "2026-09-17"
+   },
+   {
+    "id": 2609353856,
+    "phone_tail": "6017",
+    "name": "葫芦_9bzm4ety",
+    "city": "天津城区",
+    "status": "on",
+    "owner_bike": "--",
+    "activate_date": "2026-09-17"
+   },
+   {
+    "id": 2609353855,
+    "phone_tail": "3215",
+    "name": "嘟嘟_juoumu1j",
+    "city": "深圳市",
+    "status": "on",
+    "owner_bike": "--",
+    "activate_date": "2026-09-17"
+   },
+   {
+    "id": 2609353854,
+    "phone_tail": "1140",
+    "name": "嘟嘟_h5xc17p2",
+    "city": "--",
+    "status": "on",
+    "owner_bike": "--",
+    "activate_date": "2026-09-17"
+   },
+   {
+    "id": 2609353853,
+    "phone_tail": "6961",
+    "name": "嘟嘟_eahqv9om",
+    "city": "深圳市",
+    "status": "on",
+    "owner_bike": "--",
+    "activate_date": "2026-09-17"
+   },
+   {
+    "id": 2609353852,
+    "phone_tail": "4005",
+    "name": "嘟嘟_p79cqqbu",
+    "city": "--",
+    "status": "on",
+    "owner_bike": "--",
+    "activate_date": "2026-09-17"
+   },
+   {
+    "id": 2609353851,
+    "phone_tail": "0442",
+    "name": "嘟嘟_6ofuphcw",
+    "city": "--",
+    "status": "on",
+    "owner_bike": "--",
+    "activate_date": "2026-09-17"
+   },
+   {
+    "id": 2609353850,
+    "phone_tail": "9533",
+    "name": "嘟嘟_1ekwbr93",
+    "city": "--",
+    "status": "on",
+    "owner_bike": "--",
+    "activate_date": "2026-09-17"
+   },
+   {
+    "id": 2609353849,
+    "phone_tail": "4385",
+    "name": "嘟嘟_490by4px",
+    "city": "--",
+    "status": "on",
+    "owner_bike": "--",
+    "activate_date": "2026-09-17"
+   },
+   {
+    "id": 2609353848,
+    "phone_tail": "0955",
+    "name": "嘟嘟_wvkcend9",
+    "city": "--",
+    "status": "on",
+    "owner_bike": "--",
+    "activate_date": "2026-09-17"
+   },
+   {
+    "id": 2609353847,
+    "phone_tail": "4738",
+    "name": "嘟嘟_79vwt4nv",
+    "city": "桂林市",
+    "status": "on",
+    "owner_bike": "--",
+    "activate_date": "2026-09-17"
+   },
+   {
+    "id": 2609353846,
+    "phone_tail": "0690",
+    "name": "嘟嘟_oehujvyx",
+    "city": "--",
+    "status": "on",
+    "owner_bike": "--",
+    "activate_date": "2026-09-17"
+   },
+   {
+    "id": 2609353845,
+    "phone_tail": "4114",
+    "name": "嘟嘟_3zytlpbm",
+    "city": "--",
+    "status": "on",
+    "owner_bike": "--",
+    "activate_date": "2026-09-17"
+   },
+   {
+    "id": 2609353844,
+    "phone_tail": "3526",
+    "name": "嘟嘟_qejdngra",
+    "city": "--",
+    "status": "on",
+    "owner_bike": "--",
+    "activate_date": "2026-09-17"
+   },
+   {
+    "id": 2609353843,
+    "phone_tail": "5808",
+    "name": "嘟嘟_dicigr8c",
+    "city": "深圳市",
+    "status": "on",
+    "owner_bike": "--",
+    "activate_date": "2026-09-17"
+   },
+   {
+    "id": 2609353842,
+    "phone_tail": "1671",
+    "name": "葫芦_zim2m0yn",
+    "city": "--",
+    "status": "on",
+    "owner_bike": "--",
+    "activate_date": "2026-09-17"
+   },
+   {
+    "id": 2609353841,
+    "phone_tail": "2253",
+    "name": "嘟嘟_tckhqru0",
+    "city": "--",
+    "status": "on",
+    "owner_bike": "--",
+    "activate_date": "2026-09-17"
+   },
+   {
+    "id": 2609353840,
+    "phone_tail": "5410",
+    "name": "嘟嘟_m52xce9h",
+    "city": "深圳市",
+    "status": "on",
+    "owner_bike": "--",
+    "activate_date": "2026-09-17"
+   },
+   {
+    "id": 2609353839,
+    "phone_tail": "2193",
+    "name": "葫芦_4c331t29",
+    "city": "天津城区",
+    "status": "on",
+    "owner_bike": "--",
+    "activate_date": "2026-09-17"
+   },
+   {
+    "id": 2609353838,
+    "phone_tail": "5575",
+    "name": "嘟嘟_24h2nwwc",
+    "city": "--",
+    "status": "on",
+    "owner_bike": "--",
+    "activate_date": "2026-09-17"
+   },
+   {
+    "id": 2609353837,
+    "phone_tail": "2126",
+    "name": "嘟嘟_fyb485rp",
+    "city": "--",
+    "status": "on",
+    "owner_bike": "--",
+    "activate_date": "2026-09-17"
+   },
+   {
+    "id": 2609353836,
+    "phone_tail": "5488",
+    "name": "嘟嘟_roq6uo4w",
+    "city": "--",
+    "status": "on",
+    "owner_bike": "--",
+    "activate_date": "2026-09-17"
+   },
+   {
+    "id": 2609353835,
+    "phone_tail": "4043",
+    "name": "嘟嘟_440el1da",
+    "city": "--",
+    "status": "on",
+    "owner_bike": "--",
+    "activate_date": "2026-09-17"
+   },
+   {
+    "id": 2609353834,
+    "phone_tail": "4143",
+    "name": "葫芦_v6qq9otc",
+    "city": "--",
+    "status": "on",
+    "owner_bike": "--",
+    "activate_date": "2026-09-17"
+   },
+   {
+    "id": 2609353833,
+    "phone_tail": "9182",
+    "name": "嘟嘟_f3a3whpt",
+    "city": "--",
+    "status": "on",
+    "owner_bike": "--",
+    "activate_date": "2026-09-17"
+   },
+   {
+    "id": 2609353832,
+    "phone_tail": "6313",
+    "name": "嘟嘟_q65dkzxi",
+    "city": "--",
+    "status": "on",
+    "owner_bike": "--",
+    "activate_date": "2026-09-17"
+   },
+   {
+    "id": 2609353831,
+    "phone_tail": "4570",
+    "name": "嘟嘟_rme5h947",
+    "city": "--",
+    "status": "on",
+    "owner_bike": "--",
+    "activate_date": "2026-09-17"
+   },
+   {
+    "id": 2609353830,
+    "phone_tail": "7081",
+    "name": "嘟嘟_l141wayr",
+    "city": "深圳市",
+    "status": "on",
+    "owner_bike": "--",
+    "activate_date": "2026-09-17"
+   },
+   {
+    "id": 2609353829,
+    "phone_tail": "9561",
+    "name": "嘟嘟_16pcwkjp",
+    "city": "--",
+    "status": "on",
+    "owner_bike": "--",
+    "activate_date": "2026-09-17"
+   },
+   {
+    "id": 2609353828,
+    "phone_tail": "3762",
+    "name": "嘟嘟_0ojva0q5",
+    "city": "--",
+    "status": "on",
+    "owner_bike": "--",
+    "activate_date": "2026-09-17"
+   },
+   {
+    "id": 2609353827,
+    "phone_tail": "9867",
+    "name": "嘟嘟_y2bp4hrg",
+    "city": "--",
+    "status": "on",
+    "owner_bike": "--",
+    "activate_date": "2026-09-17"
+   },
+   {
+    "id": 2609353826,
+    "phone_tail": "5157",
+    "name": "嘟嘟_baidd0ey",
+    "city": "杭州市",
+    "status": "on",
+    "owner_bike": "--",
+    "activate_date": "2026-09-17"
+   },
+   {
+    "id": 2609353825,
+    "phone_tail": "1516",
+    "name": "嘟嘟_5w3x9pkp",
+    "city": "杭州市",
+    "status": "on",
+    "owner_bike": "--",
+    "activate_date": "2026-09-17"
+   },
+   {
+    "id": 2609353824,
+    "phone_tail": "3579",
+    "name": "嘟嘟_2cf39o9o",
+    "city": "杭州市",
+    "status": "on",
+    "owner_bike": "--",
+    "activate_date": "2026-09-17"
+   },
+   {
+    "id": 2609353823,
+    "phone_tail": "5701",
+    "name": "嘟嘟_npd19pq1",
+    "city": "--",
+    "status": "on",
+    "owner_bike": "--",
+    "activate_date": "2026-09-17"
+   },
+   {
+    "id": 2609353822,
+    "phone_tail": "4524",
+    "name": "嘟嘟_zfg8l862",
+    "city": "--",
+    "status": "on",
+    "owner_bike": "--",
+    "activate_date": "2026-09-17"
+   },
+   {
+    "id": 2609353821,
+    "phone_tail": "2628",
+    "name": "Never ",
+    "city": "深圳市",
+    "status": "on",
+    "owner_bike": "--",
+    "activate_date": "2026-09-17"
+   },
+   {
+    "id": 2609353820,
+    "phone_tail": "1923",
+    "name": "嘟嘟_k262akzc",
+    "city": "深圳市",
+    "status": "on",
+    "owner_bike": "--",
+    "activate_date": "2026-09-17"
+   },
+   {
+    "id": 2609353819,
+    "phone_tail": "9872",
+    "name": "嘟嘟_8ae5jtne",
+    "city": "桂林市",
+    "status": "on",
+    "owner_bike": "--",
+    "activate_date": "2026-09-17"
+   },
+   {
+    "id": 2609353818,
+    "phone_tail": "6757",
+    "name": "葫芦_q0akfil4",
+    "city": "--",
+    "status": "on",
+    "owner_bike": "--",
+    "activate_date": "2026-09-17"
+   },
+   {
+    "id": 2609353817,
+    "phone_tail": "7319",
+    "name": "嘟嘟_tykfmuh8",
+    "city": "深圳市",
+    "status": "on",
+    "owner_bike": "--",
+    "activate_date": "2026-09-17"
+   },
+   {
+    "id": 2609353816,
+    "phone_tail": "1130",
+    "name": "嘟嘟_ctef1t39",
+    "city": "杭州市",
+    "status": "on",
+    "owner_bike": "--",
+    "activate_date": "2026-09-17"
+   },
+   {
+    "id": 2609353815,
+    "phone_tail": "6610",
+    "name": "嘟嘟_lxg0gnfu",
+    "city": "杭州市",
+    "status": "on",
+    "owner_bike": "--",
+    "activate_date": "2026-09-17"
+   },
+   {
+    "id": 2609353814,
+    "phone_tail": "9232",
+    "name": "葫芦_twin4l9z",
+    "city": "天津城区",
+    "status": "on",
+    "owner_bike": "--",
+    "activate_date": "2026-09-17"
+   },
+   {
+    "id": 2609353813,
+    "phone_tail": "0685",
+    "name": "嘟嘟_3h6fnlgw",
+    "city": "--",
+    "status": "on",
+    "owner_bike": "--",
+    "activate_date": "2026-09-17"
+   },
+   {
+    "id": 2609353812,
+    "phone_tail": "4024",
+    "name": "嘟嘟_6d094hae",
+    "city": "--",
+    "status": "on",
+    "owner_bike": "--",
+    "activate_date": "2026-09-17"
+   },
+   {
+    "id": 2609353811,
+    "phone_tail": "1055",
+    "name": "葫芦_goxe05ox",
+    "city": "--",
+    "status": "on",
+    "owner_bike": "--",
+    "activate_date": "2026-09-17"
+   },
+   {
+    "id": 2609353810,
+    "phone_tail": "0787",
+    "name": "嘟嘟_xupz5r7z",
+    "city": "--",
+    "status": "on",
+    "owner_bike": "--",
+    "activate_date": "2026-09-17"
+   },
+   {
+    "id": 2609353809,
+    "phone_tail": "5356",
+    "name": "嘟嘟_at6uyhdy",
+    "city": "--",
+    "status": "on",
+    "owner_bike": "--",
+    "activate_date": "2026-09-17"
+   },
+   {
+    "id": 2609353808,
+    "phone_tail": "3940",
+    "name": "智换_p8pczti7",
+    "city": "苏州市",
+    "status": "on",
+    "owner_bike": "--",
+    "activate_date": "2026-09-17"
+   },
+   {
+    "id": 2609353807,
+    "phone_tail": "6704",
+    "name": "嘟嘟_bv2hyzw1",
+    "city": "深圳市",
+    "status": "on",
+    "owner_bike": "--",
+    "activate_date": "2026-09-17"
+   },
+   {
+    "id": 2609353806,
+    "phone_tail": "0820",
+    "name": "嘟嘟_pk1b62f4",
+    "city": "--",
+    "status": "on",
+    "owner_bike": "--",
+    "activate_date": "2026-09-17"
+   },
+   {
+    "id": 2609353805,
+    "phone_tail": "4265",
+    "name": "--",
+    "city": "--",
+    "status": "on",
+    "owner_bike": "--",
+    "activate_date": "2026-09-17"
+   },
+   {
+    "id": 2609353804,
+    "phone_tail": "2464",
+    "name": "葫芦_dnst8iug",
+    "city": "天津市",
+    "status": "on",
+    "owner_bike": "--",
+    "activate_date": "2026-09-17"
+   },
+   {
+    "id": 2609353803,
+    "phone_tail": "3862",
+    "name": "嘟嘟_b0d89ty9",
+    "city": "--",
+    "status": "on",
+    "owner_bike": "--",
+    "activate_date": "2026-09-17"
+   },
+   {
+    "id": 2609353802,
+    "phone_tail": "0776",
+    "name": "嘟嘟_3fxvula9",
+    "city": "杭州市",
+    "status": "on",
+    "owner_bike": "--",
+    "activate_date": "2026-09-17"
+   },
+   {
+    "id": 2609353801,
+    "phone_tail": "3553",
+    "name": "--",
+    "city": "--",
+    "status": "on",
+    "owner_bike": "--",
+    "activate_date": "2026-09-17"
+   }
+  ],
+  "sites": [
+   {
+    "id": 26097168,
+    "name": "参展演示",
+    "city": "天津城区",
+    "type": "type-1",
+    "status": "on",
+    "lng": 117.375848,
+    "lat": 39.024286,
+    "open_time": "2026-09-16"
+   },
+   {
+    "id": 26097166,
+    "name": "宝熊荘4814",
+    "city": "桂林市",
+    "type": "type-1",
+    "status": "on",
+    "lng": 110.515929,
+    "lat": 24.917814,
+    "open_time": "2026-09-14"
+   },
+   {
+    "id": 26097165,
+    "name": "宝熊茌",
+    "city": "桂林市",
+    "type": "type-1",
+    "status": "on",
+    "lng": 110.516075,
+    "lat": 24.918035,
+    "open_time": "2026-09-14"
+   },
+   {
+    "id": 26097162,
+    "name": "漓岸风光",
+    "city": "桂林市",
+    "type": "type-1",
+    "status": "on",
+    "lng": 110.503475,
+    "lat": 24.927286,
+    "open_time": "2026-09-14"
+   },
+   {
+    "id": 26097161,
+    "name": "山谷酒店",
+    "city": "桂林市",
+    "type": "type-1",
+    "status": "on",
+    "lng": 110.494093,
+    "lat": 24.925108,
+    "open_time": "2026-09-12"
+   },
+   {
+    "id": 26097160,
+    "name": "拾光呆住精品民宿",
+    "city": "桂林市",
+    "type": "type-1",
+    "status": "on",
+    "lng": 110.506243,
+    "lat": 24.927103,
+    "open_time": "2026-09-12"
+   },
+   {
+    "id": 26097158,
+    "name": "银信科技园",
+    "city": "深圳市",
+    "type": "type-1",
+    "status": "on",
+    "lng": 114.229211,
+    "lat": 22.649173,
+    "open_time": "2026-09-12"
+   },
+   {
+    "id": 26097156,
+    "name": "西湖工业区",
+    "city": "深圳市",
+    "type": "type-1",
+    "status": "on",
+    "lng": 114.215046,
+    "lat": 22.614802,
+    "open_time": "2026-09-12"
+   },
+   {
+    "id": 26097151,
+    "name": "宁河区芦台街道华翠公园垃圾转运站右侧柜子",
+    "city": "天津城区",
+    "type": "type-1",
+    "status": "on",
+    "lng": 117.808285,
+    "lat": 39.316229,
+    "open_time": "2026-09-07"
+   },
+   {
+    "id": 26097150,
+    "name": "小飞民宿对面（14）",
+    "city": "桂林市",
+    "type": "type-1",
+    "status": "on",
+    "lng": 110.382353,
+    "lat": 24.829648,
+    "open_time": "2026-09-06"
+   },
+   {
+    "id": 26097149,
+    "name": "兴坪古镇喜柿民宿（24）",
+    "city": "桂林市",
+    "type": "type-1",
+    "status": "on",
+    "lng": 110.494614,
+    "lat": 24.925694,
+    "open_time": "2026-09-03"
+   },
+   {
+    "id": 26097147,
+    "name": "久栖林涧小栈度假酒店（24）",
+    "city": "桂林市",
+    "type": "type-1",
+    "status": "on",
+    "lng": 110.448101,
+    "lat": 24.76313,
+    "open_time": "2026-09-02"
+   },
+   {
+    "id": 26087136,
+    "name": "安家楼村南入口处",
+    "city": "北京城区",
+    "type": "type-1",
+    "status": "on",
+    "lng": 116.469948,
+    "lat": 39.954621,
+    "open_time": "2026-08-29"
+   },
+   {
+    "id": 26087127,
+    "name": "遇龙村（24）",
+    "city": "桂林市",
+    "type": "type-1",
+    "status": "on",
+    "lng": 110.400873,
+    "lat": 24.814282,
+    "open_time": "2026-08-20"
+   },
+   {
+    "id": 26087128,
+    "name": "遇龙村（14）",
+    "city": "桂林市",
+    "type": "type-1",
+    "status": "on",
+    "lng": 110.400683,
+    "lat": 24.814207,
+    "open_time": "2026-08-20"
+   },
+   {
+    "id": 26087124,
+    "name": "宁河区桥北街道大杨道垃圾转运站12仓",
+    "city": "天津城区",
+    "type": "type-1",
+    "status": "on",
+    "lng": 117.790116,
+    "lat": 39.337878,
+    "open_time": "2026-08-14"
+   },
+   {
+    "id": 26087113,
+    "name": "兴坪希尔顿酒店（24）",
+    "city": "桂林市",
+    "type": "type-1",
+    "status": "on",
+    "lng": 110.528947,
+    "lat": 24.920908,
+    "open_time": "2026-08-04"
+   },
+   {
+    "id": 26087114,
+    "name": "兴坪希尔顿酒店（14）",
+    "city": "桂林市",
+    "type": "type-1",
+    "status": "on",
+    "lng": 110.528947,
+    "lat": 24.920908,
+    "open_time": "2026-08-04"
+   },
+   {
+    "id": 26077095,
+    "name": "北山如家停车场-换电2站",
+    "city": "杭州市",
+    "type": "type-1",
+    "status": "on",
+    "lng": 120.147168,
+    "lat": 30.26358,
+    "open_time": "2026-08-04"
+   },
+   {
+    "id": 26087109,
+    "name": "山屿美庐（24）",
+    "city": "桂林市",
+    "type": "type-1",
+    "status": "on",
+    "lng": 110.486617,
+    "lat": 24.760862,
+    "open_time": "2026-08-02"
+   },
+   {
+    "id": 26077107,
+    "name": "观景度假酒店（24）",
+    "city": "桂林市",
+    "type": "type-1",
+    "status": "on",
+    "lng": 110.434557,
+    "lat": 24.775527,
+    "open_time": "2026-07-30"
+   },
+   {
+    "id": 26077105,
+    "name": "宁河区芦台街道建国垃圾转运站",
+    "city": "天津城区",
+    "type": "type-1",
+    "status": "on",
+    "lng": 117.806907,
+    "lat": 39.322088,
+    "open_time": "2026-07-29"
+   },
+   {
+    "id": 26077104,
+    "name": "宁河区芦台街道火车站垃圾转运站",
+    "city": "天津城区",
+    "type": "type-1",
+    "status": "on",
+    "lng": 117.837201,
+    "lat": 39.325827,
+    "open_time": "2026-07-29"
+   },
+   {
+    "id": 26077103,
+    "name": "宁河区桥北街道滨水西路垃圾转运站",
+    "city": "天津城区",
+    "type": "type-1",
+    "status": "on",
+    "lng": 117.802452,
+    "lat": 39.345179,
+    "open_time": "2026-07-29"
+   },
+   {
+    "id": 26077100,
+    "name": "金源景舍（24）",
+    "city": "桂林市",
+    "type": "type-1",
+    "status": "on",
+    "lng": 110.390987,
+    "lat": 24.820007,
+    "open_time": "2026-07-28"
+   },
+   {
+    "id": 26077101,
+    "name": "金源农家饭（14）",
+    "city": "桂林市",
+    "type": "type-1",
+    "status": "on",
+    "lng": 110.390987,
+    "lat": 24.820007,
+    "open_time": "2026-07-28"
+   },
+   {
+    "id": 26077099,
+    "name": "宁河区芦台街道永盛道垃圾转运站",
+    "city": "天津城区",
+    "type": "type-1",
+    "status": "on",
+    "lng": 117.813415,
+    "lat": 39.321075,
+    "open_time": "2026-07-27"
+   },
+   {
+    "id": 26077098,
+    "name": "凤唐山河酒店（24）",
+    "city": "桂林市",
+    "type": "type-1",
+    "status": "on",
+    "lng": 110.470228,
+    "lat": 24.738807,
+    "open_time": "2026-07-27"
+   },
+   {
+    "id": 26077097,
+    "name": "宁河区芦台街道永康道垃圾转运站",
+    "city": "天津城区",
+    "type": "type-1",
+    "status": "on",
+    "lng": 117.813043,
+    "lat": 39.327537,
+    "open_time": "2026-07-27"
+   },
+   {
+    "id": 26077096,
+    "name": "宁河区芦台街道沿河路垃圾转运站",
+    "city": "天津城区",
+    "type": "type-1",
+    "status": "on",
+    "lng": 117.811313,
+    "lat": 39.329722,
+    "open_time": "2026-07-27"
+   },
+   {
+    "id": 26077094,
+    "name": "山水间旅拍(14)",
+    "city": "桂林市",
+    "type": "type-1",
+    "status": "on",
+    "lng": 110.500305,
+    "lat": 24.776392,
+    "open_time": "2026-07-25"
+   },
+   {
+    "id": 26077093,
+    "name": "山水间旅拍(24)",
+    "city": "桂林市",
+    "type": "type-1",
+    "status": "on",
+    "lng": 110.500461,
+    "lat": 24.77627,
+    "open_time": "2026-07-25"
+   },
+   {
+    "id": 26077092,
+    "name": "柳苑超市-南山路换电站",
+    "city": "杭州市",
+    "type": "type-1",
+    "status": "on",
+    "lng": 120.156137,
+    "lat": 30.249927,
+    "open_time": "2026-07-23"
+   },
+   {
+    "id": 26077072,
+    "name": "科之艺钢印工业园",
+    "city": "深圳市",
+    "type": "type-1",
+    "status": "on",
+    "lng": 113.856975,
+    "lat": 22.77172,
+    "open_time": "2026-07-21"
+   },
+   {
+    "id": 26077084,
+    "name": "光明外国语学校",
+    "city": "深圳市",
+    "type": "type-1",
+    "status": "on",
+    "lng": 113.951881,
+    "lat": 22.732909,
+    "open_time": "2026-07-21"
+   },
+   {
+    "id": 26077064,
+    "name": "初见，美宿（24）",
+    "city": "桂林市",
+    "type": "type-1",
+    "status": "on",
+    "lng": 110.472417,
+    "lat": 24.77217,
+    "open_time": "2026-07-19"
+   },
+   {
+    "id": 26077087,
+    "name": "十里八乡停车场路口（24）",
+    "city": "桂林市",
+    "type": "type-1",
+    "status": "on",
+    "lng": 110.487233,
+    "lat": 24.758469,
+    "open_time": "2026-07-19"
+   },
+   {
+    "id": 26077075,
+    "name": "德景山庄（24）",
+    "city": "桂林市",
+    "type": "type-1",
+    "status": "on",
+    "lng": 110.49526,
+    "lat": 24.793738,
+    "open_time": "2026-07-17"
+   },
+   {
+    "id": 26077081,
+    "name": "白沙逸龙苑（24）",
+    "city": "桂林市",
+    "type": "type-1",
+    "status": "on",
+    "lng": 110.400293,
+    "lat": 24.812786,
+    "open_time": "2026-07-17"
+   },
+   {
+    "id": 26067051,
+    "name": "福利鑫达石材（24）",
+    "city": "桂林市",
+    "type": "type-1",
+    "status": "on",
+    "lng": 110.548498,
+    "lat": 24.788561,
+    "open_time": "2026-07-16"
+   },
+   {
+    "id": 26067052,
+    "name": "福利鑫达石材（14）",
+    "city": "桂林市",
+    "type": "type-1",
+    "status": "on",
+    "lng": 110.548468,
+    "lat": 24.788606,
+    "open_time": "2026-07-16"
+   },
+   {
+    "id": 26067042,
+    "name": "海鑫光停车场旁-便民换电站",
+    "city": "深圳市",
+    "type": "type-1",
+    "status": "on",
+    "lng": 113.945708,
+    "lat": 22.790494,
+    "open_time": "2026-07-16"
+   },
+   {
+    "id": 26077071,
+    "name": "小飞民宿对面（24）",
+    "city": "桂林市",
+    "type": "type-1",
+    "status": "on",
+    "lng": 110.382437,
+    "lat": 24.829507,
+    "open_time": "2026-07-14"
+   },
+   {
+    "id": 26067046,
+    "name": "相公山小马服务点（14）",
+    "city": "桂林市",
+    "type": "type-1",
+    "status": "on",
+    "lng": 110.411847,
+    "lat": 24.925792,
+    "open_time": "2026-07-13"
+   },
+   {
+    "id": 26067045,
+    "name": "相公山小马服务点（24）",
+    "city": "桂林市",
+    "type": "type-1",
+    "status": "on",
+    "lng": 110.411907,
+    "lat": 24.925848,
+    "open_time": "2026-07-13"
+   },
+   {
+    "id": 26077078,
+    "name": "镜子山酒店（24）",
+    "city": "桂林市",
+    "type": "type-1",
+    "status": "on",
+    "lng": 110.502236,
+    "lat": 24.766113,
+    "open_time": "2026-07-12"
+   },
+   {
+    "id": 26077077,
+    "name": "地中海酒店（14）",
+    "city": "桂林市",
+    "type": "type-1",
+    "status": "on",
+    "lng": 110.473576,
+    "lat": 24.78123,
+    "open_time": "2026-07-11"
+   },
+   {
+    "id": 26077074,
+    "name": "乌布换电站（24）",
+    "city": "桂林市",
+    "type": "type-1",
+    "status": "on",
+    "lng": 110.485062,
+    "lat": 24.766595,
+    "open_time": "2026-07-10"
+   },
+   {
+    "id": 26077073,
+    "name": "乌布换电站（14）",
+    "city": "桂林市",
+    "type": "type-1",
+    "status": "on",
+    "lng": 110.484962,
+    "lat": 24.766511,
+    "open_time": "2026-07-10"
+   },
+   {
+    "id": 26077061,
+    "name": "万运酒店（24）",
+    "city": "桂林市",
+    "type": "type-1",
+    "status": "on",
+    "lng": 110.502372,
+    "lat": 24.767173,
+    "open_time": "2026-07-07"
+   },
+   {
+    "id": 26077070,
+    "name": "宁河区桥北街道大杨道垃圾转运站",
+    "city": "天津城区",
+    "type": "type-1",
+    "status": "on",
+    "lng": 117.790116,
+    "lat": 39.337878,
+    "open_time": "2026-07-06"
+   },
+   {
+    "id": 26077069,
+    "name": "宁河区芦台街道朝阳路垃圾转运站",
+    "city": "天津城区",
+    "type": "type-1",
+    "status": "on",
+    "lng": 117.821718,
+    "lat": 39.320457,
+    "open_time": "2026-07-06"
+   },
+   {
+    "id": 26077068,
+    "name": "宁河区芦台街道华翠公园垃圾转运站左侧柜子",
+    "city": "天津城区",
+    "type": "type-1",
+    "status": "on",
+    "lng": 117.808285,
+    "lat": 39.316229,
+    "open_time": "2026-07-06"
+   },
+   {
+    "id": 26077067,
+    "name": "宁河区芦台街道建设路垃圾转运站",
+    "city": "天津城区",
+    "type": "type-1",
+    "status": "on",
+    "lng": 117.818167,
+    "lat": 39.332059,
+    "open_time": "2026-07-06"
+   },
+   {
+    "id": 26077066,
+    "name": "嘟嘟运营中心后门（14）",
+    "city": "桂林市",
+    "type": "type-1",
+    "status": "on",
+    "lng": 110.48607,
+    "lat": 24.768188,
+    "open_time": "2026-07-05"
+   },
+   {
+    "id": 26046819,
+    "name": "星辉大厦便民换电站",
+    "city": "深圳市",
+    "type": "type-1",
+    "status": "on",
+    "lng": 113.828139,
+    "lat": 22.722708,
+    "open_time": "2026-07-03"
+   },
+   {
+    "id": 26077063,
+    "name": "兴坪闲云居度假酒店（24）",
+    "city": "桂林市",
+    "type": "type-1",
+    "status": "on",
+    "lng": 110.507727,
+    "lat": 24.91804,
+    "open_time": "2026-07-02"
+   },
+   {
+    "id": 26077062,
+    "name": "阳朔县古石城送水站（24）",
+    "city": "桂林市",
+    "type": "type-1",
+    "status": "on",
+    "lng": 110.419973,
+    "lat": 24.916641,
+    "open_time": "2026-07-02"
+   },
+   {
+    "id": 26066983,
+    "name": "壆岗便民换电站",
+    "city": "深圳市",
+    "type": "type-1",
+    "status": "on",
+    "lng": 113.812848,
+    "lat": 22.7313,
+    "open_time": "2026-07-02"
+   },
+   {
+    "id": 26077060,
+    "name": "阳朔白沙音乐村民宿（24）",
+    "city": "桂林市",
+    "type": "type-1",
+    "status": "on",
+    "lng": 110.398474,
+    "lat": 24.812012,
+    "open_time": "2026-07-01"
+   }
+  ],
+  "batteries": [
+   {
+    "id": 230879428,
+    "sn": "PB****c1a4",
+    "model": "其他",
+    "status": "充电中",
+    "soc": "61",
+    "cycles": "120",
+    "voltage": "--",
+    "temperature": "--",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:10"
+   },
+   {
+    "id": 221238707,
+    "sn": "PB****31f0",
+    "model": "4814",
+    "status": "充电中",
+    "soc": "94",
+    "cycles": "359",
+    "voltage": "--",
+    "temperature": "--",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:10"
+   },
+   {
+    "id": 221241653,
+    "sn": "BA****794b",
+    "model": "其他",
+    "status": "待机",
+    "soc": "82",
+    "cycles": "15",
+    "voltage": "--",
+    "temperature": "--",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:10"
+   },
+   {
+    "id": 221242705,
+    "sn": "BA****266a",
+    "model": "其他",
+    "status": "待机",
+    "soc": "100",
+    "cycles": "27",
+    "voltage": "--",
+    "temperature": "--",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:10"
+   },
+   {
+    "id": 221135679,
+    "sn": "PB****1072",
+    "model": "其他",
+    "status": "充电中",
+    "soc": "75",
+    "cycles": "350",
+    "voltage": "--",
+    "temperature": "--",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:10"
+   },
+   {
+    "id": 230876714,
+    "sn": "PB****746b",
+    "model": "其他",
+    "status": "充电中",
+    "soc": "67",
+    "cycles": "146",
+    "voltage": "--",
+    "temperature": "--",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:10"
+   },
+   {
+    "id": 221239028,
+    "sn": "PB****4055",
+    "model": "4814",
+    "status": "充电中",
+    "soc": "49",
+    "cycles": "320",
+    "voltage": "--",
+    "temperature": "--",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:10"
+   },
+   {
+    "id": 230671761,
+    "sn": "PB****75df",
+    "model": "其他",
+    "status": "充电中",
+    "soc": "100",
+    "cycles": "274",
+    "voltage": "--",
+    "temperature": "--",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:10"
+   },
+   {
+    "id": 230563122,
+    "sn": "PB****50af",
+    "model": "其他",
+    "status": "充电中",
+    "soc": "35",
+    "cycles": "297",
+    "voltage": "--",
+    "temperature": "--",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:10"
+   },
+   {
+    "id": 221238105,
+    "sn": "PB****22b8",
+    "model": "4814",
+    "status": "充电中",
+    "soc": "61",
+    "cycles": "371",
+    "voltage": "--",
+    "temperature": "--",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:10"
+   },
+   {
+    "id": 250888903,
+    "sn": "DU****6c77",
+    "model": "其他",
+    "status": "充电中",
+    "soc": "31",
+    "cycles": "39",
+    "voltage": "--",
+    "temperature": "--",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:10"
+   },
+   {
+    "id": 260594589,
+    "sn": "HL****cd5d",
+    "model": "其他",
+    "status": "充电中",
+    "soc": "100",
+    "cycles": "8",
+    "voltage": "--",
+    "temperature": "--",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:10"
+   },
+   {
+    "id": 221240472,
+    "sn": "BA****faff",
+    "model": "其他",
+    "status": "待机",
+    "soc": "100",
+    "cycles": "16",
+    "voltage": "--",
+    "temperature": "--",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:09"
+   },
+   {
+    "id": 250587310,
+    "sn": "PB****70a4",
+    "model": "其他",
+    "status": "充电中",
+    "soc": "94",
+    "cycles": "81",
+    "voltage": "--",
+    "temperature": "--",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:09"
+   },
+   {
+    "id": 230562288,
+    "sn": "PB****b741",
+    "model": "其他",
+    "status": "充电中",
+    "soc": "85",
+    "cycles": "160",
+    "voltage": "--",
+    "temperature": "--",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:09"
+   },
+   {
+    "id": 251192675,
+    "sn": "PB****c5bb",
+    "model": "其他",
+    "status": "充电中",
+    "soc": "92",
+    "cycles": "62",
+    "voltage": "--",
+    "temperature": "--",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:09"
+   },
+   {
+    "id": 230350003,
+    "sn": "PB****0d07",
+    "model": "4824",
+    "status": "充电中",
+    "soc": "47",
+    "cycles": "362",
+    "voltage": "--",
+    "temperature": "--",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:09"
+   },
+   {
+    "id": 260193556,
+    "sn": "PB****e9fd",
+    "model": "其他",
+    "status": "充电中",
+    "soc": "26",
+    "cycles": "63",
+    "voltage": "--",
+    "temperature": "--",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:09"
+   },
+   {
+    "id": 230876067,
+    "sn": "PB****86f2",
+    "model": "其他",
+    "status": "充电中",
+    "soc": "69",
+    "cycles": "226",
+    "voltage": "--",
+    "temperature": "--",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:09"
+   },
+   {
+    "id": 230563607,
+    "sn": "PB****1f95",
+    "model": "其他",
+    "status": "充电中",
+    "soc": "100",
+    "cycles": "223",
+    "voltage": "--",
+    "temperature": "--",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:09"
+   },
+   {
+    "id": 230669209,
+    "sn": "PB****ccc9",
+    "model": "其他",
+    "status": "充电中",
+    "soc": "34",
+    "cycles": "307",
+    "voltage": "--",
+    "temperature": "--",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:09"
+   },
+   {
+    "id": 221242584,
+    "sn": "BA****a075",
+    "model": "其他",
+    "status": "待机",
+    "soc": "100",
+    "cycles": "26",
+    "voltage": "--",
+    "temperature": "--",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:09"
+   },
+   {
+    "id": 230561225,
+    "sn": "PB****b354",
+    "model": "其他",
+    "status": "充电中",
+    "soc": "64",
+    "cycles": "110",
+    "voltage": "--",
+    "temperature": "--",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:09"
+   },
+   {
+    "id": 221136252,
+    "sn": "BA****e8e3",
+    "model": "其他",
+    "status": "待机",
+    "soc": "100",
+    "cycles": "30",
+    "voltage": "--",
+    "temperature": "--",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:09"
+   },
+   {
+    "id": 220621324,
+    "sn": "BA****897f",
+    "model": "其他",
+    "status": "待机",
+    "soc": "83",
+    "cycles": "20",
+    "voltage": "--",
+    "temperature": "--",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:09"
+   },
+   {
+    "id": 230669087,
+    "sn": "PB****98b1",
+    "model": "其他",
+    "status": "充电中",
+    "soc": "95",
+    "cycles": "116",
+    "voltage": "--",
+    "temperature": "--",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:09"
+   },
+   {
+    "id": 230562606,
+    "sn": "PB****497c",
+    "model": "其他",
+    "status": "充电中",
+    "soc": "79",
+    "cycles": "142",
+    "voltage": "--",
+    "temperature": "--",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:09"
+   },
+   {
+    "id": 230347244,
+    "sn": "PB****8b2c",
+    "model": "4824",
+    "status": "充电中",
+    "soc": "13",
+    "cycles": "355",
+    "voltage": "--",
+    "temperature": "--",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:09"
+   },
+   {
+    "id": 230561026,
+    "sn": "PB****10d6",
+    "model": "其他",
+    "status": "充电中",
+    "soc": "52",
+    "cycles": "347",
+    "voltage": "--",
+    "temperature": "--",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:09"
+   },
+   {
+    "id": 230670401,
+    "sn": "PB****b9cb",
+    "model": "其他",
+    "status": "充电中",
+    "soc": "71",
+    "cycles": "317",
+    "voltage": "--",
+    "temperature": "--",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:09"
+   },
+   {
+    "id": 230670047,
+    "sn": "PB****c7a6",
+    "model": "其他",
+    "status": "充电中",
+    "soc": "94",
+    "cycles": "248",
+    "voltage": "--",
+    "temperature": "--",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:09"
+   },
+   {
+    "id": 250282358,
+    "sn": "DU****05dd",
+    "model": "其他",
+    "status": "充电中",
+    "soc": "31",
+    "cycles": "41",
+    "voltage": "--",
+    "temperature": "--",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:09"
+   },
+   {
+    "id": 221241666,
+    "sn": "BA****ba04",
+    "model": "其他",
+    "status": "待机",
+    "soc": "0",
+    "cycles": "35",
+    "voltage": "--",
+    "temperature": "--",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:09"
+   },
+   {
+    "id": 230562821,
+    "sn": "PB****944f",
+    "model": "其他",
+    "status": "充电中",
+    "soc": "81",
+    "cycles": "184",
+    "voltage": "--",
+    "temperature": "--",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:09"
+   },
+   {
+    "id": 230876861,
+    "sn": "PB****cc44",
+    "model": "其他",
+    "status": "充电中",
+    "soc": "89",
+    "cycles": "173",
+    "voltage": "--",
+    "temperature": "--",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:09"
+   },
+   {
+    "id": 250585776,
+    "sn": "DU****e70a",
+    "model": "其他",
+    "status": "充电中",
+    "soc": "99",
+    "cycles": "69",
+    "voltage": "--",
+    "temperature": "--",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:09"
+   },
+   {
+    "id": 230347240,
+    "sn": "PB****481e",
+    "model": "4824",
+    "status": "充电中",
+    "soc": "62",
+    "cycles": "320",
+    "voltage": "--",
+    "temperature": "--",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:09"
+   },
+   {
+    "id": 230876999,
+    "sn": "PB****e59b",
+    "model": "其他",
+    "status": "充电中",
+    "soc": "89",
+    "cycles": "144",
+    "voltage": "--",
+    "temperature": "--",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:09"
+   },
+   {
+    "id": 221237603,
+    "sn": "PB****2e0f",
+    "model": "4814",
+    "status": "充电中",
+    "soc": "100",
+    "cycles": "331",
+    "voltage": "--",
+    "temperature": "--",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:09"
+   },
+   {
+    "id": 250687883,
+    "sn": "DU****0a59",
+    "model": "其他",
+    "status": "充电中",
+    "soc": "71",
+    "cycles": "94",
+    "voltage": "--",
+    "temperature": "--",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:09"
+   },
+   {
+    "id": 250889354,
+    "sn": "DU****f96f",
+    "model": "其他",
+    "status": "充电中",
+    "soc": "52",
+    "cycles": "54",
+    "voltage": "--",
+    "temperature": "--",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:09"
+   },
+   {
+    "id": 221241762,
+    "sn": "BA****5e4a",
+    "model": "其他",
+    "status": "待机",
+    "soc": "100",
+    "cycles": "33",
+    "voltage": "--",
+    "temperature": "--",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:09"
+   },
+   {
+    "id": 230561067,
+    "sn": "PB****0947",
+    "model": "其他",
+    "status": "充电中",
+    "soc": "6",
+    "cycles": "335",
+    "voltage": "--",
+    "temperature": "--",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:09"
+   },
+   {
+    "id": 251192728,
+    "sn": "PB****4815",
+    "model": "其他",
+    "status": "充电中",
+    "soc": "74",
+    "cycles": "72",
+    "voltage": "--",
+    "temperature": "--",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:09"
+   },
+   {
+    "id": 250384166,
+    "sn": "PB****b136",
+    "model": "其他",
+    "status": "充电中",
+    "soc": "76",
+    "cycles": "137",
+    "voltage": "--",
+    "temperature": "--",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:09"
+   },
+   {
+    "id": 250182190,
+    "sn": "DU****5ed1",
+    "model": "其他",
+    "status": "充电中",
+    "soc": "81",
+    "cycles": "76",
+    "voltage": "--",
+    "temperature": "--",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:09"
+   },
+   {
+    "id": 230670542,
+    "sn": "PB****797d",
+    "model": "其他",
+    "status": "充电中",
+    "soc": "87",
+    "cycles": "307",
+    "voltage": "--",
+    "temperature": "--",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:08"
+   },
+   {
+    "id": 230561829,
+    "sn": "PB****7ff7",
+    "model": "其他",
+    "status": "充电中",
+    "soc": "95",
+    "cycles": "163",
+    "voltage": "--",
+    "temperature": "--",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:08"
+   },
+   {
+    "id": 221135512,
+    "sn": "PB****cc4d",
+    "model": "其他",
+    "status": "充电中",
+    "soc": "58",
+    "cycles": "346",
+    "voltage": "--",
+    "temperature": "--",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:08"
+   },
+   {
+    "id": 230561028,
+    "sn": "PB****86a2",
+    "model": "其他",
+    "status": "充电中",
+    "soc": "100",
+    "cycles": "270",
+    "voltage": "--",
+    "temperature": "--",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:08"
+   },
+   {
+    "id": 230876702,
+    "sn": "PB****f41f",
+    "model": "其他",
+    "status": "充电中",
+    "soc": "25",
+    "cycles": "169",
+    "voltage": "--",
+    "temperature": "--",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:08"
+   },
+   {
+    "id": 221239538,
+    "sn": "PB****2488",
+    "model": "4814",
+    "status": "充电中",
+    "soc": "40",
+    "cycles": "345",
+    "voltage": "--",
+    "temperature": "--",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:08"
+   },
+   {
+    "id": 221136435,
+    "sn": "BA****ae47",
+    "model": "其他",
+    "status": "待机",
+    "soc": "79",
+    "cycles": "15",
+    "voltage": "--",
+    "temperature": "--",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:08"
+   },
+   {
+    "id": 230879421,
+    "sn": "PB****deb7",
+    "model": "其他",
+    "status": "充电中",
+    "soc": "69",
+    "cycles": "145",
+    "voltage": "--",
+    "temperature": "--",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:08"
+   },
+   {
+    "id": 250688266,
+    "sn": "DU****963c",
+    "model": "其他",
+    "status": "充电中",
+    "soc": "35",
+    "cycles": "83",
+    "voltage": "--",
+    "temperature": "--",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:08"
+   },
+   {
+    "id": 230670033,
+    "sn": "PB****4eee",
+    "model": "其他",
+    "status": "充电中",
+    "soc": "84",
+    "cycles": "325",
+    "voltage": "--",
+    "temperature": "--",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:08"
+   },
+   {
+    "id": 230561604,
+    "sn": "PB****c6de",
+    "model": "其他",
+    "status": "充电中",
+    "soc": "38",
+    "cycles": "263",
+    "voltage": "--",
+    "temperature": "--",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:08"
+   },
+   {
+    "id": 230353368,
+    "sn": "PB****8902",
+    "model": "4824",
+    "status": "充电中",
+    "soc": "33",
+    "cycles": "328",
+    "voltage": "--",
+    "temperature": "--",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:08"
+   },
+   {
+    "id": 221241035,
+    "sn": "BA****7fee",
+    "model": "其他",
+    "status": "待机",
+    "soc": "29",
+    "cycles": "16",
+    "voltage": "--",
+    "temperature": "--",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:08"
+   },
+   {
+    "id": 221034605,
+    "sn": "BA****be7d",
+    "model": "其他",
+    "status": "待机",
+    "soc": "91",
+    "cycles": "47",
+    "voltage": "--",
+    "temperature": "--",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:08"
+   }
+  ],
+  "battery_cycles": [
+   {
+    "battery_id": 230562769,
+    "sn": "PB****2136",
+    "model": "其他",
+    "soc": "83",
+    "cycles": "221",
+    "soh": "96",
+    "update_time": "2026-09-17 15:12:10"
+   },
+   {
+    "battery_id": 221237648,
+    "sn": "PB****07ca",
+    "model": "4814",
+    "soc": "28",
+    "cycles": "305",
+    "soh": "100",
+    "update_time": "2026-09-17 15:12:10"
+   },
+   {
+    "battery_id": 230670840,
+    "sn": "PB****bf54",
+    "model": "其他",
+    "soc": "99",
+    "cycles": "294",
+    "soh": "94",
+    "update_time": "2026-09-17 15:12:10"
+   },
+   {
+    "battery_id": 230352566,
+    "sn": "PB****6dab",
+    "model": "4824",
+    "soc": "100",
+    "cycles": "339",
+    "soh": "97",
+    "update_time": "2026-09-17 15:12:10"
+   },
+   {
+    "battery_id": 230350875,
+    "sn": "PB****0534",
+    "model": "4824",
+    "soc": "70",
+    "cycles": "304",
+    "soh": "100",
+    "update_time": "2026-09-17 15:12:10"
+   },
+   {
+    "battery_id": 230669807,
+    "sn": "PB****6a74",
+    "model": "其他",
+    "soc": "100",
+    "cycles": "346",
+    "soh": "95",
+    "update_time": "2026-09-17 15:12:10"
+   },
+   {
+    "battery_id": 221242681,
+    "sn": "BA****c29a",
+    "model": "其他",
+    "soc": "99",
+    "cycles": "29",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:10"
+   },
+   {
+    "battery_id": 230879428,
+    "sn": "PB****c1a4",
+    "model": "其他",
+    "soc": "61",
+    "cycles": "120",
+    "soh": "100",
+    "update_time": "2026-09-17 15:12:10"
+   },
+   {
+    "battery_id": 221135679,
+    "sn": "PB****1072",
+    "model": "其他",
+    "soc": "75",
+    "cycles": "350",
+    "soh": "100",
+    "update_time": "2026-09-17 15:12:10"
+   },
+   {
+    "battery_id": 230876714,
+    "sn": "PB****746b",
+    "model": "其他",
+    "soc": "67",
+    "cycles": "146",
+    "soh": "100",
+    "update_time": "2026-09-17 15:12:10"
+   },
+   {
+    "battery_id": 221239028,
+    "sn": "PB****4055",
+    "model": "4814",
+    "soc": "49",
+    "cycles": "320",
+    "soh": "100",
+    "update_time": "2026-09-17 15:12:10"
+   },
+   {
+    "battery_id": 221242705,
+    "sn": "BA****266a",
+    "model": "其他",
+    "soc": "100",
+    "cycles": "27",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:10"
+   },
+   {
+    "battery_id": 230671761,
+    "sn": "PB****75df",
+    "model": "其他",
+    "soc": "100",
+    "cycles": "274",
+    "soh": "100",
+    "update_time": "2026-09-17 15:12:10"
+   },
+   {
+    "battery_id": 230563122,
+    "sn": "PB****50af",
+    "model": "其他",
+    "soc": "35",
+    "cycles": "297",
+    "soh": "98",
+    "update_time": "2026-09-17 15:12:10"
+   },
+   {
+    "battery_id": 221240472,
+    "sn": "BA****faff",
+    "model": "其他",
+    "soc": "100",
+    "cycles": "16",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:09"
+   },
+   {
+    "battery_id": 230562288,
+    "sn": "PB****b741",
+    "model": "其他",
+    "soc": "85",
+    "cycles": "160",
+    "soh": "100",
+    "update_time": "2026-09-17 15:12:09"
+   },
+   {
+    "battery_id": 250587310,
+    "sn": "PB****70a4",
+    "model": "其他",
+    "soc": "94",
+    "cycles": "81",
+    "soh": "100",
+    "update_time": "2026-09-17 15:12:09"
+   },
+   {
+    "battery_id": 230350003,
+    "sn": "PB****0d07",
+    "model": "4824",
+    "soc": "47",
+    "cycles": "362",
+    "soh": "99",
+    "update_time": "2026-09-17 15:12:09"
+   },
+   {
+    "battery_id": 260193556,
+    "sn": "PB****e9fd",
+    "model": "其他",
+    "soc": "26",
+    "cycles": "63",
+    "soh": "95",
+    "update_time": "2026-09-17 15:12:09"
+   },
+   {
+    "battery_id": 230876067,
+    "sn": "PB****86f2",
+    "model": "其他",
+    "soc": "69",
+    "cycles": "226",
+    "soh": "100",
+    "update_time": "2026-09-17 15:12:09"
+   },
+   {
+    "battery_id": 230563607,
+    "sn": "PB****1f95",
+    "model": "其他",
+    "soc": "100",
+    "cycles": "223",
+    "soh": "96",
+    "update_time": "2026-09-17 15:12:09"
+   },
+   {
+    "battery_id": 230669209,
+    "sn": "PB****ccc9",
+    "model": "其他",
+    "soc": "34",
+    "cycles": "307",
+    "soh": "97",
+    "update_time": "2026-09-17 15:12:09"
+   },
+   {
+    "battery_id": 221242584,
+    "sn": "BA****a075",
+    "model": "其他",
+    "soc": "100",
+    "cycles": "26",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:09"
+   },
+   {
+    "battery_id": 230561225,
+    "sn": "PB****b354",
+    "model": "其他",
+    "soc": "64",
+    "cycles": "110",
+    "soh": "100",
+    "update_time": "2026-09-17 15:12:09"
+   },
+   {
+    "battery_id": 221136252,
+    "sn": "BA****e8e3",
+    "model": "其他",
+    "soc": "100",
+    "cycles": "30",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:09"
+   },
+   {
+    "battery_id": 230562606,
+    "sn": "PB****497c",
+    "model": "其他",
+    "soc": "79",
+    "cycles": "142",
+    "soh": "100",
+    "update_time": "2026-09-17 15:12:09"
+   },
+   {
+    "battery_id": 230669087,
+    "sn": "PB****98b1",
+    "model": "其他",
+    "soc": "95",
+    "cycles": "116",
+    "soh": "100",
+    "update_time": "2026-09-17 15:12:09"
+   },
+   {
+    "battery_id": 230670047,
+    "sn": "PB****c7a6",
+    "model": "其他",
+    "soc": "94",
+    "cycles": "248",
+    "soh": "96",
+    "update_time": "2026-09-17 15:12:09"
+   },
+   {
+    "battery_id": 230562821,
+    "sn": "PB****944f",
+    "model": "其他",
+    "soc": "81",
+    "cycles": "184",
+    "soh": "100",
+    "update_time": "2026-09-17 15:12:09"
+   },
+   {
+    "battery_id": 221241666,
+    "sn": "BA****ba04",
+    "model": "其他",
+    "soc": "0",
+    "cycles": "35",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:09"
+   },
+   {
+    "battery_id": 220621324,
+    "sn": "BA****897f",
+    "model": "其他",
+    "soc": "83",
+    "cycles": "20",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:09"
+   },
+   {
+    "battery_id": 230876861,
+    "sn": "PB****cc44",
+    "model": "其他",
+    "soc": "89",
+    "cycles": "173",
+    "soh": "100",
+    "update_time": "2026-09-17 15:12:09"
+   },
+   {
+    "battery_id": 230347240,
+    "sn": "PB****481e",
+    "model": "4824",
+    "soc": "62",
+    "cycles": "320",
+    "soh": "100",
+    "update_time": "2026-09-17 15:12:09"
+   },
+   {
+    "battery_id": 250585776,
+    "sn": "DU****e70a",
+    "model": "其他",
+    "soc": "99",
+    "cycles": "69",
+    "soh": "100",
+    "update_time": "2026-09-17 15:12:09"
+   },
+   {
+    "battery_id": 230876999,
+    "sn": "PB****e59b",
+    "model": "其他",
+    "soc": "89",
+    "cycles": "144",
+    "soh": "100",
+    "update_time": "2026-09-17 15:12:09"
+   },
+   {
+    "battery_id": 221237603,
+    "sn": "PB****2e0f",
+    "model": "4814",
+    "soc": "100",
+    "cycles": "331",
+    "soh": "100",
+    "update_time": "2026-09-17 15:12:09"
+   },
+   {
+    "battery_id": 230561067,
+    "sn": "PB****0947",
+    "model": "其他",
+    "soc": "6",
+    "cycles": "335",
+    "soh": "99",
+    "update_time": "2026-09-17 15:12:09"
+   },
+   {
+    "battery_id": 250384166,
+    "sn": "PB****b136",
+    "model": "其他",
+    "soc": "76",
+    "cycles": "137",
+    "soh": "100",
+    "update_time": "2026-09-17 15:12:09"
+   },
+   {
+    "battery_id": 251192728,
+    "sn": "PB****4815",
+    "model": "其他",
+    "soc": "74",
+    "cycles": "72",
+    "soh": "100",
+    "update_time": "2026-09-17 15:12:09"
+   },
+   {
+    "battery_id": 230670542,
+    "sn": "PB****797d",
+    "model": "其他",
+    "soc": "87",
+    "cycles": "307",
+    "soh": "92",
+    "update_time": "2026-09-17 15:12:08"
+   },
+   {
+    "battery_id": 230561829,
+    "sn": "PB****7ff7",
+    "model": "其他",
+    "soc": "95",
+    "cycles": "163",
+    "soh": "100",
+    "update_time": "2026-09-17 15:12:08"
+   },
+   {
+    "battery_id": 230561028,
+    "sn": "PB****86a2",
+    "model": "其他",
+    "soc": "100",
+    "cycles": "270",
+    "soh": "100",
+    "update_time": "2026-09-17 15:12:08"
+   },
+   {
+    "battery_id": 230876702,
+    "sn": "PB****f41f",
+    "model": "其他",
+    "soc": "25",
+    "cycles": "169",
+    "soh": "100",
+    "update_time": "2026-09-17 15:12:08"
+   },
+   {
+    "battery_id": 221136435,
+    "sn": "BA****ae47",
+    "model": "其他",
+    "soc": "79",
+    "cycles": "15",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:08"
+   },
+   {
+    "battery_id": 230879421,
+    "sn": "PB****deb7",
+    "model": "其他",
+    "soc": "69",
+    "cycles": "145",
+    "soh": "100",
+    "update_time": "2026-09-17 15:12:08"
+   },
+   {
+    "battery_id": 230561604,
+    "sn": "PB****c6de",
+    "model": "其他",
+    "soc": "38",
+    "cycles": "263",
+    "soh": "100",
+    "update_time": "2026-09-17 15:12:08"
+   },
+   {
+    "battery_id": 230670033,
+    "sn": "PB****4eee",
+    "model": "其他",
+    "soc": "84",
+    "cycles": "325",
+    "soh": "97",
+    "update_time": "2026-09-17 15:12:08"
+   },
+   {
+    "battery_id": 230353368,
+    "sn": "PB****8902",
+    "model": "4824",
+    "soc": "33",
+    "cycles": "328",
+    "soh": "100",
+    "update_time": "2026-09-17 15:12:08"
+   },
+   {
+    "battery_id": 221034605,
+    "sn": "BA****be7d",
+    "model": "其他",
+    "soc": "91",
+    "cycles": "47",
+    "soh": "--",
+    "update_time": "2026-09-17 15:12:08"
+   },
+   {
+    "battery_id": 230349122,
+    "sn": "PB****376b",
+    "model": "4824",
+    "soc": "37",
+    "cycles": "352",
+    "soh": "95",
+    "update_time": "2026-09-17 15:12:08"
+   },
+   {
+    "battery_id": 230351073,
+    "sn": "PB****a1f5",
+    "model": "4824",
+    "soc": "86",
+    "cycles": "282",
+    "soh": "100",
+    "update_time": "2026-09-17 15:12:08"
+   },
+   {
+    "battery_id": 250484231,
+    "sn": "PB****c091",
+    "model": "其他",
+    "soc": "100",
+    "cycles": "115",
+    "soh": "100",
+    "update_time": "2026-09-17 15:12:08"
+   },
+   {
+    "battery_id": 230348573,
+    "sn": "PB****cf29",
+    "model": "4824",
+    "soc": "55",
+    "cycles": "322",
+    "soh": "96",
+    "update_time": "2026-09-17 15:12:08"
+   },
+   {
+    "battery_id": 230879995,
+    "sn": "PB****a325",
+    "model": "其他",
+    "soc": "94",
+    "cycles": "144",
+    "soh": "100",
+    "update_time": "2026-09-17 15:12:08"
+   },
+   {
+    "battery_id": 230349950,
+    "sn": "PB****3a39",
+    "model": "4824",
+    "soc": "26",
+    "cycles": "356",
+    "soh": "100",
+    "update_time": "2026-09-17 15:12:08"
+   },
+   {
+    "battery_id": 230668972,
+    "sn": "PB****c190",
+    "model": "其他",
+    "soc": "99",
+    "cycles": "354",
+    "soh": "94",
+    "update_time": "2026-09-17 15:12:08"
+   },
+   {
+    "battery_id": 230671612,
+    "sn": "PB****c291",
+    "model": "其他",
+    "soc": "100",
+    "cycles": "129",
+    "soh": "100",
+    "update_time": "2026-09-17 15:12:08"
+   },
+   {
+    "battery_id": 221239736,
+    "sn": "PB****4b7b",
+    "model": "4814",
+    "soc": "99",
+    "cycles": "335",
+    "soh": "100",
+    "update_time": "2026-09-17 15:12:08"
+   },
+   {
+    "battery_id": 230672680,
+    "sn": "PB****d9eb",
+    "model": "其他",
+    "soc": "61",
+    "cycles": "227",
+    "soh": "100",
+    "update_time": "2026-09-17 15:12:08"
+   },
+   {
+    "battery_id": 230352362,
+    "sn": "PB****1dc8",
+    "model": "4824",
+    "soc": "77",
+    "cycles": "337",
+    "soh": "100",
+    "update_time": "2026-09-17 15:12:08"
+   }
+  ],
+  "agreements": [
+   {
+    "id": 70026091736089,
+    "user": "Never ",
+    "phone": "195****1754",
+    "battery_product_id": 2310251102,
+    "status": "wait_activate",
+    "activate_date": "--",
+    "stop_date": "--",
+    "create_date": "2026-09-17"
+   },
+   {
+    "id": 70026091736088,
+    "user": "嘟嘟_0j8358xq",
+    "phone": "150****807e",
+    "battery_product_id": 23081001,
+    "status": "wait_activate",
+    "activate_date": "--",
+    "stop_date": "--",
+    "create_date": "2026-09-17"
+   },
+   {
+    "id": 70026091736087,
+    "user": "葫芦_9bzm4ety",
+    "phone": "153****30fd",
+    "battery_product_id": 2510291125,
+    "status": "working",
+    "activate_date": "2026-09-17",
+    "stop_date": "--",
+    "create_date": "2026-09-17"
+   },
+   {
+    "id": 70026091736086,
+    "user": "葫芦_bj9efogs",
+    "phone": "187****3edc",
+    "battery_product_id": 2510291125,
+    "status": "wait_activate",
+    "activate_date": "--",
+    "stop_date": "--",
+    "create_date": "2026-09-17"
+   },
+   {
+    "id": 70026091736085,
+    "user": "嘟嘟_juoumu1j",
+    "phone": "172****0920",
+    "battery_product_id": 23081002,
+    "status": "working",
+    "activate_date": "2026-09-17",
+    "stop_date": "--",
+    "create_date": "2026-09-17"
+   },
+   {
+    "id": 70026091736084,
+    "user": "嘟嘟_p79cqqbu",
+    "phone": "177****0c58",
+    "battery_product_id": 23081002,
+    "status": "wait_activate",
+    "activate_date": "--",
+    "stop_date": "--",
+    "create_date": "2026-09-17"
+   },
+   {
+    "id": 70026091736083,
+    "user": "嘟嘟_cpdgf917",
+    "phone": "183****a7fd",
+    "battery_product_id": 23081001,
+    "status": "wait_activate",
+    "activate_date": "--",
+    "stop_date": "--",
+    "create_date": "2026-09-17"
+   },
+   {
+    "id": 70026091736082,
+    "user": "嘟嘟_iu8de9wa",
+    "phone": "195****e88f",
+    "battery_product_id": 23081002,
+    "status": "wait_activate",
+    "activate_date": "--",
+    "stop_date": "--",
+    "create_date": "2026-09-17"
+   },
+   {
+    "id": 70026091736081,
+    "user": "嘟嘟_bonjnzey",
+    "phone": "181****c286",
+    "battery_product_id": 23081001,
+    "status": "stop",
+    "activate_date": "2026-09-17",
+    "stop_date": "2026-09-17",
+    "create_date": "2026-09-17"
+   },
+   {
+    "id": 70026091736080,
+    "user": "葫芦_4c331t29",
+    "phone": "136****6160",
+    "battery_product_id": 2510291125,
+    "status": "working",
+    "activate_date": "2026-09-17",
+    "stop_date": "--",
+    "create_date": "2026-09-17"
+   },
+   {
+    "id": 70026091736079,
+    "user": "葫芦_rwiqym4c",
+    "phone": "136****44bf",
+    "battery_product_id": 2608271135,
+    "status": "cancelled",
+    "activate_date": "--",
+    "stop_date": "2026-09-17",
+    "create_date": "2026-09-17"
+   },
+   {
+    "id": 70026091736078,
+    "user": "葫芦_1847eyhc",
+    "phone": "158****a478",
+    "battery_product_id": 2608271135,
+    "status": "wait_activate",
+    "activate_date": "--",
+    "stop_date": "--",
+    "create_date": "2026-09-17"
+   },
+   {
+    "id": 70026091736077,
+    "user": "嘟嘟_roq6uo4w",
+    "phone": "180****b5fe",
+    "battery_product_id": 23081001,
+    "status": "wait_activate",
+    "activate_date": "--",
+    "stop_date": "--",
+    "create_date": "2026-09-17"
+   },
+   {
+    "id": 70026091736076,
+    "user": "嘟嘟_f3a3whpt",
+    "phone": "187****fcc8",
+    "battery_product_id": 23081001,
+    "status": "wait_activate",
+    "activate_date": "--",
+    "stop_date": "--",
+    "create_date": "2026-09-17"
+   },
+   {
+    "id": 70026091736075,
+    "user": "嘟嘟_5w3x9pkp",
+    "phone": "135****3899",
+    "battery_product_id": 23081001,
+    "status": "working",
+    "activate_date": "2026-09-17",
+    "stop_date": "--",
+    "create_date": "2026-09-17"
+   },
+   {
+    "id": 70026091736074,
+    "user": "嘟嘟_p3isui66",
+    "phone": "187****3781",
+    "battery_product_id": 23081001,
+    "status": "working",
+    "activate_date": "2026-09-17",
+    "stop_date": "--",
+    "create_date": "2026-09-17"
+   },
+   {
+    "id": 70026091736073,
+    "user": "葫芦_twin4l9z",
+    "phone": "199****52e3",
+    "battery_product_id": 2510291125,
+    "status": "working",
+    "activate_date": "2026-09-17",
+    "stop_date": "--",
+    "create_date": "2026-09-17"
+   },
+   {
+    "id": 70026091736072,
+    "user": "智换_p8pczti7",
+    "phone": "138****ae7e",
+    "battery_product_id": 2508111122,
+    "status": "working",
+    "activate_date": "2026-09-17",
+    "stop_date": "--",
+    "create_date": "2026-09-17"
+   },
+   {
+    "id": 70026091736071,
+    "user": "嘟嘟_14t2ut66",
+    "phone": "187****f974",
+    "battery_product_id": 23081001,
+    "status": "working",
+    "activate_date": "2026-09-17",
+    "stop_date": "--",
+    "create_date": "2026-09-17"
+   },
+   {
+    "id": 70026091736070,
+    "user": "嘟嘟_b0d89ty9",
+    "phone": "187****bffb",
+    "battery_product_id": 23081001,
+    "status": "cancelled",
+    "activate_date": "--",
+    "stop_date": "2026-09-17",
+    "create_date": "2026-09-17"
+   },
+   {
+    "id": 70026091736069,
+    "user": "嘟嘟_zrf4yjwl",
+    "phone": "159****8f51",
+    "battery_product_id": 23081001,
+    "status": "wait_activate",
+    "activate_date": "--",
+    "stop_date": "--",
+    "create_date": "2026-09-17"
+   },
+   {
+    "id": 70026091736068,
+    "user": "嘟嘟_bi1odaji",
+    "phone": "151****1c1d",
+    "battery_product_id": 23081001,
+    "status": "working",
+    "activate_date": "2026-09-17",
+    "stop_date": "--",
+    "create_date": "2026-09-17"
+   },
+   {
+    "id": 70026091736067,
+    "user": "嘟嘟_sg5b3whp",
+    "phone": "156****a172",
+    "battery_product_id": 2310251102,
+    "status": "stop",
+    "activate_date": "2026-09-17",
+    "stop_date": "2026-09-17",
+    "create_date": "2026-09-17"
+   },
+   {
+    "id": 70026091736066,
+    "user": "葫芦_ri18rqc9",
+    "phone": "155****1771",
+    "battery_product_id": 2510291125,
+    "status": "wait_activate",
+    "activate_date": "--",
+    "stop_date": "--",
+    "create_date": "2026-09-17"
+   },
+   {
+    "id": 70026091736065,
+    "user": "嘟嘟_53x95bov",
+    "phone": "132****26bc",
+    "battery_product_id": 23081001,
+    "status": "working",
+    "activate_date": "2026-09-17",
+    "stop_date": "--",
+    "create_date": "2026-09-17"
+   },
+   {
+    "id": 70026091736064,
+    "user": "嘟嘟_ea86xkz2",
+    "phone": "181****3af5",
+    "battery_product_id": 23081001,
+    "status": "working",
+    "activate_date": "2026-09-17",
+    "stop_date": "--",
+    "create_date": "2026-09-17"
+   },
+   {
+    "id": 70026091736063,
+    "user": "嘟嘟_8ss2rr9l",
+    "phone": "183****8408",
+    "battery_product_id": 23081002,
+    "status": "wait_activate",
+    "activate_date": "--",
+    "stop_date": "--",
+    "create_date": "2026-09-17"
+   },
+   {
+    "id": 70026091736062,
+    "user": "嘟嘟_mq8isrfh",
+    "phone": "189****30bc",
+    "battery_product_id": 23081002,
+    "status": "wait_activate",
+    "activate_date": "--",
+    "stop_date": "--",
+    "create_date": "2026-09-17"
+   },
+   {
+    "id": 70026091736061,
+    "user": "嘟嘟_nlfwwgfs",
+    "phone": "199****4c08",
+    "battery_product_id": 23081002,
+    "status": "wait_activate",
+    "activate_date": "--",
+    "stop_date": "--",
+    "create_date": "2026-09-17"
+   },
+   {
+    "id": 70026091636060,
+    "user": "嘟嘟_nk0at0e2",
+    "phone": "158****68c0",
+    "battery_product_id": 23081002,
+    "status": "working",
+    "activate_date": "2026-09-16",
+    "stop_date": "--",
+    "create_date": "2026-09-16"
+   },
+   {
+    "id": 70026091636059,
+    "user": "嘟嘟_o8482kr3",
+    "phone": "152****18e2",
+    "battery_product_id": 23081001,
+    "status": "wait_activate",
+    "activate_date": "--",
+    "stop_date": "--",
+    "create_date": "2026-09-16"
+   },
+   {
+    "id": 70026091636058,
+    "user": "嘟嘟_0sna0p9e",
+    "phone": "158****3650",
+    "battery_product_id": 23081001,
+    "status": "wait_activate",
+    "activate_date": "--",
+    "stop_date": "--",
+    "create_date": "2026-09-16"
+   },
+   {
+    "id": 70026091636057,
+    "user": "嘟嘟_0sna0p9e",
+    "phone": "158****3650",
+    "battery_product_id": 23081001,
+    "status": "cancelled",
+    "activate_date": "--",
+    "stop_date": "2026-09-16",
+    "create_date": "2026-09-16"
+   },
+   {
+    "id": 70026091636056,
+    "user": "嘟嘟_zh1v3gkb",
+    "phone": "199****879b",
+    "battery_product_id": 23081001,
+    "status": "working",
+    "activate_date": "2026-09-16",
+    "stop_date": "--",
+    "create_date": "2026-09-16"
+   },
+   {
+    "id": 70026091636055,
+    "user": "嘟嘟_n6urqzf0",
+    "phone": "157****e039",
+    "battery_product_id": 2310251102,
+    "status": "working",
+    "activate_date": "2026-09-16",
+    "stop_date": "--",
+    "create_date": "2026-09-16"
+   },
+   {
+    "id": 70026091636054,
+    "user": "葫芦_q6jzc6oa",
+    "phone": "188****52d5",
+    "battery_product_id": 2510291125,
+    "status": "wait_activate",
+    "activate_date": "--",
+    "stop_date": "--",
+    "create_date": "2026-09-16"
+   },
+   {
+    "id": 70026091636053,
+    "user": "嘟嘟_mlj5tpl4",
+    "phone": "159****04ac",
+    "battery_product_id": 23081002,
+    "status": "wait_activate",
+    "activate_date": "--",
+    "stop_date": "--",
+    "create_date": "2026-09-16"
+   },
+   {
+    "id": 70026091636052,
+    "user": "嘟嘟_fnzk43vx",
+    "phone": "187****b3a6",
+    "battery_product_id": 2310251102,
+    "status": "working",
+    "activate_date": "2026-09-16",
+    "stop_date": "--",
+    "create_date": "2026-09-16"
+   },
+   {
+    "id": 70026091636051,
+    "user": "嘟嘟_sjqhjr9p",
+    "phone": "130****575c",
+    "battery_product_id": 2310251102,
+    "status": "working",
+    "activate_date": "2026-09-16",
+    "stop_date": "--",
+    "create_date": "2026-09-16"
+   },
+   {
+    "id": 70026091636050,
+    "user": "嘟嘟_j27oyvim",
+    "phone": "155****2552",
+    "battery_product_id": 2310251102,
+    "status": "working",
+    "activate_date": "2026-09-16",
+    "stop_date": "--",
+    "create_date": "2026-09-16"
+   },
+   {
+    "id": 70026091636049,
+    "user": "嘟嘟_n6urqzf0",
+    "phone": "157****e039",
+    "battery_product_id": 2310251102,
+    "status": "cancelled",
+    "activate_date": "--",
+    "stop_date": "2026-09-16",
+    "create_date": "2026-09-16"
+   },
+   {
+    "id": 70026091636048,
+    "user": "嘟嘟_5sruywf0",
+    "phone": "180****291c",
+    "battery_product_id": 2310251102,
+    "status": "working",
+    "activate_date": "2026-09-16",
+    "stop_date": "--",
+    "create_date": "2026-09-16"
+   },
+   {
+    "id": 70026091636047,
+    "user": "嘟嘟_c9tb27ha",
+    "phone": "186****88c1",
+    "battery_product_id": 2310251102,
+    "status": "working",
+    "activate_date": "2026-09-16",
+    "stop_date": "--",
+    "create_date": "2026-09-16"
+   },
+   {
+    "id": 70026091636046,
+    "user": "嘟嘟_th70r3pk",
+    "phone": "185****ddee",
+    "battery_product_id": 23081001,
+    "status": "wait_activate",
+    "activate_date": "--",
+    "stop_date": "--",
+    "create_date": "2026-09-16"
+   },
+   {
+    "id": 70026091636045,
+    "user": "嘟嘟_pzv9n9v4",
+    "phone": "177****cbaf",
+    "battery_product_id": 2310251102,
+    "status": "working",
+    "activate_date": "2026-09-16",
+    "stop_date": "--",
+    "create_date": "2026-09-16"
+   },
+   {
+    "id": 70026091636044,
+    "user": "嘟嘟_3jr1v034",
+    "phone": "176****25b8",
+    "battery_product_id": 23081002,
+    "status": "wait_activate",
+    "activate_date": "--",
+    "stop_date": "--",
+    "create_date": "2026-09-16"
+   },
+   {
+    "id": 70026091636043,
+    "user": "嘟嘟_p3isui66",
+    "phone": "187****3781",
+    "battery_product_id": 23081001,
+    "status": "stop",
+    "activate_date": "2026-09-16",
+    "stop_date": "2026-09-17",
+    "create_date": "2026-09-16"
+   },
+   {
+    "id": 70026091636042,
+    "user": "嘟嘟_6xvj12aj",
+    "phone": "185****2364",
+    "battery_product_id": 2310251102,
+    "status": "working",
+    "activate_date": "2026-09-16",
+    "stop_date": "--",
+    "create_date": "2026-09-16"
+   },
+   {
+    "id": 70026091636041,
+    "user": "嘟嘟_2gjuwfm7",
+    "phone": "189****eb97",
+    "battery_product_id": 23081001,
+    "status": "working",
+    "activate_date": "2026-09-16",
+    "stop_date": "--",
+    "create_date": "2026-09-16"
+   },
+   {
+    "id": 70026091636040,
+    "user": "嘟嘟_gnqr7d6b",
+    "phone": "195****a539",
+    "battery_product_id": 23081001,
+    "status": "wait_activate",
+    "activate_date": "--",
+    "stop_date": "--",
+    "create_date": "2026-09-16"
+   },
+   {
+    "id": 70026091636039,
+    "user": "嘟嘟_x87efbd9",
+    "phone": "198****632e",
+    "battery_product_id": 23081001,
+    "status": "working",
+    "activate_date": "2026-09-16",
+    "stop_date": "--",
+    "create_date": "2026-09-16"
+   },
+   {
+    "id": 70026091636038,
+    "user": "嘟嘟_cmbg8rqw",
+    "phone": "131****a1f3",
+    "battery_product_id": 23081001,
+    "status": "working",
+    "activate_date": "2026-09-16",
+    "stop_date": "--",
+    "create_date": "2026-09-16"
+   },
+   {
+    "id": 70026091636037,
+    "user": "嘟嘟_wx3cpk05",
+    "phone": "199****150e",
+    "battery_product_id": 2310251102,
+    "status": "working",
+    "activate_date": "2026-09-16",
+    "stop_date": "--",
+    "create_date": "2026-09-16"
+   },
+   {
+    "id": 70026091636036,
+    "user": "嘟嘟_318egnum",
+    "phone": "176****c57a",
+    "battery_product_id": 2310251102,
+    "status": "working",
+    "activate_date": "2026-09-16",
+    "stop_date": "--",
+    "create_date": "2026-09-16"
+   },
+   {
+    "id": 70026091636035,
+    "user": "嘟嘟_fnzk43vx",
+    "phone": "187****b3a6",
+    "battery_product_id": 2310251102,
+    "status": "cancelled",
+    "activate_date": "--",
+    "stop_date": "2026-09-16",
+    "create_date": "2026-09-16"
+   },
+   {
+    "id": 70026091636034,
+    "user": "嘟嘟_j27oyvim",
+    "phone": "155****2552",
+    "battery_product_id": 2310251102,
+    "status": "cancelled",
+    "activate_date": "--",
+    "stop_date": "2026-09-16",
+    "create_date": "2026-09-16"
+   },
+   {
+    "id": 70026091636033,
+    "user": "嘟嘟_g6jx3137",
+    "phone": "133****bb35",
+    "battery_product_id": 2310251102,
+    "status": "wait_activate",
+    "activate_date": "--",
+    "stop_date": "--",
+    "create_date": "2026-09-16"
+   },
+   {
+    "id": 70026091636032,
+    "user": "嘟嘟_k3x7pgex",
+    "phone": "188****a7a6",
+    "battery_product_id": 2310251102,
+    "status": "working",
+    "activate_date": "2026-09-16",
+    "stop_date": "--",
+    "create_date": "2026-09-16"
+   },
+   {
+    "id": 70026091636031,
+    "user": "嘟嘟_n6urqzf0",
+    "phone": "157****e039",
+    "battery_product_id": 2310251102,
+    "status": "cancelled",
+    "activate_date": "--",
+    "stop_date": "2026-09-16",
+    "create_date": "2026-09-16"
+   },
+   {
+    "id": 70026091636030,
+    "user": "嘟嘟_pvi7bgdm",
+    "phone": "151****d81a",
+    "battery_product_id": 2310251102,
+    "status": "wait_activate",
+    "activate_date": "--",
+    "stop_date": "--",
+    "create_date": "2026-09-16"
+   }
+  ],
+  "packages": [
+   {
+    "id": 2609141560,
+    "name": "美团100%电量包核销",
+    "category": "on",
+    "price": 0.0,
+    "real_fee": 5.9,
+    "term": "--",
+    "status": "on",
+    "power": 100
+   },
+   {
+    "id": 2609101559,
+    "name": "2026教师节专用",
+    "category": "on",
+    "price": 0.0,
+    "real_fee": 76.0,
+    "term": "--",
+    "status": "on",
+    "power": 3200
+   },
+   {
+    "id": 2609101558,
+    "name": "202609教师节专用",
+    "category": "on",
+    "price": 0.0,
+    "real_fee": 37.0,
+    "term": "--",
+    "status": "off",
+    "power": 3200
+   },
+   {
+    "id": 2608271557,
+    "name": "BJ100%电量",
+    "category": "on",
+    "price": 0.0,
+    "real_fee": 4.9,
+    "term": "--",
+    "status": "on",
+    "power": 100
+   },
+   {
+    "id": 2608271556,
+    "name": "BJ换电3年套餐专用28800%电量",
+    "category": "on",
+    "price": 0.0,
+    "real_fee": 480.0,
+    "term": "--",
+    "status": "on",
+    "power": 28800
+   },
+   {
+    "id": 2608271555,
+    "name": "BJ换电3年套餐专用28800%电量",
+    "category": "on",
+    "price": 0.0,
+    "real_fee": 380.0,
+    "term": "--",
+    "status": "off",
+    "power": 28800
+   },
+   {
+    "id": 2608271554,
+    "name": "BJ换电年套餐专用9600%电量",
+    "category": "on",
+    "price": 0.0,
+    "real_fee": 169.0,
+    "term": "--",
+    "status": "on",
+    "power": 9600
+   },
+   {
+    "id": 2608271553,
+    "name": "BJ换电月套餐专用800%电量",
+    "category": "on",
+    "price": 0.0,
+    "real_fee": 29.0,
+    "term": "--",
+    "status": "on",
+    "power": 800
+   },
+   {
+    "id": 2608271552,
+    "name": "深圳租车-429电量包",
+    "category": "on",
+    "price": 0.0,
+    "real_fee": 0.0,
+    "term": "--",
+    "status": "on",
+    "power": 8000
+   },
+   {
+    "id": 2608261551,
+    "name": "深圳租车-月租429电量包（旧）",
+    "category": "on",
+    "price": 0.0,
+    "real_fee": 0.0,
+    "term": "--",
+    "status": "on",
+    "power": 8000
+   },
+   {
+    "id": 2608241550,
+    "name": "深圳租车-7天500%电量包",
+    "category": "on",
+    "price": 0.0,
+    "real_fee": 29.5,
+    "term": "--",
+    "status": "on",
+    "power": 500
+   },
+   {
+    "id": 2608201549,
+    "name": "深圳租车-2天-99元含600%电量包",
+    "category": "on",
+    "price": 0.0,
+    "real_fee": 35.4,
+    "term": "--",
+    "status": "on",
+    "power": 600
+   },
+   {
+    "id": 2608191548,
+    "name": "阳朔4824-5000%电量包",
+    "category": "on",
+    "price": 0.0,
+    "real_fee": 250.0,
+    "term": "--",
+    "status": "on",
+    "power": 5000
+   },
+   {
+    "id": 2608141547,
+    "name": "美团6000%电量卡",
+    "category": "on",
+    "price": 0.0,
+    "real_fee": 300.0,
+    "term": "--",
+    "status": "on",
+    "power": 6000
+   },
+   {
+    "id": 2608131546,
+    "name": "【客服赠送】1000%电量",
+    "category": "on",
+    "price": 0.0,
+    "real_fee": 59.0,
+    "term": "--",
+    "status": "off",
+    "power": 1000
+   },
+   {
+    "id": 2608131545,
+    "name": "客服赠送-7天-1000%",
+    "category": "on",
+    "price": 0.0,
+    "real_fee": 59.0,
+    "term": "--",
+    "status": "on",
+    "power": 1000
+   },
+   {
+    "id": 2608131544,
+    "name": "【客服赠送】1000%电量",
+    "category": "on",
+    "price": 0.0,
+    "real_fee": 39.0,
+    "term": "--",
+    "status": "off",
+    "power": 1000
+   },
+   {
+    "id": 2608131543,
+    "name": "客服赠送-7天-1000%电量包",
+    "category": "on",
+    "price": 0.0,
+    "real_fee": 39.0,
+    "term": "--",
+    "status": "on",
+    "power": 1000
+   },
+   {
+    "id": 2608131542,
+    "name": "客服赠送-1天-1000%电量包",
+    "category": "on",
+    "price": 0.0,
+    "real_fee": 39.0,
+    "term": "--",
+    "status": "on",
+    "power": 1000
+   },
+   {
+    "id": 2608131541,
+    "name": "客服赠送-1天-1000%电量包",
+    "category": "on",
+    "price": 0.0,
+    "real_fee": 59.0,
+    "term": "--",
+    "status": "on",
+    "power": 1000
+   },
+   {
+    "id": 2608131540,
+    "name": "客服赠送-7天-1000%电量包",
+    "category": "on",
+    "price": 0.0,
+    "real_fee": 59.0,
+    "term": "--",
+    "status": "on",
+    "power": 1000
+   },
+   {
+    "id": 2608111539,
+    "name": "客服赠送-200%电量",
+    "category": "on",
+    "price": 0.0,
+    "real_fee": 11.8,
+    "term": "--",
+    "status": "on",
+    "power": 200
+   },
+   {
+    "id": 2608101538,
+    "name": "149元-8000%电量-30天有效期",
+    "category": "on",
+    "price": 0.0,
+    "real_fee": 149.0,
+    "term": "--",
+    "status": "off",
+    "power": 8000
+   },
+   {
+    "id": 2608031537,
+    "name": "500%电量",
+    "category": "on",
+    "price": 0.0,
+    "real_fee": 19.9,
+    "term": "--",
+    "status": "on",
+    "power": 500
+   },
+   {
+    "id": 2608031536,
+    "name": "宁河环卫专用年卡",
+    "category": "on",
+    "price": 0.0,
+    "real_fee": 1435.0,
+    "term": "--",
+    "status": "on",
+    "power": 60000
+   },
+   {
+    "id": 2608031535,
+    "name": "宁河环卫专用季卡",
+    "category": "on",
+    "price": 0.0,
+    "real_fee": 360.0,
+    "term": "--",
+    "status": "on",
+    "power": 15000
+   },
+   {
+    "id": 2608031534,
+    "name": "宁河环卫专用月卡",
+    "category": "on",
+    "price": 0.0,
+    "real_fee": 120.0,
+    "term": "--",
+    "status": "on",
+    "power": 5000
+   },
+   {
+    "id": 2608011533,
+    "name": "企业客户30天1组电池（110元/组）",
+    "category": "on",
+    "price": 0.0,
+    "real_fee": 80.0,
+    "term": "--",
+    "status": "on",
+    "power": 2500
+   },
+   {
+    "id": 2607221532,
+    "name": "福田消防198辆车企业团购电量包",
+    "category": "on",
+    "price": 0.0,
+    "real_fee": 36462.0,
+    "term": "--",
+    "status": "on",
+    "power": 618000
+   },
+   {
+    "id": 2607211531,
+    "name": "客勤专用100%电量（30天）",
+    "category": "on",
+    "price": 0.0,
+    "real_fee": 4.9,
+    "term": "--",
+    "status": "on",
+    "power": 100
+   },
+   {
+    "id": 2607201530,
+    "name": "阳朔4824电量补充包-13000%（新）",
+    "category": "on",
+    "price": 0.0,
+    "real_fee": 0.0,
+    "term": "--",
+    "status": "on",
+    "power": 13000
+   },
+   {
+    "id": 2607201529,
+    "name": "阳朔4824电量补充包-13000%",
+    "category": "on",
+    "price": 0.0,
+    "real_fee": 515.0,
+    "term": "--",
+    "status": "off",
+    "power": 13000
+   },
+   {
+    "id": 2607201528,
+    "name": "阳朔4824电量补充包-13000%",
+    "category": "on",
+    "price": 0.0,
+    "real_fee": 650.0,
+    "term": "--",
+    "status": "on",
+    "power": 13000
+   },
+   {
+    "id": 2607201527,
+    "name": "阳朔4824-8000%电量包",
+    "category": "on",
+    "price": 0.0,
+    "real_fee": 400.0,
+    "term": "--",
+    "status": "off",
+    "power": 8000
+   },
+   {
+    "id": 2607161526,
+    "name": "企业客户30天10组电池（110元/组）",
+    "category": "on",
+    "price": 0.0,
+    "real_fee": 1070.0,
+    "term": "--",
+    "status": "on",
+    "power": 25000
+   },
+   {
+    "id": 2607161525,
+    "name": "企业客户30天10组电池（110元/组）",
+    "category": "on",
+    "price": 0.0,
+    "real_fee": 155.0,
+    "term": "--",
+    "status": "off",
+    "power": 25000
+   },
+   {
+    "id": 2607021524,
+    "name": "校园套餐120天3500%电量",
+    "category": "on",
+    "price": 0.0,
+    "real_fee": 49.0,
+    "term": "--",
+    "status": "on",
+    "power": 3500
+   },
+   {
+    "id": 2606171523,
+    "name": "葫芦出行618专项电量套餐",
+    "category": "on",
+    "price": 0.0,
+    "real_fee": 245.0,
+    "term": "--",
+    "status": "on",
+    "power": 5000
+   },
+   {
+    "id": 2606121522,
+    "name": "福田消防救援队企业团购-2年电量包",
+    "category": "on",
+    "price": 0.0,
+    "real_fee": 379960.0,
+    "term": "--",
+    "status": "on",
+    "power": 6440000
+   },
+   {
+    "id": 2606111521,
+    "name": "1000%电量套餐",
+    "category": "on",
+    "price": 0.0,
+    "real_fee": 22.9,
+    "term": "--",
+    "status": "on",
+    "power": 1100
+   }
+  ],
+  "payments": [
+   {
+    "pay_id": 2609393878,
+    "user": "葫芦_9zuvw4hz",
+    "type": "exchangeServiceOrder",
+    "amount": 39.0,
+    "fee": 39.0,
+    "status": "SUCCESS",
+    "time": "2026-09-17 15:07:00"
+   },
+   {
+    "pay_id": 2609393877,
+    "user": "嘟嘟_uxk4lks7",
+    "type": "rentViolatedOrder",
+    "amount": 3.0,
+    "fee": 3.0,
+    "status": "SUCCESS",
+    "time": "2026-09-17 14:49:57"
+   },
+   {
+    "pay_id": 2609393876,
+    "user": "嘟嘟_r5gz7ukp",
+    "type": "rentViolatedOrder",
+    "amount": 3.0,
+    "fee": 3.0,
+    "status": "SUCCESS",
+    "time": "2026-09-17 13:50:06"
+   },
+   {
+    "pay_id": 2609393875,
+    "user": "嘟嘟_td5qxqer",
+    "type": "rentViolatedOrder",
+    "amount": 6.0,
+    "fee": 6.0,
+    "status": "SUCCESS",
+    "time": "2026-09-17 13:30:51"
+   },
+   {
+    "pay_id": 2609393874,
+    "user": "嘟嘟_vuri98an",
+    "type": "rentViolatedOrder",
+    "amount": 3.0,
+    "fee": 3.0,
+    "status": "SUCCESS",
+    "time": "2026-09-17 12:57:57"
+   },
+   {
+    "pay_id": 2609393873,
+    "user": "饭丶小稀",
+    "type": "exchangeServiceOrder",
+    "amount": 3.9,
+    "fee": 3.9,
+    "status": "SUCCESS",
+    "time": "2026-09-17 12:24:57"
+   },
+   {
+    "pay_id": 2609393872,
+    "user": "嘟嘟_seihxcz8",
+    "type": "rentViolatedOrder",
+    "amount": 3.0,
+    "fee": 3.0,
+    "status": "SUCCESS",
+    "time": "2026-09-17 12:20:53"
+   },
+   {
+    "pay_id": 2609393871,
+    "user": "嘟嘟_mqye3bjx",
+    "type": "rentViolatedOrder",
+    "amount": 3.0,
+    "fee": 3.0,
+    "status": "SUCCESS",
+    "time": "2026-09-17 12:06:49"
+   },
+   {
+    "pay_id": 2609393870,
+    "user": "嘟嘟_wa0gtzn4",
+    "type": "rentViolatedOrder",
+    "amount": 3.0,
+    "fee": 3.0,
+    "status": "SUCCESS",
+    "time": "2026-09-17 12:02:40"
+   },
+   {
+    "pay_id": 2609393869,
+    "user": "嘟嘟_f4o7hznv",
+    "type": "rentViolatedOrder",
+    "amount": 6.0,
+    "fee": 6.0,
+    "status": "SUCCESS",
+    "time": "2026-09-17 11:55:19"
+   },
+   {
+    "pay_id": 2609393868,
+    "user": "智换_p8pczti7",
+    "type": "exchangeServiceOrder",
+    "amount": 199.0,
+    "fee": 199.0,
+    "status": "SUCCESS",
+    "time": "2026-09-17 11:51:06"
+   },
+   {
+    "pay_id": 2609393867,
+    "user": "嘟嘟_vad75987",
+    "type": "exchangeServiceOrder",
+    "amount": 3.9,
+    "fee": 3.9,
+    "status": "SUCCESS",
+    "time": "2026-09-17 11:33:48"
+   },
+   {
+    "pay_id": 2609393866,
+    "user": "嘟嘟_v12ivx30",
+    "type": "rentViolatedOrder",
+    "amount": 24.0,
+    "fee": 24.0,
+    "status": "SUCCESS",
+    "time": "2026-09-17 10:54:55"
+   },
+   {
+    "pay_id": 2609393865,
+    "user": "嘟嘟_6mm0sn3q",
+    "type": "rentViolatedOrder",
+    "amount": 3.0,
+    "fee": 3.0,
+    "status": "SUCCESS",
+    "time": "2026-09-17 10:42:10"
+   },
+   {
+    "pay_id": 2609393864,
+    "user": "嘟嘟_vktuaxqq",
+    "type": "rentViolatedOrder",
+    "amount": 9.0,
+    "fee": 9.0,
+    "status": "SUCCESS",
+    "time": "2026-09-17 10:29:28"
+   },
+   {
+    "pay_id": 2609393863,
+    "user": "嘟嘟_mp777xv0",
+    "type": "rentViolatedOrder",
+    "amount": 6.0,
+    "fee": 6.0,
+    "status": "SUCCESS",
+    "time": "2026-09-17 10:15:49"
+   },
+   {
+    "pay_id": 2609393862,
+    "user": "嘟嘟_8hm2w0yt",
+    "type": "exchangeServiceOrder",
+    "amount": 3.9,
+    "fee": 3.9,
+    "status": "SUCCESS",
+    "time": "2026-09-17 10:13:35"
+   },
+   {
+    "pay_id": 2609393861,
+    "user": "嘟嘟_8hm2w0yt",
+    "type": "rentViolatedOrder",
+    "amount": 3.0,
+    "fee": 3.0,
+    "status": "SUCCESS",
+    "time": "2026-09-17 10:13:18"
+   },
+   {
+    "pay_id": 2609393860,
+    "user": "嘟嘟_gtu4am3v",
+    "type": "rentViolatedOrder",
+    "amount": 3.0,
+    "fee": 3.0,
+    "status": "SUCCESS",
+    "time": "2026-09-17 09:37:09"
+   },
+   {
+    "pay_id": 2609393859,
+    "user": "嘟嘟_p6y4qmhn",
+    "type": "rentViolatedOrder",
+    "amount": 3.0,
+    "fee": 3.0,
+    "status": "SUCCESS",
+    "time": "2026-09-17 08:48:04"
+   },
+   {
+    "pay_id": 2609393858,
+    "user": "嘟嘟_48pulwdi",
+    "type": "rentViolatedOrder",
+    "amount": 1.2,
+    "fee": 1.2,
+    "status": "SUCCESS",
+    "time": "2026-09-17 08:35:19"
+   },
+   {
+    "pay_id": 2609393857,
+    "user": "嘟嘟_xjzyja2n",
+    "type": "rentViolatedOrder",
+    "amount": 3.0,
+    "fee": 3.0,
+    "status": "SUCCESS",
+    "time": "2026-09-17 08:23:56"
+   },
+   {
+    "pay_id": 2609393856,
+    "user": "嘟嘟_xsomvnek",
+    "type": "exchangeServiceOrder",
+    "amount": 16.9,
+    "fee": 16.9,
+    "status": "SUCCESS",
+    "time": "2026-09-17 07:51:57"
+   },
+   {
+    "pay_id": 2609393855,
+    "user": "嘟嘟_b76477sw",
+    "type": "rentViolatedOrder",
+    "amount": 3.0,
+    "fee": 3.0,
+    "status": "SUCCESS",
+    "time": "2026-09-17 07:38:26"
+   },
+   {
+    "pay_id": 2609393854,
+    "user": "嘟嘟_9akqr4iu",
+    "type": "rentViolatedOrder",
+    "amount": 6.0,
+    "fee": 6.0,
+    "status": "SUCCESS",
+    "time": "2026-09-17 07:34:20"
+   },
+   {
+    "pay_id": 2609393853,
+    "user": "嘟嘟_ciky0i4z",
+    "type": "rentViolatedOrder",
+    "amount": 3.0,
+    "fee": 3.0,
+    "status": "SUCCESS",
+    "time": "2026-09-17 07:30:34"
+   },
+   {
+    "pay_id": 2609393852,
+    "user": "嘟嘟_cikz3e0f",
+    "type": "rentViolatedOrder",
+    "amount": 3.0,
+    "fee": 3.0,
+    "status": "SUCCESS",
+    "time": "2026-09-17 06:37:46"
+   },
+   {
+    "pay_id": 2609393851,
+    "user": "嘟嘟_n233axx7",
+    "type": "exchangeServiceOrder",
+    "amount": 35.0,
+    "fee": 35.0,
+    "status": "SUCCESS",
+    "time": "2026-09-17 06:28:11"
+   },
+   {
+    "pay_id": 2609393850,
+    "user": "嘟嘟_wfvldk7f",
+    "type": "rentViolatedOrder",
+    "amount": 3.0,
+    "fee": 3.0,
+    "status": "SUCCESS",
+    "time": "2026-09-17 06:17:21"
+   },
+   {
+    "pay_id": 2609393849,
+    "user": "嘟嘟_1ka5ny6n",
+    "type": "rentViolatedOrder",
+    "amount": 3.0,
+    "fee": 3.0,
+    "status": "SUCCESS",
+    "time": "2026-09-17 06:09:16"
+   },
+   {
+    "pay_id": 2609393848,
+    "user": "嘟嘟_j4tr6qo5",
+    "type": "exchangeServiceOrder",
+    "amount": 35.0,
+    "fee": 35.0,
+    "status": "SUCCESS",
+    "time": "2026-09-17 05:33:36"
+   },
+   {
+    "pay_id": 2609393847,
+    "user": "嘟嘟_f33q76qw",
+    "type": "exchangeServiceOrder",
+    "amount": 5.9,
+    "fee": 5.9,
+    "status": "SUCCESS",
+    "time": "2026-09-17 03:07:37"
+   },
+   {
+    "pay_id": 2609393846,
+    "user": "嘟嘟_hd82xo3v",
+    "type": "rentViolatedOrder",
+    "amount": 3.0,
+    "fee": 3.0,
+    "status": "SUCCESS",
+    "time": "2026-09-17 02:32:09"
+   },
+   {
+    "pay_id": 2609393845,
+    "user": "嘟嘟_kc2anjli",
+    "type": "rentViolatedOrder",
+    "amount": 3.0,
+    "fee": 3.0,
+    "status": "SUCCESS",
+    "time": "2026-09-17 02:12:40"
+   },
+   {
+    "pay_id": 2609393844,
+    "user": "嘟嘟_gd7jl4od",
+    "type": "exchangeServiceOrder",
+    "amount": 3.9,
+    "fee": 3.9,
+    "status": "SUCCESS",
+    "time": "2026-09-17 01:52:50"
+   },
+   {
+    "pay_id": 2609393843,
+    "user": "嘟嘟_p7w9lw4s",
+    "type": "rentViolatedOrder",
+    "amount": 3.0,
+    "fee": 3.0,
+    "status": "SUCCESS",
+    "time": "2026-09-17 00:53:21"
+   },
+   {
+    "pay_id": 2609393842,
+    "user": "葫芦_gh60y9bv",
+    "type": "exchangeServiceOrder",
+    "amount": 41.0,
+    "fee": 41.0,
+    "status": "SUCCESS",
+    "time": "2026-09-17 00:30:31"
+   },
+   {
+    "pay_id": 2609393841,
+    "user": "嘟嘟_8bendswm",
+    "type": "rentViolatedOrder",
+    "amount": 3.0,
+    "fee": 3.0,
+    "status": "SUCCESS",
+    "time": "2026-09-17 00:22:57"
+   },
+   {
+    "pay_id": 2609393840,
+    "user": "嘟嘟_zrvk8rqz",
+    "type": "rentViolatedOrder",
+    "amount": 3.0,
+    "fee": 3.0,
+    "status": "SUCCESS",
+    "time": "2026-09-17 00:13:12"
+   },
+   {
+    "pay_id": 2609393839,
+    "user": "嘟嘟_ekyb9qp6",
+    "type": "rentViolatedOrder",
+    "amount": 9.0,
+    "fee": 9.0,
+    "status": "SUCCESS",
+    "time": "2026-09-17 00:12:18"
+   },
+   {
+    "pay_id": 2609393838,
+    "user": "嘟嘟_wa0gtzn4",
+    "type": "rentViolatedOrder",
+    "amount": 0.0,
+    "fee": 3.0,
+    "status": "TRADE_CLOSED",
+    "time": "2026-09-16 23:55:02"
+   },
+   {
+    "pay_id": 2609393837,
+    "user": "嘟嘟_jb3v7e3y",
+    "type": "rentViolatedOrder",
+    "amount": 3.0,
+    "fee": 3.0,
+    "status": "SUCCESS",
+    "time": "2026-09-16 23:52:23"
+   },
+   {
+    "pay_id": 2609393836,
+    "user": "172****6310",
+    "type": "exchangeServiceOrder",
+    "amount": 59.0,
+    "fee": 59.0,
+    "status": "SUCCESS",
+    "time": "2026-09-16 23:29:30"
+   },
+   {
+    "pay_id": 2609393835,
+    "user": "嘟嘟_chnftyor",
+    "type": "rentViolatedOrder",
+    "amount": 9.0,
+    "fee": 9.0,
+    "status": "SUCCESS",
+    "time": "2026-09-16 22:56:22"
+   },
+   {
+    "pay_id": 2609393834,
+    "user": "嘟嘟_wetlv1fv",
+    "type": "rentViolatedOrder",
+    "amount": 3.0,
+    "fee": 3.0,
+    "status": "SUCCESS",
+    "time": "2026-09-16 22:40:44"
+   },
+   {
+    "pay_id": 2609393833,
+    "user": "155****f611",
+    "type": "exchangeServiceOrder",
+    "amount": 402.0,
+    "fee": 402.0,
+    "status": "SUCCESS",
+    "time": "2026-09-16 22:08:00"
+   },
+   {
+    "pay_id": 2609393832,
+    "user": "嘟嘟_ctdfrzbk",
+    "type": "rentViolatedOrder",
+    "amount": 6.0,
+    "fee": 6.0,
+    "status": "SUCCESS",
+    "time": "2026-09-16 21:57:34"
+   },
+   {
+    "pay_id": 2609393831,
+    "user": "183****1074",
+    "type": "exchangeServiceOrder",
+    "amount": 16.9,
+    "fee": 16.9,
+    "status": "SUCCESS",
+    "time": "2026-09-16 21:05:14"
+   },
+   {
+    "pay_id": 2609393830,
+    "user": "嘟嘟_lwvsgppm",
+    "type": "rentViolatedOrder",
+    "amount": 3.0,
+    "fee": 3.0,
+    "status": "SUCCESS",
+    "time": "2026-09-16 20:21:26"
+   },
+   {
+    "pay_id": 2609393829,
+    "user": "嘟嘟_e1w5d3wf",
+    "type": "exchangeServiceOrder",
+    "amount": 48.9,
+    "fee": 48.9,
+    "status": "SUCCESS",
+    "time": "2026-09-16 20:04:27"
+   },
+   {
+    "pay_id": 2609393828,
+    "user": "嘟嘟_lxctvahx",
+    "type": "exchangeServiceOrder",
+    "amount": 3.9,
+    "fee": 3.9,
+    "status": "SUCCESS",
+    "time": "2026-09-16 19:48:13"
+   },
+   {
+    "pay_id": 2609393827,
+    "user": "嘟嘟_wl474juv",
+    "type": "rentViolatedOrder",
+    "amount": 1.2,
+    "fee": 1.2,
+    "status": "SUCCESS",
+    "time": "2026-09-16 19:38:23"
+   },
+   {
+    "pay_id": 2609393826,
+    "user": "嘟嘟_k6dnz759",
+    "type": "exchangeServiceOrder",
+    "amount": 3.9,
+    "fee": 3.9,
+    "status": "SUCCESS",
+    "time": "2026-09-16 18:56:35"
+   },
+   {
+    "pay_id": 2609393825,
+    "user": "嘟嘟_uxk4lks7",
+    "type": "rentViolatedOrder",
+    "amount": 6.0,
+    "fee": 6.0,
+    "status": "SUCCESS",
+    "time": "2026-09-16 18:53:17"
+   },
+   {
+    "pay_id": 2609393824,
+    "user": "嘟嘟_qyb8rz8m",
+    "type": "rentViolatedOrder",
+    "amount": 0.0,
+    "fee": 3.0,
+    "status": "TRADE_CLOSED",
+    "time": "2026-09-16 17:55:58"
+   },
+   {
+    "pay_id": 2609393823,
+    "user": "嘟嘟_qyb8rz8m",
+    "type": "rentViolatedOrder",
+    "amount": 0.0,
+    "fee": 3.0,
+    "status": "TRADE_CLOSED",
+    "time": "2026-09-16 17:55:51"
+   },
+   {
+    "pay_id": 2609393822,
+    "user": "嘟嘟_eabf3pf0",
+    "type": "exchangeServiceOrder",
+    "amount": 3.9,
+    "fee": 3.9,
+    "status": "SUCCESS",
+    "time": "2026-09-16 17:47:10"
+   },
+   {
+    "pay_id": 2609393821,
+    "user": "嘟嘟_eabf3pf0",
+    "type": "rentViolatedOrder",
+    "amount": 6.0,
+    "fee": 6.0,
+    "status": "SUCCESS",
+    "time": "2026-09-16 17:46:29"
+   },
+   {
+    "pay_id": 2609393820,
+    "user": "嘟嘟_wcg9v2jb",
+    "type": "rentViolatedOrder",
+    "amount": 3.0,
+    "fee": 3.0,
+    "status": "SUCCESS",
+    "time": "2026-09-16 17:26:55"
+   },
+   {
+    "pay_id": 2609393819,
+    "user": "嘟嘟_6mm0sn3q",
+    "type": "exchangeServiceOrder",
+    "amount": 3.9,
+    "fee": 3.9,
+    "status": "SUCCESS",
+    "time": "2026-09-16 17:26:05"
+   }
+  ],
+  "user_vehicles": [],
+  "cabinets": [],
+  "cells": [],
+  "alarms": [],
+  "procurement": [],
+  "expense_items": [],
+  "revenue_items": [],
+  "revenue_shares": [],
+  "coupon_agent_stats": [],
+  "coupon_codes": [],
+  "user_coupons": [],
+  "people": [],
+  "fee_names": [],
+  "electricity_bills": [],
+  "transactions": []
+ },
+ "assets_ext": {
+  "total_cabinets": 7479,
+  "total_batteries": 75281,
+  "asset_ledger": [
+   {
+    "name": "换电柜",
+    "value": 7479
+   },
+   {
+    "name": "电池",
+    "value": 75281
+   }
+  ],
+  "warehouse_cabinets": null,
+  "warehouse_ratio": null,
+  "slot_12": null,
+  "slot_6": null,
+  "slot_4": null,
+  "slot_3": null,
+  "sodium_batteries": null,
+  "normal_batteries_4824": null,
+  "normal_batteries_4814": null,
+  "procurement_funnel": [],
+  "procurement_status": [],
+  "brand_ratio_ext": []
+ },
+ "revenue": {
+  "kpis": {
+   "month_revenue": 42970.8,
+   "arpu": 79.7,
+   "pay_conv_ratio": null,
+   "month_active_ratio": 0.2,
+   "renew_ratio": null,
+   "churn_ratio": null,
+   "advance_balance": null,
+   "refund_rate": null,
+   "bad_debt_rate": null,
+   "new_discount": null,
+   "renew_price_gap": null,
+   "long_term_ratio_3y": null,
+   "net_new_users": null,
+   "ltv": null
+  },
+  "month_revenue": 42970.8,
+  "revenue_mix_ext": [
+   {
+    "name": "exchangeServiceOrder",
+    "value": 5219778.4
+   },
+   {
+    "name": "CouponConvertCodeOrder",
+    "value": 2536397.0
+   },
+   {
+    "name": "exchangeDepositOrder",
+    "value": 759384.3
+   },
+   {
+    "name": "rentViolatedOrder",
+    "value": 550851.3
+   },
+   {
+    "name": "contractSchemeOrder",
+    "value": 476094.4
+   },
+   {
+    "name": "exchangeOrder",
+    "value": 144598.9
+   },
+   {
+    "name": "goodsBook",
+    "value": 10316.1
+   },
+   {
+    "name": "materielGoods",
+    "value": 1823.2
+   },
+   {
+    "name": "EarningBalanceTopUPOrder",
+    "value": 67.3
+   },
+   {
+    "name": "exchangePackage",
+    "value": 0.0
+   }
+  ],
+  "user_scale": {
+   "registered": 348186,
+   "paid": 539,
+   "active": 539
+  },
+  "month_orders": 0
+ },
+ "expense": {
+  "kpis": {
+   "month_cost": null,
+   "cost_income_ratio": null,
+   "electric_ratio": null,
+   "share_ratio": null,
+   "opex_ratio": null,
+   "cac": null,
+   "cac_ltv": null,
+   "mttr_hours": null,
+   "month_capex_dep": null,
+   "software_ratio": null
+  },
+  "electricity": {
+   "month_usage_wh": 97646070,
+   "month_usage_kwh": 97646.1
+  },
+  "month_cost": null
+ },
+ "efficiency": {
+  "site_layer": [
+   {
+    "name": "换电柜",
+    "value": 7479
+   },
+   {
+    "name": "车行网点",
+    "value": 3134
+   }
+  ],
+  "site_count": 3134,
+  "avg_cabinet_per_site": 2.4,
+  "daily_exchanges": 0,
+  "city_site_ratio": [],
+  "expand_speed": [],
+  "full_rate": null,
+  "tier": [],
+  "tier_metrics": [],
+  "revenue": null
+ },
+ "industry": {
+  "market_size": [
+   {
+    "year": "2020",
+    "value": 62
+   },
+   {
+    "year": "2021",
+    "value": 95
+   },
+   {
+    "year": "2022",
+    "value": 142
+   },
+   {
+    "year": "2023",
+    "value": 205
+   },
+   {
+    "year": "2024",
+    "value": 285
+   },
+   {
+    "year": "2025",
+    "value": 378
+   },
+   {
+    "year": "2026E",
+    "value": 480
+   }
+  ],
+  "penetration": [
+   {
+    "year": "2022",
+    "value": 3.2
+   },
+   {
+    "year": "2023",
+    "value": 5.1
+   },
+   {
+    "year": "2024",
+    "value": 7.6
+   },
+   {
+    "year": "2025",
+    "value": 10.8
+   },
+   {
+    "year": "2026E",
+    "value": 14.5
+   }
+  ],
+  "policy_milestones": [
+   {
+    "time": "2022-08",
+    "event": "《电动自行车安全技术规范》修订推动换电合规化"
+   },
+   {
+    "time": "2023-06",
+    "event": "多地出台两轮车换电补贴政策（深圳/杭州等）"
+   },
+   {
+    "time": "2024-01",
+    "event": "换电柜进入消防验收目录，行业标准趋严"
+   },
+   {
+    "time": "2025-05",
+    "event": "共享换电联盟成立，统一电池接口协议"
+   }
+  ],
+  "competition": [
+   {
+    "name": "中国铁塔",
+    "cabinets": 48000,
+    "share": 32.0
+   },
+   {
+    "name": "哈啰换电",
+    "cabinets": 22000,
+    "share": 15.0
+   },
+   {
+    "name": "e换电",
+    "cabinets": 18000,
+    "share": 12.0
+   },
+   {
+    "name": "青桔换电",
+    "cabinets": 12000,
+    "share": 8.0
+   },
+   {
+    "name": "本项目",
+    "cabinets": 6260,
+    "share": 4.2
+   }
+  ],
+  "tech_route": [
+   {
+    "name": "磷酸铁锂",
+    "value": 65
+   },
+   {
+    "name": "三元锂",
+    "value": 28
+   },
+   {
+    "name": "钠电试点",
+    "value": 7
+   }
+  ],
+  "industry_insights": [
+   "换电渗透率快速提升，2026E 预计达 14.5%，市场空间约 480 亿元。",
+   "头部玩家以通信基站/共享出行场景切入，本地化网格运营是差异化关键。",
+   "钠电池试点推进，低温性能与成本优势有望在中长尾场景放量。"
+  ]
+ },
+ "meta": {
+  "snapshot_time": "2026-09-17 15:12:11",
+  "source": "live-collect",
+  "db_connected": true,
+  "db_host": "db.example.com",
+  "warnings": [],
+  "collect_time": "2026-09-17 15:12:03",
+  "note": "真实库采集：sharing-citybike-pro 各业务表；金额分->元；时间戳毫秒->日期；车辆行驶里程源 zc_bike_ride_log.distance(米)，当前库无骑行数据时显示 0；industry 为外部行业研究数据"
+ }
+}

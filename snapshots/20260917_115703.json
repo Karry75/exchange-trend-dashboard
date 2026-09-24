@@ -1,0 +1,14 @@
+{
+ "overview": {
+  "kpis": {
+   "total_cabinets": 7479,
+   "cabinets_online": 6052,
+   "online_rate": 80.9,
+   "total_batteries": 75281,
+   "battery_per_cabinet": 10.1,
+   "warehouse_ratio": null,
+   "total_users": 348137,
+   "active_users": 0,
+   "month_new_users": 3406,
+   "month_churn_rate": null,
+   "month_revenue": 
