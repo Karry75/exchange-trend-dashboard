@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>电动自行车换电行业趋势发展综合分析看板</title>
+<link rel="icon" type="image/svg+xml" href="static/favicon.svg">
+<link rel="stylesheet" href="static/css/style.css">
+</head>
+<body>
+<div class="app">
+  <!-- 顶部 -->
+  <header class="topbar">
+    <div class="brand">
+      <div class="brand-logo">⚡</div>
+      <div>
+        <div class="brand-title">电动自行车换电行业趋势发展综合分析平台</div>
+        <div class="brand-sub">Battery Swapping Industry Intelligence Dashboard</div>
+      </div>
+    </div>
+    <div class="topbar-right">
+      <div class="snapshot-badge" id="snapshotBadge">
+        <span class="dot" id="snapDot"></span>
+        <span id="snapText">加载中...</span>
+      </div>
+      <div class="port-badge">静态快照</div>
+    </div>
+  </header>
+
+  <!-- Tab 导航 -->
+  <nav class="tabs" id="tabs">
+    <button class="tab active" data-tab="overview">总览驾驶舱</button>
+    <button class="tab" data-tab="assets">设备资产</button>
+    <button class="tab" data-tab="users">用户与套餐</button>
+    <button class="tab" data-tab="operations">运营数据</button>
+    <button class="tab" data-tab="sites">场景点位</button>
+    <button class="tab" data-tab="finance">经营财务</button>
+    <button class="tab" data-tab="efficiency">运营效率</button>
+    <button class="tab" data-tab="digital">数字化与运维</button>
+    <button class="tab" data-tab="iot">物联网平台</button>
+    <button class="tab" data-tab="maps">三大地图</button>
+    <button class="tab" data-tab="industry">行业趋势</button>
+    <button class="tab" data-tab="about">数据说明</button>
+  </nav>
+
+  <!-- 页面主体 -->
+  <main class="content">
+
+    <!-- ============ 总览驾驶舱 ============ -->
+    <section class="panel active" id="panel-overview">
+      <div class="kpi-grid" id="ovKpis"></div>
+      <div class="grid grid-2">
+        <div class="card"><div class="card-title">收入 / 成本 / 净利润趋势（近12个月）</div><div class="chart" id="ovRevenueTrend"></div></div>
+        <div class="card"><div class="card-title">月度订单量趋势</div><div class="chart" id="ovOrderTrend"></div></div>
+        <div class="card"><div class="card-title">设备城市分布</div><div class="chart" id="ovCityDist"></div></div>
+        <div class="card"><div class="card-title">设备类型结构（柜 / 电池）</div><div class="chart" id="ovDeviceType"></div></div>
+        <div class="card"><div class="card-title">用户城市分布</div><div class="chart" id="ovUserCity"></div></div>
+        <div class="card"><div class="card-title">核心业务健康度雷达</div><div class="chart" id="ovHealth"></div></div>
+      </div>
+    </section>
+
+    <!-- ============ 设备资产 ============ -->
+    <section class="panel" id="panel-assets">
+      <div class="kpi-grid" id="asKpis"></div>
+      <div class="grid grid-2">
+        <div class="card"><div class="card-title">柜型结构（12口/6口/4口/3口）</div><div class="chart" id="asCabinetSlot"></div></div>
+        <div class="card"><div class="card-title">电池型号结构（4824 / 4814 / 钠电）</div><div class="chart" id="asBatteryType"></div></div>
+        <div class="card"><div class="card-title">交付状态漏斗（采购→交付→安装→上线→运营）</div><div class="chart" id="asFunnel"></div></div>
+        <div class="card"><div class="card-title">上线率 / 在线设备数趋势</div><div class="chart" id="asOnlineTrend"></div></div>
+        <div class="card"><div class="card-title">采购-交付-安装-上线状态差异</div><div class="chart" id="asProcStatus"></div></div>
+        <div class="card"><div class="card-title">品牌型号构成（含消防路线）</div><div class="chart" id="asBrandExt"></div></div>
+        <div class="card"><div class="card-title">消防技术路线（水消防 vs 气溶胶）</div><div class="chart" id="asFire"></div></div>
+        <div class="card"><div class="card-title">供应商集中度趋势</div><div class="chart" id="asSupplier"></div></div>
+        <div class="card"><div class="card-title">柜型采购单价（元）</div><div class="chart" id="asCabPrice"></div></div>
+        <div class="card"><div class="card-title">采购均价趋势（柜 / 电池）</div><div class="chart" id="asPrice"></div></div>
+        <div class="card"><div class="card-title">融资结构</div><div class="chart" id="asFinancing"></div></div>
+        <div class="card"><div class="card-title">各批次设备投放时间分布</div><div class="chart" id="asBatch"></div></div>
+        <div class="card"><div class="card-title">设备使用年限结构</div><div class="chart" id="asAge"></div></div>
+        <div class="card"><div class="card-title">电池健康度 SOH 分布</div><div class="chart" id="asSoh"></div></div>
+        <div class="card"><div class="card-title">电池循环次数分布</div><div class="chart" id="asCycle"></div></div>
+        <div class="card"><div class="card-title">设备老化速度趋势</div><div class="chart" id="asAging"></div></div>
+        <div class="card"><div class="card-title">各城市单柜回本周期（月）</div><div class="chart" id="asPayback"></div></div>
+        <div class="card"><div class="card-title">回本周期变化趋势</div><div class="chart" id="asPaybackTrend"></div></div>
+      </div>
+    </section>
+
+    <!-- ============ 用户与套餐 ============ -->
+    <section class="panel" id="panel-users">
+      <div class="kpi-grid" id="usKpis"></div>
+      <div class="grid grid-2">
+        <div class="card"><div class="card-title">用户规模趋势</div><div class="chart" id="usUserTrend"></div></div>
+        <div class="card"><div class="card-title">月度新增 / 流失用户</div><div class="chart" id="usNewChurn"></div></div>
+        <div class="card"><div class="card-title">套餐用户结构（租期档位）</div><div class="chart" id="usPackage"></div></div>
+        <div class="card"><div class="card-title">各套餐收入占比（%）</div><div class="chart" id="usPackageRev"></div></div>
+        <div class="card"><div class="card-title">用户生命周期漏斗</div><div class="chart" id="usFunnel"></div></div>
+        <div class="card"><div class="card-title">套餐月均换电 vs 设计次数</div><div class="chart" id="usIntensity"></div></div>
+        <div class="card"><div class="card-title">换电频次分层（高/中/低频）</div><div class="chart" id="usFreqTier"></div></div>
+        <div class="card"><div class="card-title">激活到首次换电时长分布</div><div class="chart" id="usFirst"></div></div>
+      </div>
+      <div class="card"><div class="card-title">套餐生命周期明细表</div><div class="table-wrap"><table class="data-table" id="usPkgTable"></table></div></div>
+    </section>
+
+    <!-- ============ 运营数据 ============ -->
+    <section class="panel" id="panel-operations">
+      <div class="kpi-grid" id="opKpis"></div>
+      <div class="grid grid-2">
+        <div class="card"><div class="card-title">月度订单量趋势</div><div class="chart" id="opOrderMonth"></div></div>
+        <div class="card"><div class="card-title">近30日订单量</div><div class="chart" id="opOrderDaily"></div></div>
+        <div class="card"><div class="card-title">单柜日均订单分布</div><div class="chart" id="opPerCabinet"></div></div>
+        <div class="card"><div class="card-title">24小时换电时段分布（%）</div><div class="chart" id="opHourly"></div></div>
+        <div class="card"><div class="card-title">平均换电周期分布（天）</div><div class="chart" id="opCycle"></div></div>
+        <div class="card"><div class="card-title">故障类型占比</div><div class="chart" id="opFault"></div></div>
+        <div class="card"><div class="card-title">设备在线率趋势（近6个月）</div><div class="chart" id="opOnline"></div></div>
+        <div class="card"><div class="card-title">低效 / 僵尸 / 长期离线设备占比</div><div class="chart" id="opIneff"></div></div>
+      </div>
+    </section>
+
+    <!-- ============ 场景点位 ============ -->
+    <section class="panel" id="panel-sites">
+      <div class="kpi-grid" id="stKpis"></div>
+      <div class="grid grid-2">
+        <div class="card"><div class="card-title">场景类型设备分布</div><div class="chart" id="stSceneDist"></div></div>
+        <div class="card"><div class="card-title">各场景单柜日均订单 & 盈亏达成率</div><div class="chart" id="stSceneEff"></div></div>
+        <div class="card"><div class="card-title">城市点位与设备规模</div><div class="chart" id="stCity"></div></div>
+        <div class="card"><div class="card-title">点位合作期限结构</div><div class="chart" id="stTerms"></div></div>
+        <div class="card"><div class="card-title">协议到期分布（季度）</div><div class="chart" id="stExpiry"></div></div>
+        <div class="card"><div class="card-title">场地方分成模式占比</div><div class="chart" id="stShare"></div></div>
+        <div class="card"><div class="card-title">点位分级：月收入 vs 毛利率</div><div class="chart" id="stTier"></div></div>
+        <div class="card"><div class="card-title">点位合作质量指标</div><div class="chart" id="stQuality"></div></div>
+      </div>
+    </section>
+
+    <!-- ============ 经营财务（收入+支出专项） ============ -->
+    <section class="panel" id="panel-finance">
+      <div class="kpi-grid" id="fnKpis"></div>
+      <div class="grid grid-2">
+        <div class="card"><div class="card-title">月度收入 / 成本 / 净利（近12个月）</div><div class="chart" id="fnPnl"></div></div>
+        <div class="card"><div class="card-title">收入构成（%）</div><div class="chart" id="fnRevMix"></div></div>
+        <div class="card"><div class="card-title">成本结构（%）</div><div class="chart" id="fnCost"></div></div>
+        <div class="card"><div class="card-title">各城市盈亏平衡达成率（%）</div><div class="chart" id="fnBreakeven"></div></div>
+        <div class="card"><div class="card-title">单柜单位经济模型</div><div class="chart" id="fnPerCabinet"></div></div>
+        <div class="card"><div class="card-title">CAC / LTV 经济性</div><div class="chart" id="fnCacLtv"></div></div>
+        <div class="card"><div class="card-title">套餐收入结构（%）</div><div class="chart" id="fnPkgRev"></div></div>
+        <div class="card"><div class="card-title">套餐 ARPU / 换电频次</div><div class="chart" id="fnPkgArpu"></div></div>
+        <div class="card"><div class="card-title">收入质量：预收款杠杆</div><div class="chart" id="fnPrepay"></div></div>
+        <div class="card"><div class="card-title">退款原因分布</div><div class="chart" id="fnRefund"></div></div>
+        <div class="card"><div class="card-title">CAPEX 构成（柜 / 电池 / 安装）</div><div class="chart" id="fnCapex"></div></div>
+        <div class="card"><div class="card-title">电池/柜体实际寿命 vs 理论</div><div class="chart" id="fnLife"></div></div>
+        <div class="card"><div class="card-title">电费成本趋势与城市分布</div><div class="chart" id="fnElec"></div></div>
+        <div class="card"><div class="card-title">分成模式结构与成本趋势</div><div class="chart" id="fnShare"></div></div>
+        <div class="card"><div class="card-title">获客成本趋势与渠道结构</div><div class="chart" id="fnAcq"></div></div>
+        <div class="card"><div class="card-title">运维成本与平台成本趋势</div><div class="chart" id="fnOpPlat"></div></div>
+        <div class="card"><div class="card-title">员工激励与门店返佣</div><div class="chart" id="fnIncen"></div></div>
+        <div class="card"><div class="card-title">套餐成本与毛利率</div><div class="chart" id="fnPkgCost"></div></div>
+        <div class="card"><div class="card-title">其他支出结构</div><div class="chart" id="fnOther"></div></div>
+        <div class="card"><div class="card-title">定价对照（竞品基准）</div><div class="chart" id="fnPricing"></div></div>
+      </div>
+    </section>
+
+    <!-- ============ 运营效率 ============ -->
+    <section class="panel" id="panel-efficiency">
+      <div class="kpi-grid" id="efKpis"></div>
+      <div class="grid grid-2">
+        <div class="card"><div class="card-title">网点扩张速度</div><div class="chart" id="efExpand"></div></div>
+        <div class="card"><div class="card-title">各类型网点日均换电次数</div><div class="chart" id="efSiteExch"></div></div>
+        <div class="card"><div class="card-title">网点满仓率（峰/平/谷）</div><div class="chart" id="efFull"></div></div>
+        <div class="card"><div class="card-title">点位分级占比</div><div class="chart" id="efTier"></div></div>
+        <div class="card"><div class="card-title">各等级点位收入与毛利率</div><div class="chart" id="efTierMetric"></div></div>
+        <div class="card"><div class="card-title">电池状态分布（在柜/满电/在途/维修）</div><div class="chart" id="efBatteryStatus"></div></div>
+        <div class="card"><div class="card-title">换电失败率趋势</div><div class="chart" id="efFailTrend"></div></div>
+        <div class="card"><div class="card-title">用户换电频次趋势（月均/人）</div><div class="chart" id="efFreqTrend"></div></div>
+        <div class="card"><div class="card-title">换电频次分层（高/中/低频）</div><div class="chart" id="efFreqTier"></div></div>
+        <div class="card"><div class="card-title">换电时段分布（%）</div><div class="chart" id="efHour"></div></div>
+        <div class="card"><div class="card-title">激活到首次换电时长</div><div class="chart" id="efFirst"></div></div>
+        <div class="card"><div class="card-title">用户留存曲线（12个月）</div><div class="chart" id="efRetention"></div></div>
+        <div class="card"><div class="card-title">换电地点偏好</div><div class="chart" id="efLocPref"></div></div>
+        <div class="card"><div class="card-title">流失原因分类</div><div class="chart" id="efChurn"></div></div>
+      </div>
+    </section>
+
+    <!-- ============ 数字化与运维 ============ -->
+    <section class="panel" id="panel-digital">
+      <div class="kpi-grid" id="dgKpis"></div>
+      <div class="grid grid-2">
+        <div class="card"><div class="card-title">数字化系统能力评分（%）</div><div class="chart" id="dgCap"></div></div>
+        <div class="card"><div class="card-title">物联网平台关键指标</div><div class="chart" id="dgIot"></div></div>
+        <div class="card"><div class="card-title">运维能力关键指标</div><div class="chart" id="dgOm"></div></div>
+        <div class="card"><div class="card-title">运维模式结构（自营 / 外包）</div><div class="chart" id="dgMode"></div></div>
+        <div class="card"><div class="card-title">告警到工单生成时长（分钟）</div><div class="chart" id="dgAlarm"></div></div>
+        <div class="card"><div class="card-title">工单闭环流程效率</div><div class="chart" id="dgWorkflow"></div></div>
+      </div>
+    </section>
+
+    <!-- ============ 物联网平台（图片指标） ============ -->
+    <section class="panel" id="panel-iot">
+      <div class="kpi-grid" id="ioKpis"></div>
+      <div class="grid grid-2">
+        <div class="card"><div class="card-title">电站省份分布（%）</div><div class="chart" id="ioProvince"></div></div>
+        <div class="card"><div class="card-title">电芯状态分布</div><div class="chart" id="ioCellStatus"></div></div>
+        <div class="card"><div class="card-title">电池电压分布</div><div class="chart" id="ioVoltage"></div></div>
+        <div class="card"><div class="card-title">电池电量 SOC 分布</div><div class="chart" id="ioSoc"></div></div>
+        <div class="card"><div class="card-title">告警数量趋势（近6个月）</div><div class="chart" id="ioAlarmTrend"></div></div>
+        <div class="card"><div class="card-title">电池管理状态汇总（ADR/通讯/电压/SOC/温度）</div><div class="chart" id="ioManage"></div></div>
+      </div>
+      <div class="card"><div class="card-title">电池实时参数明细（物联网平台）</div><div class="table-wrap"><table class="data-table" id="ioBatTable"></table></div></div>
+      <div class="card"><div class="card-title">电芯状态明细</div><div class="table-wrap"><table class="data-table" id="ioCellTable"></table></div></div>
+      <div class="card"><div class="card-title">告警明细</div><div class="table-wrap"><table class="data-table" id="ioAlarmTable"></table></div></div>
+    </section>
+
+    <!-- ============ 三大地图 ============ -->
+    <section class="panel" id="panel-maps">
+      <div class="card"><div class="card-title">设备密集地图（换电柜 + 电池）— 点击城市查看明细</div><div class="chart chart-map" id="mpDevice"></div></div>
+      <div class="card"><div class="card-title">用户车辆密集地图 — 点击城市查看明细</div><div class="chart chart-map" id="mpUser"></div></div>
+      <div class="card"><div class="card-title">网点密集地图 — 点击城市查看明细</div><div class="chart chart-map" id="mpSite"></div></div>
+    </section>
+
+    <!-- ============ 行业趋势 ============ -->
+    <section class="panel" id="panel-industry">
+      <div class="grid grid-2">
+        <div class="card"><div class="card-title">中国电动两轮车换电市场规模（亿元）</div><div class="chart" id="inMarket"></div></div>
+        <div class="card"><div class="card-title">换电渗透率趋势（%）</div><div class="chart" id="inPenetration"></div></div>
+        <div class="card full"><div class="card-title">行业政策里程碑</div><div class="timeline" id="inPolicy"></div></div>
+        <div class="card"><div class="card-title">竞争格局：换电柜规模与份额</div><div class="chart" id="inCompetition"></div></div>
+        <div class="card"><div class="card-title">电池技术路线结构</div><div class="chart" id="inTech"></div></div>
+        <div class="card"><div class="card-title">行业趋势洞察</div><div class="insight-list" id="inInsights"></div></div>
+      </div>
+    </section>
+
+    <!-- ============ 数据说明 ============ -->
+    <section class="panel" id="panel-about">
+      <div class="grid grid-2">
+        <div class="card"><div class="card-title">数据快照信息</div><div class="about-block" id="abMeta"></div></div>
+        <div class="card"><div class="card-title">快照归档列表</div><div class="about-block" id="abArchives"></div></div>
+        <div class="card full"><div class="card-title">看板能力与离线机制</div><div class="about-block" id="abGuide"></div></div>
+        <div class="card full"><div class="card-title">指标口径说明</div><div class="about-block" id="abCaliper"></div></div>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="footer">
+    数据快照驱动 · 离线可用 · 换电行业综合分析 | Powered by Marvis
+  </footer>
+</div>
+
+<!-- 明细下钻弹窗 -->
+<div class="modal-mask" id="detailModal">
+  <div class="modal-box">
+    <div class="modal-head">
+      <span class="modal-title" id="modalTitle">明细</span>
+      <button class="modal-close" id="modalClose">✕</button>
+    </div>
+    <div class="modal-body">
+      <div class="modal-filters" id="modalFilters"></div>
+      <div class="table-wrap"><table class="data-table" id="modalTable"></table></div>
+    </div>
+  </div>
+</div>
+
+<script src="static/js/echarts.min.js"></script>
+<script src="static/js/app.js"></script>
+</body>
+</html>
